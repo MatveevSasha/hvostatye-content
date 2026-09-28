@@ -601,6 +601,386 @@
         "title": "Hummel Vedor vd Robandahoeve.jpg",
         "changes": "WebP, 640 × 427; без дополнительного кадрирования."
       }
+    },
+    {
+      "id": "1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be",
+      "name": "Французский бульдог",
+      "description": "Небольшая, крепко сложенная собака-компаньон с короткой шерстью и стоячими ушами. Французский бульдог сочетает компактный корпус с развитой мускулатурой; стандарт отмечает его общительность и игривость.",
+      "country": "Франция",
+      "traits": "Общительность, живость, игривость.",
+      "source": {
+        "title": "FCI · официальный стандарт №101",
+        "url": "https://www.fci.be/Nomenclature/Standards/101g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be-v1.webp",
+        "author": "Ildar Sagdejev (Specious)",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008-07-28_Dog_at_Frolick_Field.jpg",
+        "title": "2008-07-28 Dog at Frolick Field.jpg",
+        "changes": "WebP, 640 × 475; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "0a8e3eb0-8a37-4734-ad51-c3002c18fd19",
+      "name": "Английский бульдог",
+      "description": "Коренастая гладкошёрстная собака с широкой грудью, мощными конечностями и крупной головой. За суровым выражением английского бульдога стандарт отмечает привязанность к близким и надёжный, смелый характер.",
+      "country": "Великобритания",
+      "traits": "Привязанность к семье, смелость, решительность.",
+      "source": {
+        "title": "FCI · официальный стандарт №149",
+        "url": "https://www.fci.be/Nomenclature/Standards/149g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/0a8e3eb0-8a37-4734-ad51-c3002c18fd19-v1.webp",
+        "author": "KAZ (Pixabay)",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:English_Bulldog_-Dog-220489-1280.jpg",
+        "title": "English Bulldog -Dog-220489-1280.jpg",
+        "changes": "WebP, 640 × 465; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "a6ea38ed-f692-478e-af29-378d0e2cc270",
+      "name": "Мопс",
+      "description": "Компактная собака-компаньон почти квадратного формата, с короткой шерстью и выразительными тёмными глазами. Мопс выглядит крепким и мускулистым; стандарт подчёркивает его живой и уравновешенный нрав.",
+      "country": "Китай",
+      "traits": "Живость, уравновешенность, понятливость.",
+      "source": {
+        "title": "FCI · официальный стандарт №253",
+        "url": "https://www.fci.be/Nomenclature/Standards/253g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/a6ea38ed-f692-478e-af29-378d0e2cc270-v1.webp",
+        "author": "Xidrep",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+        "title": "Mops-duke-mopszucht-vom-maegdebrunnen.jpg",
+        "changes": "WebP, 640 × 425; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "eb5988dd-6ffe-453f-9ded-206c9a9026ed",
+      "name": "Немецкий дог",
+      "description": "Очень крупная собака с длинными конечностями, выразительной головой и гармоничным, мощным корпусом. Немецкий дог сочетает внушительный размер с элегантностью; к близким он описан как дружелюбный и преданный.",
+      "country": "Германия",
+      "traits": "Преданность, уверенность, сдержанность с незнакомыми.",
+      "source": {
+        "title": "FCI · официальный стандарт №235",
+        "url": "https://www.fci.be/Nomenclature/Standards/235g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/eb5988dd-6ffe-453f-9ded-206c9a9026ed-v1.webp",
+        "author": "Sannse (English Wikipedia)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Dane_600.jpg",
+        "title": "Great Dane 600.jpg",
+        "changes": "WebP, 536 × 640; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "8950e2cc-9a30-49b2-8d47-041e9109ea35",
+      "name": "Кане-корсо",
+      "description": "Крупная итальянская рабочая собака с короткой шерстью, широкой головой и сильной, сухой мускулатурой. Кане-корсо связан с охраной хозяйства и скота; для него характерны подвижность и быстрая реакция.",
+      "country": "Италия",
+      "traits": "Бдительность, подвижность, быстрая реакция.",
+      "source": {
+        "title": "FCI · официальный стандарт №343",
+        "url": "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/8950e2cc-9a30-49b2-8d47-041e9109ea35-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Italian_Corso_Dog_grey_male_1.jpg",
+        "title": "Italian Corso Dog grey male 1.jpg",
+        "changes": "WebP, 640 × 423; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "22ec7c8e-9339-45b1-b524-54caa7570760",
+      "name": "Шарпей",
+      "description": "Компактная собака среднего размера с короткой жёсткой шерстью, маленькими ушами и широкой мордой. Шарпей происходит из южного Китая; стандарт описывает его как спокойного, самостоятельного и привязанного к своей семье.",
+      "country": "Китай",
+      "traits": "Самостоятельность, спокойствие, привязанность к семье.",
+      "source": {
+        "title": "FCI · официальный стандарт №309",
+        "url": "https://www.fci.be/Nomenclature/Standards/309g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/22ec7c8e-9339-45b1-b524-54caa7570760-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Traditional_Shar_Pei.jpg",
+        "title": "Traditional Shar Pei.jpg",
+        "changes": "WebP, 640 × 620; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "3e4912ab-bf3c-40cd-8eb9-be1e5999179b",
+      "name": "Бассет-хаунд",
+      "description": "Низкорослая, основательно сложенная гончая с длинными ушами и короткой гладкой шерстью. Несмотря на приземистый вид, бассет-хаунд — рабочая собака, для которой важны подвижность и выносливость.",
+      "country": "Великобритания",
+      "traits": "Настойчивость в работе по следу, спокойствие, привязчивость.",
+      "source": {
+        "title": "FCI · официальный стандарт №163",
+        "url": "https://www.fci.be/Nomenclature/Standards/163g06-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/3e4912ab-bf3c-40cd-8eb9-be1e5999179b-v1.webp",
+        "author": "Cali1008",
+        "license": "Общественное достояние",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:BassetHound_profil.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BassetHound_profil.jpg",
+        "title": "BassetHound profil.jpg",
+        "changes": "WebP, 560 × 373; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "89e06189-4e3c-43a3-9494-16073e888fc0",
+      "name": "Ирландский красный сеттер",
+      "description": "Атлетичная ирландская легавая с насыщенной каштановой шерстью и длинными очёсами. Красный сеттер создавался для охоты на дичь и сохраняет энергичность, выносливость и выраженную привязанность к человеку.",
+      "country": "Ирландия",
+      "traits": "Энергичность, сообразительность, привязанность к человеку.",
+      "source": {
+        "title": "FCI · официальный стандарт №120",
+        "url": "https://www.fci.be/Nomenclature/Standards/120g07-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/89e06189-4e3c-43a3-9494-16073e888fc0-v1.webp",
+        "author": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Can_Setter_dog_GFDL.jpg",
+        "title": "Can Setter dog GFDL.jpg",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "305408b2-c3a8-4ec8-99f0-33b865dfaeb6",
+      "name": "Грейхаунд",
+      "description": "Крупная короткошёрстная борзая с глубокой грудью, длинной шеей и сильными задними конечностями. Грейхаунд сочетает мускулистость с гибкостью; стандарт описывает его нрав как мягкий и уравновешенный.",
+      "country": "Великобритания",
+      "traits": "Мягкость, уравновешенность, выносливость.",
+      "source": {
+        "title": "FCI · официальный стандарт №158",
+        "url": "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/305408b2-c3a8-4ec8-99f0-33b865dfaeb6-v1.webp",
+        "author": "Neurodoc",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:GraceTheGreyhound.jpg",
+        "title": "GraceTheGreyhound.jpg",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "edf3d596-e83b-4ba1-972b-d1144a39cf3c",
+      "name": "Басенджи",
+      "description": "Лёгкая, высоконогая охотничья собака с тонким костяком, стоячими ушами и плотно закрученным хвостом. Басенджи внимателен и самостоятелен, привязан к близким, но может держаться с незнакомыми сдержанно.",
+      "country": "Центральная Африка",
+      "traits": "Самостоятельность, бдительность, чистоплотность.",
+      "source": {
+        "title": "FCI · официальный стандарт №43",
+        "url": "https://www.fci.be/Nomenclature/Standards/043g05-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/edf3d596-e83b-4ba1-972b-d1144a39cf3c-v1.webp",
+        "author": "fugzu",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basenji_Profile_(loosercrop).jpg",
+        "title": "Basenji Profile (loosercrop).jpg",
+        "changes": "WebP, 640 × 587; без дополнительного кадрирования. Использована ранее кадрированная версия Commons «Basenji Profile (loosercrop)»."
+      }
+    },
+    {
+      "id": "9fbbf2a2-02b2-4e66-982b-5784648a18e5",
+      "name": "Шелти",
+      "description": "Небольшая длинношёрстная пастушья собака с лёгкими движениями, пышным воротником и внимательным выражением. Шелти чутко откликается на владельца; с незнакомыми может быть сдержанной.",
+      "country": "Великобритания",
+      "traits": "Внимательность, чуткость к человеку, активность.",
+      "source": {
+        "title": "FCI · официальный стандарт №88",
+        "url": "https://www.fci.be/Nomenclature/Standards/088g01-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/9fbbf2a2-02b2-4e66-982b-5784648a18e5-v1.webp",
+        "author": "Nick Cowie (nickobec)",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shetland_Sheepdog_sable.jpg",
+        "title": "Shetland Sheepdog sable.jpg",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "5e4d2176-648d-4333-b263-cef04563dee4",
+      "name": "Вест-хайленд-уайт-терьер",
+      "description": "Небольшой крепкий терьер с белой шерстью, стоячими ушами и компактным корпусом. Вест-хайленд-уайт-терьер сочетает живость и самостоятельность с дружелюбным, уверенным поведением.",
+      "country": "Великобритания",
+      "traits": "Самостоятельность, смелость, дружелюбие.",
+      "source": {
+        "title": "FCI · официальный стандарт №85",
+        "url": "https://www.fci.be/Nomenclature/Standards/085g03-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/5e4d2176-648d-4333-b263-cef04563dee4-v1.webp",
+        "author": "Christopher Walker",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_Krakow.jpg",
+        "title": "West Highland White Terrier Krakow.jpg",
+        "changes": "WebP, 640 × 536; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "1460844f-841c-4de8-b788-271aa4d63224",
+      "name": "Эрдельтерьер",
+      "description": "Крупный, мускулистый терьер из Йоркшира с жёсткой шерстью и вытянутой головой. Эрдельтерьер подвижен и внимателен к происходящему; стандарт отмечает уверенность, смелость и дружелюбие.",
+      "country": "Великобритания",
+      "traits": "Уверенность, смелость, внимательность.",
+      "source": {
+        "title": "FCI · официальный стандарт №7",
+        "url": "https://www.fci.be/Nomenclature/Standards/007g03-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/1460844f-841c-4de8-b788-271aa4d63224-v1.webp",
+        "author": "Zuni1520",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airedale-terrier-charles14m.jpg",
+        "title": "Airedale-terrier-charles14m.jpg",
+        "changes": "WebP, 640 × 537; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "521d8c02-32b9-4b50-8f0d-f791b4bfe697",
+      "name": "Мальтезе",
+      "description": "Маленькая собака-компаньон с удлинённым корпусом и очень длинной белой шерстью. Мальтезе, или мальтийская болонка, держит голову гордо; стандарт описывает её как ласковую, живую и понятливую.",
+      "country": "Центральное Средиземноморье; патронаж Италии",
+      "traits": "Ласковость, живость, понятливость.",
+      "source": {
+        "title": "FCI · официальный стандарт №65",
+        "url": "https://www.fci.be/Nomenclature/Standards/065g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/521d8c02-32b9-4b50-8f0d-f791b4bfe697-v1.webp",
+        "author": "Sannse",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Maltese_600.jpg",
+        "title": "Maltese 600.jpg",
+        "changes": "WebP, 600 × 600; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "5ba3c057-7190-42b4-a9dc-209b9b7130ee",
+      "name": "Бишон фризе",
+      "description": "Небольшая собака-компаньон с белой кудрявой шерстью, тёмными глазами и живой походкой. Бишон фризе общителен, привязан к владельцу и, по стандарту, хорошо приспосабливается к разной обстановке.",
+      "country": "Франция и Бельгия",
+      "traits": "Общительность, привязанность, способность приспосабливаться.",
+      "source": {
+        "title": "FCI · официальный стандарт №215",
+        "url": "https://www.fci.be/Nomenclature/Standards/215g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/5ba3c057-7190-42b4-a9dc-209b9b7130ee-v1.webp",
+        "author": "Heike Andres",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bichon_Fris%C3%A9_-_studdogbichon.jpg",
+        "title": "Bichon Frisé - studdogbichon.jpg",
+        "changes": "WebP, 640 × 462; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "e4aa816d-fb22-4841-80c4-b9967c310447",
+      "name": "Ши-тцу",
+      "description": "Крепкая небольшая собака-компаньон с обильной шерстью, широкой головой и горделивой осанкой. Ши-тцу сочетает дружелюбие с самостоятельностью; шерсть на морде придаёт ей характерное выражение.",
+      "country": "Тибет, Китай; патронаж Великобритании",
+      "traits": "Дружелюбие, самостоятельность, живость.",
+      "source": {
+        "title": "FCI · официальный стандарт №208",
+        "url": "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/e4aa816d-fb22-4841-80c4-b9967c310447-v1.webp",
+        "author": "claralieu",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shih_Tzu_Reference_-30.jpg",
+        "title": "Shih Tzu Reference -30.jpg",
+        "changes": "WebP, 566 × 640; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "88591552-b3bd-45fd-931c-5c8b88aad4f2",
+      "name": "Папильон",
+      "description": "Маленький континентальный той-спаниель со стоячими ушами, длинной шерстью и лёгкими движениями. Папильон выглядит изящным, но не хрупким; его корпус немного длиннее высоты в холке.",
+      "country": "Франция и Бельгия",
+      "traits": "Живость, подвижность, изящные движения.",
+      "source": {
+        "title": "FCI · официальный стандарт №77",
+        "url": "https://www.fci.be/Nomenclature/Standards/077g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/88591552-b3bd-45fd-931c-5c8b88aad4f2-v1.webp",
+        "author": "Gvdmoort",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outdoor_Continental_Toy_Spaniel_Papillon.jpeg",
+        "title": "Outdoor Continental Toy Spaniel Papillon.jpeg",
+        "changes": "WebP, 640 × 500; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "2d7be3ac-c72b-4d2f-af62-93a1f1d944f9",
+      "name": "Венгерская короткошёрстная выжла",
+      "description": "Элегантная короткошёрстная легавая среднего размера с рыжевато-золотистой шерстью. Венгерская выжла — универсальная подружейная собака; в работе для неё особенно важен контакт с владельцем.",
+      "country": "Венгрия",
+      "traits": "Контактность, энергичность, дружелюбие.",
+      "source": {
+        "title": "FCI · официальный стандарт №57",
+        "url": "https://www.fci.be/Nomenclature/Standards/057g07-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/2d7be3ac-c72b-4d2f-af62-93a1f1d944f9-v1.webp",
+        "author": "Pleple2000",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wy%C5%BCe%C5%82_w%C4%99gierski_g%C5%82adkow%C5%82osy_500.jpg",
+        "title": "Wyżeł węgierski gładkowłosy 500.jpg",
+        "changes": "WebP, 610 × 640; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "0c6755a1-3877-4933-bc6d-08b8d197cefb",
+      "name": "Бультерьер",
+      "description": "Крепкая, мускулистая собака с необычной яйцевидной головой и энергичным характером. Стандарт бультерьера сочетает требования к уравновешенности и управляемости с указанием на его упрямство и любовь к игре.",
+      "country": "Великобритания",
+      "traits": "Энергичность, игривость, упрямство.",
+      "source": {
+        "title": "FCI · официальный стандарт №11",
+        "url": "https://www.fci.be/Nomenclature/Standards/011g03-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/0c6755a1-3877-4933-bc6d-08b8d197cefb-v1.webp",
+        "author": "TC-TORRES (Pixabay)",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullterrier-3453301920.jpg",
+        "title": "Bullterrier-3453301920.jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
     }
   ],
   "facts": [
@@ -1412,6 +1792,519 @@
       "source": {
         "title": "РКФ · стандарт №153",
         "url": "https://help.rkf.online/ru/knowledge_base/art/1466/cat/19/dalmatin-153"
+      }
+    },
+    {
+      "id": "ru-fact-1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be-01",
+      "text": "Современный тип французского бульдога складывался в парижских кварталах в 1880-х годах. Эти собаки жили у рыночных носильщиков, мясников и кучеров, а затем стали популярны в других кругах.",
+      "breedId": "1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be",
+      "source": {
+        "title": "FCI · официальный стандарт №101",
+        "url": "https://www.fci.be/Nomenclature/Standards/101g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be-02",
+      "text": "Уши французского бульдога по стандарту широкие у основания и закруглённые сверху. Они стоят прямо и раскрыты вперёд.",
+      "breedId": "1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be",
+      "source": {
+        "title": "FCI · официальный стандарт №101",
+        "url": "https://www.fci.be/Nomenclature/Standards/101g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be-03",
+      "text": "Короткий хвост французского бульдога — природная особенность породы. Стандарт описывает его как низко посаженный и сужающийся к кончику.",
+      "breedId": "1fa29da4-8cc9-4f82-9c4d-cd93ee6dd6be",
+      "source": {
+        "title": "FCI · официальный стандарт №101",
+        "url": "https://www.fci.be/Nomenclature/Standards/101g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0a8e3eb0-8a37-4734-ad51-c3002c18fd19-01",
+      "text": "После 1835 года английский бульдог постепенно приобретал современный, более приземистый облик. На выставочный ринг порода вышла в 1860 году.",
+      "breedId": "0a8e3eb0-8a37-4734-ad51-c3002c18fd19",
+      "source": {
+        "title": "FCI · официальный стандарт №149",
+        "url": "https://www.fci.be/Nomenclature/Standards/149g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0a8e3eb0-8a37-4734-ad51-c3002c18fd19-02",
+      "text": "Характерные уши английского бульдога называют «розой»: они отогнуты назад и наружу, так что часть внутренней поверхности уха остаётся видна.",
+      "breedId": "0a8e3eb0-8a37-4734-ad51-c3002c18fd19",
+      "source": {
+        "title": "FCI · официальный стандарт №149",
+        "url": "https://www.fci.be/Nomenclature/Standards/149g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0a8e3eb0-8a37-4734-ad51-c3002c18fd19-03",
+      "text": "У английского бульдога задние конечности немного длиннее передних. Поэтому поясница расположена выше холки — это часть характерного профиля породы.",
+      "breedId": "0a8e3eb0-8a37-4734-ad51-c3002c18fd19",
+      "source": {
+        "title": "FCI · официальный стандарт №149",
+        "url": "https://www.fci.be/Nomenclature/Standards/149g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-a6ea38ed-f692-478e-af29-378d0e2cc270-01",
+      "text": "Европейская история мопса тесно связана с Нидерландами. В Англию порода пришла вместе с восшествием Вильгельма III на престол.",
+      "breedId": "a6ea38ed-f692-478e-af29-378d0e2cc270",
+      "source": {
+        "title": "FCI · официальный стандарт №253",
+        "url": "https://www.fci.be/Nomenclature/Standards/253g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-a6ea38ed-f692-478e-af29-378d0e2cc270-02",
+      "text": "Стандарт мопса описывает два типа ушей — «роза» и «пуговица». У «пуговицы» кончик уха направлен вперёд и прикрывает слуховое отверстие.",
+      "breedId": "a6ea38ed-f692-478e-af29-378d0e2cc270",
+      "source": {
+        "title": "FCI · официальный стандарт №253",
+        "url": "https://www.fci.be/Nomenclature/Standards/253g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-a6ea38ed-f692-478e-af29-378d0e2cc270-03",
+      "text": "Хвост мопса высоко посажен и плотно закручен над бедром. Двойной завиток отмечен в стандарте как особенно желательная особенность.",
+      "breedId": "a6ea38ed-f692-478e-af29-378d0e2cc270",
+      "source": {
+        "title": "FCI · официальный стандарт №253",
+        "url": "https://www.fci.be/Nomenclature/Standards/253g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-eb5988dd-6ffe-453f-9ded-206c9a9026ed-01",
+      "text": "В 1878 году берлинский комитет объединил несколько типов крупных собак под названием Deutsche Doggen. Это стало важным шагом в формировании современной породы.",
+      "breedId": "eb5988dd-6ffe-453f-9ded-206c9a9026ed",
+      "source": {
+        "title": "FCI · официальный стандарт №235",
+        "url": "https://www.fci.be/Nomenclature/Standards/235g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-eb5988dd-6ffe-453f-9ded-206c9a9026ed-02",
+      "text": "У немецкого дога окрас «арлекин» — это чёрные пятна с неровными краями на белом фоне. Мраморный окрас отличается серым фоном с чёрными пятнами.",
+      "breedId": "eb5988dd-6ffe-453f-9ded-206c9a9026ed",
+      "source": {
+        "title": "FCI · официальный стандарт №235",
+        "url": "https://www.fci.be/Nomenclature/Standards/235g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-eb5988dd-6ffe-453f-9ded-206c9a9026ed-03",
+      "text": "По стандарту корпус немецкого дога близок к квадрату, особенно у кобелей. У сук допускается несколько более растянутое сложение.",
+      "breedId": "eb5988dd-6ffe-453f-9ded-206c9a9026ed",
+      "source": {
+        "title": "FCI · официальный стандарт №235",
+        "url": "https://www.fci.be/Nomenclature/Standards/235g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-8950e2cc-9a30-49b2-8d47-041e9109ea35-01",
+      "text": "Когда-то кане-корсо встречался по всей Италии. В более позднее время порода сохранялась главным образом в Апулии и соседних областях юга страны.",
+      "breedId": "8950e2cc-9a30-49b2-8d47-041e9109ea35",
+      "source": {
+        "title": "FCI · официальный стандарт №343",
+        "url": "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-8950e2cc-9a30-49b2-8d47-041e9109ea35-02",
+      "text": "Стандарт связывает название кане-корсо с латинским cohors и ролью защитника хозяйства. В прошлом эти собаки также помогали перегонять скот и использовались на охоте на крупную дичь.",
+      "breedId": "8950e2cc-9a30-49b2-8d47-041e9109ea35",
+      "source": {
+        "title": "FCI · официальный стандарт №343",
+        "url": "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-8950e2cc-9a30-49b2-8d47-041e9109ea35-03",
+      "text": "Кане-корсо бывает не только чёрным: стандарт допускает серые, палевые, рыжие и тигровые окрасы. Небольшие белые отметины на груди и кончиках пальцев также разрешены.",
+      "breedId": "8950e2cc-9a30-49b2-8d47-041e9109ea35",
+      "source": {
+        "title": "FCI · официальный стандарт №343",
+        "url": "https://www.fci.be/Nomenclature/Standards/343g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-22ec7c8e-9339-45b1-b524-54caa7570760-01",
+      "text": "Шарпей происходит из китайских провинций у Южно-Китайского моря. В стандарте вероятным местом происхождения назван город Дайлак в провинции Гуандун.",
+      "breedId": "22ec7c8e-9339-45b1-b524-54caa7570760",
+      "source": {
+        "title": "FCI · официальный стандарт №309",
+        "url": "https://www.fci.be/Nomenclature/Standards/309g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-22ec7c8e-9339-45b1-b524-54caa7570760-02",
+      "text": "Шерсть шарпея короткая, жёсткая и щетинистая, без подшёрстка. На корпусе она заметно отстоит от кожи, а на конечностях обычно прилегает плотнее.",
+      "breedId": "22ec7c8e-9339-45b1-b524-54caa7570760",
+      "source": {
+        "title": "FCI · официальный стандарт №309",
+        "url": "https://www.fci.be/Nomenclature/Standards/309g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-22ec7c8e-9339-45b1-b524-54caa7570760-03",
+      "text": "Обилие складок по всему телу взрослого шарпея не является целью стандарта. На корпусе допускаются умеренные складки в области холки и у основания хвоста.",
+      "breedId": "22ec7c8e-9339-45b1-b524-54caa7570760",
+      "source": {
+        "title": "FCI · официальный стандарт №309",
+        "url": "https://www.fci.be/Nomenclature/Standards/309g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-3e4912ab-bf3c-40cd-8eb9-be1e5999179b-01",
+      "text": "Бассет-хаунд связан с семейством французских бассетов, но современная порода развивалась в Великобритании. Его традиционная работа — длительное преследование зайца в сравнительно медленном темпе.",
+      "breedId": "3e4912ab-bf3c-40cd-8eb9-be1e5999179b",
+      "source": {
+        "title": "FCI · официальный стандарт №163",
+        "url": "https://www.fci.be/Nomenclature/Standards/163g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-3e4912ab-bf3c-40cd-8eb9-be1e5999179b-02",
+      "text": "Бассет-хаунд идёт по запаховому следу и обладает стайным инстинктом. Стандарт отдельно отмечает его глубокий, мелодичный голос.",
+      "breedId": "3e4912ab-bf3c-40cd-8eb9-be1e5999179b",
+      "source": {
+        "title": "FCI · официальный стандарт №163",
+        "url": "https://www.fci.be/Nomenclature/Standards/163g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-3e4912ab-bf3c-40cd-8eb9-be1e5999179b-03",
+      "text": "Длинные уши бассет-хаунда посажены ниже линии глаз. Если вытянуть ухо вперёд, оно лишь немного выходит за кончик морды; чрезмерная длина не требуется.",
+      "breedId": "3e4912ab-bf3c-40cd-8eb9-be1e5999179b",
+      "source": {
+        "title": "FCI · официальный стандарт №163",
+        "url": "https://www.fci.be/Nomenclature/Standards/163g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-89e06189-4e3c-43a3-9494-16073e888fc0-01",
+      "text": "Ирландский красный сеттер происходит от красно-белого сеттера и собак сплошного красного окраса. Самостоятельный узнаваемый тип сложился уже в XVIII веке.",
+      "breedId": "89e06189-4e3c-43a3-9494-16073e888fc0",
+      "source": {
+        "title": "FCI · официальный стандарт №120",
+        "url": "https://www.fci.be/Nomenclature/Standards/120g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-89e06189-4e3c-43a3-9494-16073e888fc0-02",
+      "text": "Породный клуб ирландского красного сеттера основан в 1882 году. Помимо стандарта внешности, в 1998 году он опубликовал описание рабочего стиля породы.",
+      "breedId": "89e06189-4e3c-43a3-9494-16073e888fc0",
+      "source": {
+        "title": "FCI · официальный стандарт №120",
+        "url": "https://www.fci.be/Nomenclature/Standards/120g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-89e06189-4e3c-43a3-9494-16073e888fc0-03",
+      "text": "Каштановая шерсть ирландского красного сеттера не должна иметь чёрного оттенка. При этом небольшие белые отметины на груди, горле и пальцах допускаются стандартом.",
+      "breedId": "89e06189-4e3c-43a3-9494-16073e888fc0",
+      "source": {
+        "title": "FCI · официальный стандарт №120",
+        "url": "https://www.fci.be/Nomenclature/Standards/120g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-305408b2-c3a8-4ec8-99f0-33b865dfaeb6-01",
+      "text": "Современный породный стандарт грейхаунда сложился в Великобритании. Беговые грейхаунды происходят от собак, которых использовали в курсинге — преследовании зайца.",
+      "breedId": "305408b2-c3a8-4ec8-99f0-33b865dfaeb6",
+      "source": {
+        "title": "FCI · официальный стандарт №158",
+        "url": "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-305408b2-c3a8-4ec8-99f0-33b865dfaeb6-02",
+      "text": "Для грейхаунда характерен свободный шаг с низким выносом конечностей. Задние ноги далеко подводятся под корпус и создают мощный толчок.",
+      "breedId": "305408b2-c3a8-4ec8-99f0-33b865dfaeb6",
+      "source": {
+        "title": "FCI · официальный стандарт №158",
+        "url": "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-305408b2-c3a8-4ec8-99f0-33b865dfaeb6-03",
+      "text": "Грейхаунд не обязательно серый: стандарт допускает чёрный, белый, рыжий, голубой, палевый и тигровый окрасы, в том числе в сочетании с белым.",
+      "breedId": "305408b2-c3a8-4ec8-99f0-33b865dfaeb6",
+      "source": {
+        "title": "FCI · официальный стандарт №158",
+        "url": "https://www.fci.be/Nomenclature/Standards/158g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-edf3d596-e83b-4ba1-972b-d1144a39cf3c-01",
+      "text": "Басенджи известен отсутствием обычного лая, но немым его назвать нельзя. Стандарт описывает особый звук, похожий на смесь смешка и йодля.",
+      "breedId": "edf3d596-e83b-4ba1-972b-d1144a39cf3c",
+      "source": {
+        "title": "FCI · официальный стандарт №43",
+        "url": "https://www.fci.be/Nomenclature/Standards/043g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-edf3d596-e83b-4ba1-972b-d1144a39cf3c-02",
+      "text": "У настороженного басенджи на лбу появляются тонкие морщины. У щенков они заметнее; у трёхцветных собак рисунок окраса может делать их менее различимыми.",
+      "breedId": "edf3d596-e83b-4ba1-972b-d1144a39cf3c",
+      "source": {
+        "title": "FCI · официальный стандарт №43",
+        "url": "https://www.fci.be/Nomenclature/Standards/043g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-edf3d596-e83b-4ba1-972b-d1144a39cf3c-03",
+      "text": "Белые отметины на лапах, груди и кончике хвоста входят в описание окраса басенджи. А вот белый воротник и проточина на голове необязательны.",
+      "breedId": "edf3d596-e83b-4ba1-972b-d1144a39cf3c",
+      "source": {
+        "title": "FCI · официальный стандарт №43",
+        "url": "https://www.fci.be/Nomenclature/Standards/043g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-9fbbf2a2-02b2-4e66-982b-5784648a18e5-01",
+      "text": "Когда шелти настораживается, её уши подаются вперёд и становятся полустоячими: кончики остаются наклонёнными. В покое уши могут быть отведены назад.",
+      "breedId": "9fbbf2a2-02b2-4e66-982b-5784648a18e5",
+      "source": {
+        "title": "FCI · официальный стандарт №88",
+        "url": "https://www.fci.be/Nomenclature/Standards/088g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-9fbbf2a2-02b2-4e66-982b-5784648a18e5-02",
+      "text": "Пышная шерсть шелти не должна скрывать очертания тела. Стандарт прямо требует, чтобы шуба подчёркивала силуэт, а не подавляла его.",
+      "breedId": "9fbbf2a2-02b2-4e66-982b-5784648a18e5",
+      "source": {
+        "title": "FCI · официальный стандарт №88",
+        "url": "https://www.fci.be/Nomenclature/Standards/088g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-9fbbf2a2-02b2-4e66-982b-5784648a18e5-03",
+      "text": "Шелти бывает не только соболиной: стандарт также признаёт трёхцветный, голубой мраморный, чёрно-белый и чёрно-подпалый окрасы.",
+      "breedId": "9fbbf2a2-02b2-4e66-982b-5784648a18e5",
+      "source": {
+        "title": "FCI · официальный стандарт №88",
+        "url": "https://www.fci.be/Nomenclature/Standards/088g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5e4d2176-648d-4333-b263-cef04563dee4-01",
+      "text": "Белая шуба вест-хайленд-уайт-терьера состоит из двух слоёв: жёсткой прямой ости длиной около пяти сантиметров и короткого мягкого подшёрстка.",
+      "breedId": "5e4d2176-648d-4333-b263-cef04563dee4",
+      "source": {
+        "title": "FCI · официальный стандарт №85",
+        "url": "https://www.fci.be/Nomenclature/Standards/085g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5e4d2176-648d-4333-b263-cef04563dee4-02",
+      "text": "Передние лапы вест-хайленд-уайт-терьера по стандарту крупнее задних. Они округлые, с толстыми подушечками.",
+      "breedId": "5e4d2176-648d-4333-b263-cef04563dee4",
+      "source": {
+        "title": "FCI · официальный стандарт №85",
+        "url": "https://www.fci.be/Nomenclature/Standards/085g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5e4d2176-648d-4333-b263-cef04563dee4-03",
+      "text": "Хвост вест-хайленд-уайт-терьера должен быть естественным: стандарт прямо запрещает его купирование. Желательная длина — от 13 до 15 сантиметров.",
+      "breedId": "5e4d2176-648d-4333-b263-cef04563dee4",
+      "source": {
+        "title": "FCI · официальный стандарт №85",
+        "url": "https://www.fci.be/Nomenclature/Standards/085g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1460844f-841c-4de8-b788-271aa4d63224-01",
+      "text": "Эрдельтерьера называют «королём терьеров»: это самая крупная порода в группе. Его происхождение связано с Йоркширом и долинами рек Эйр, Уорф и Колдер.",
+      "breedId": "1460844f-841c-4de8-b788-271aa4d63224",
+      "source": {
+        "title": "FCI · официальный стандарт №7",
+        "url": "https://www.fci.be/Nomenclature/Standards/007g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1460844f-841c-4de8-b788-271aa4d63224-02",
+      "text": "Работа эрдельтерьеров не ограничивалась охотой. Стандарт упоминает их службу в Красном Кресте во время войн, полиции и вооружённых силах Великобритании и России.",
+      "breedId": "1460844f-841c-4de8-b788-271aa4d63224",
+      "source": {
+        "title": "FCI · официальный стандарт №7",
+        "url": "https://www.fci.be/Nomenclature/Standards/007g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1460844f-841c-4de8-b788-271aa4d63224-03",
+      "text": "Жёсткая шерсть эрдельтерьера может быть слегка волнистой или изломанной. Под ней находится более короткий мягкий слой; мягкие кудри для породы нехарактерны.",
+      "breedId": "1460844f-841c-4de8-b788-271aa4d63224",
+      "source": {
+        "title": "FCI · официальный стандарт №7",
+        "url": "https://www.fci.be/Nomenclature/Standards/007g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-521d8c02-32b9-4b50-8f0d-f791b4bfe697-01",
+      "text": "Название мальтезе само по себе не доказывает происхождение с Мальты. Стандарт связывает его с семитским словом malat — «убежище» или «гавань», встречающимся в названиях разных средиземноморских мест.",
+      "breedId": "521d8c02-32b9-4b50-8f0d-f791b4bfe697",
+      "source": {
+        "title": "FCI · официальный стандарт №65",
+        "url": "https://www.fci.be/Nomenclature/Standards/065g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-521d8c02-32b9-4b50-8f0d-f791b4bfe697-02",
+      "text": "Предки мальтезе жили в портовых городах Центрального Средиземноморья. Они ловили мышей и крыс в складах у гаваней и в корабельных трюмах.",
+      "breedId": "521d8c02-32b9-4b50-8f0d-f791b4bfe697",
+      "source": {
+        "title": "FCI · официальный стандарт №65",
+        "url": "https://www.fci.be/Nomenclature/Standards/065g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-521d8c02-32b9-4b50-8f0d-f791b4bfe697-03",
+      "text": "Шерсть мальтезе должна быть прямой и тяжело ниспадать вдоль корпуса, словно накидка. Волны и завитки не относятся к характерным признакам этой породы.",
+      "breedId": "521d8c02-32b9-4b50-8f0d-f791b4bfe697",
+      "source": {
+        "title": "FCI · официальный стандарт №65",
+        "url": "https://www.fci.be/Nomenclature/Standards/065g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5ba3c057-7190-42b4-a9dc-209b9b7130ee-01",
+      "text": "Бишон фризе был привезён во Францию из Италии в эпоху Возрождения. За сходство с маленьким барбетом его называли barbichon; со временем слово сократилось до bichon.",
+      "breedId": "5ba3c057-7190-42b4-a9dc-209b9b7130ee",
+      "source": {
+        "title": "FCI · официальный стандарт №215",
+        "url": "https://www.fci.be/Nomenclature/Standards/215g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5ba3c057-7190-42b4-a9dc-209b9b7130ee-02",
+      "text": "После двух мировых войн бишон фризе почти исчез. Поголовье восстановили благодаря работе французских и бельгийских заводчиков.",
+      "breedId": "5ba3c057-7190-42b4-a9dc-209b9b7130ee",
+      "source": {
+        "title": "FCI · официальный стандарт №215",
+        "url": "https://www.fci.be/Nomenclature/Standards/215g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5ba3c057-7190-42b4-a9dc-209b9b7130ee-03",
+      "text": "У щенка бишона фризе до года стандарт допускает лёгкий оттенок шампанского на небольшой части шерсти. У взрослой собаки ожидается чисто белый окрас.",
+      "breedId": "5ba3c057-7190-42b4-a9dc-209b9b7130ee",
+      "source": {
+        "title": "FCI · официальный стандарт №215",
+        "url": "https://www.fci.be/Nomenclature/Standards/215g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e4aa816d-fb22-4841-80c4-b9967c310447-01",
+      "text": "Корни ши-тцу связаны с Тибетом, а дальнейшее развитие породы происходило в Китае. Подобные собаки жили в императорских дворцах.",
+      "breedId": "e4aa816d-fb22-4841-80c4-b9967c310447",
+      "source": {
+        "title": "FCI · официальный стандарт №208",
+        "url": "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e4aa816d-fb22-4841-80c4-b9967c310447-02",
+      "text": "Морду ши-тцу сравнивают с хризантемой из-за волос, растущих вверх на переносице. При этом шерсть не должна мешать собаке видеть.",
+      "breedId": "e4aa816d-fb22-4841-80c4-b9967c310447",
+      "source": {
+        "title": "FCI · официальный стандарт №208",
+        "url": "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e4aa816d-fb22-4841-80c4-b9967c310447-03",
+      "text": "Первый документированный ввоз ши-тцу в Великобританию состоялся в 1931 году. Отдельный породный реестр британского Кеннел-клуба появился в 1940 году.",
+      "breedId": "e4aa816d-fb22-4841-80c4-b9967c310447",
+      "source": {
+        "title": "FCI · официальный стандарт №208",
+        "url": "https://www.fci.be/Nomenclature/Standards/208g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-88591552-b3bd-45fd-931c-5c8b88aad4f2-01",
+      "text": "Папильон и фален — две разновидности континентального той-спаниеля. Главное различие в постановке ушей: у папильона они стоячие, у фалена — висячие.",
+      "breedId": "88591552-b3bd-45fd-931c-5c8b88aad4f2",
+      "source": {
+        "title": "FCI · официальный стандарт №77",
+        "url": "https://www.fci.be/Nomenclature/Standards/077g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-88591552-b3bd-45fd-931c-5c8b88aad4f2-02",
+      "text": "У папильона нет подшёрстка. Его блестящая шерсть слегка волнистая, а не кудрявая, и образует длинную бахрому на ушах.",
+      "breedId": "88591552-b3bd-45fd-931c-5c8b88aad4f2",
+      "source": {
+        "title": "FCI · официальный стандарт №77",
+        "url": "https://www.fci.be/Nomenclature/Standards/077g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-88591552-b3bd-45fd-931c-5c8b88aad4f2-03",
+      "text": "Лапы папильона по стандарту удлинённые, так называемые заячьи. Пучки шерсти между пальцами могут немного выступать вперёд, если не утяжеляют вид лапы.",
+      "breedId": "88591552-b3bd-45fd-931c-5c8b88aad4f2",
+      "source": {
+        "title": "FCI · официальный стандарт №77",
+        "url": "https://www.fci.be/Nomenclature/Standards/077g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-2d7be3ac-c72b-4d2f-af62-93a1f1d944f9-01",
+      "text": "Описания и изображения предков венгерской выжлы встречаются в документах XIV века. Современное целенаправленное разведение началось в 1920 году, а признание FCI последовало в 1936-м.",
+      "breedId": "2d7be3ac-c72b-4d2f-af62-93a1f1d944f9",
+      "source": {
+        "title": "FCI · официальный стандарт №57",
+        "url": "https://www.fci.be/Nomenclature/Standards/057g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-2d7be3ac-c72b-4d2f-af62-93a1f1d944f9-02",
+      "text": "Работа короткошёрстной выжлы не ограничивается полем: стандарт требует способности работать также в лесу и на воде, делать стойку и подавать дичь.",
+      "breedId": "2d7be3ac-c72b-4d2f-af62-93a1f1d944f9",
+      "source": {
+        "title": "FCI · официальный стандарт №57",
+        "url": "https://www.fci.be/Nomenclature/Standards/057g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-2d7be3ac-c72b-4d2f-af62-93a1f1d944f9-03",
+      "text": "Мочка носа выжлы должна гармонировать с цветом шерсти и быть немного темнее её. Чёрная мочка носа не соответствует стандарту этой породы.",
+      "breedId": "2d7be3ac-c72b-4d2f-af62-93a1f1d944f9",
+      "source": {
+        "title": "FCI · официальный стандарт №57",
+        "url": "https://www.fci.be/Nomenclature/Standards/057g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0c6755a1-3877-4933-bc6d-08b8d197cefb-01",
+      "text": "Джеймс Хинкс занимался формированием типа бультерьера в 1850-х годах. В современном облике порода была показана в Бирмингеме в 1862 году.",
+      "breedId": "0c6755a1-3877-4933-bc6d-08b8d197cefb",
+      "source": {
+        "title": "FCI · официальный стандарт №11",
+        "url": "https://www.fci.be/Nomenclature/Standards/011g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0c6755a1-3877-4933-bc6d-08b8d197cefb-02",
+      "text": "Для обычного бультерьера стандарт не устанавливает предельного роста или веса. Главное — гармоничное сложение; миниатюрный бультерьер имеет отдельное ограничение по росту.",
+      "breedId": "0c6755a1-3877-4933-bc6d-08b8d197cefb",
+      "source": {
+        "title": "FCI · официальный стандарт №11",
+        "url": "https://www.fci.be/Nomenclature/Standards/011g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0c6755a1-3877-4933-bc6d-08b8d197cefb-03",
+      "text": "При взгляде спереди голова бультерьера напоминает яйцо. Сбоку её верхняя линия плавно изгибается от вершины черепа к кончику носа, без резкого перехода.",
+      "breedId": "0c6755a1-3877-4933-bc6d-08b8d197cefb",
+      "source": {
+        "title": "FCI · официальный стандарт №11",
+        "url": "https://www.fci.be/Nomenclature/Standards/011g03-en.pdf"
       }
     }
   ]
