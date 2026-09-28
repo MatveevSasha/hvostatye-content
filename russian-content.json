@@ -5,7 +5,7 @@
     {
       "id": "9d7c4db8-b9cf-4ed3-af8e-86fc56fbf251",
       "name": "Лабрадор-ретривер",
-      "description": "Крепкая подвижная собака, тесно связанная с работой у воды. Лабрадора узнают по короткой густой шерсти и округлому хвосту. В стандарте отмечены его готовность сотрудничать с человеком и мягкая подача дичи.",
+      "description": "Крепкая подвижная собака с широкой грудью и короткой густой шерстью. Лабрадор тесно связан с работой у воды; стандарт отмечает его мягкую подачу дичи и готовность сотрудничать с человеком.",
       "country": "Великобритания",
       "traits": "Общительность, понятливость, любовь к воде.",
       "source": {
@@ -13,19 +13,19 @@
         "url": "https://help.rkf.online/ru/knowledge_base/art/209/cat/21/labrador-retriver-122"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/9d7c4db8-b9cf-4ed3-af8e-86fc56fbf251.webp",
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/9d7c4db8-b9cf-4ed3-af8e-86fc56fbf251-v2.webp",
         "author": "IDS.photos",
         "license": "CC BY-SA 2.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Labrador_on_Quantock_(2175262184).jpg",
         "title": "Labrador on Quantock (2175262184).jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей. В Commons кадрировали FMSky и NowIsntItTime."
+        "changes": "WebP, 640 × 417; без дополнительного кадрирования. В Commons кадрировали FMSky и NowIsntItTime."
       }
     },
     {
       "id": "fee91641-2a2e-4c4f-b557-cff67c5803bc",
       "name": "Золотистый ретривер",
-      "description": "Активный ретривер с золотистой или кремовой шерстью. Его вывели для работы рядом с охотником. Стандарт описывает дружелюбную, уверенную собаку, способную учиться и охотно работать.",
+      "description": "Активный, гармонично сложенный ретривер с доброжелательным выражением. Золотистый ретривер охотно работает рядом с человеком; стандарт подчёркивает его уверенность, понятливость и дружелюбие.",
       "country": "Великобритания",
       "traits": "Дружелюбие, работоспособность, уверенность.",
       "source": {
@@ -33,13 +33,13 @@
         "url": "https://rkf.org.ru/wp-content/uploads/2020/07/zolotistyj-retriver111-final.docx.pdf"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/fee91641-2a2e-4c4f-b557-cff67c5803bc.webp",
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/fee91641-2a2e-4c4f-b557-cff67c5803bc-v2.webp",
         "author": "Janneke Vreugdenhil; обработка: Anka Friedrich",
         "license": "Общественное достояние",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Golden_Retriever_Dukedestiny01_drvd.jpg",
         "title": "Golden Retriever Dukedestiny01 drvd.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "changes": "WebP, 640 × 506; без дополнительного кадрирования."
       }
     },
     {
@@ -53,13 +53,13 @@
         "url": "https://rkf.org.ru/wp-content/uploads/2019/06/nemeckaja-ovcharka.pdf"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/74a2d74a-48a3-4281-a473-abfcd59a0d60.webp",
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/74a2d74a-48a3-4281-a473-abfcd59a0d60-v2.webp",
         "author": "Jakub Hałun",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:20110425_German_Shepherd_Dog_8505.jpg",
         "title": "20110425 German Shepherd Dog 8505.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "changes": "WebP, 640 × 425; без дополнительного кадрирования."
       }
     },
     {
@@ -73,19 +73,19 @@
         "url": "https://help.rkf.online/ru/knowledge_base/art/1471/cat/19/bigl-161"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/d8621d92-6558-451c-8631-a32e767026a0.webp",
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/d8621d92-6558-451c-8631-a32e767026a0-v2.webp",
         "author": "Claude Valroff; загрузил: Julien Valroff",
         "license": "CC BY-SA 2.0 fr",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beagle_Upsy.jpg",
         "title": "Beagle Upsy.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования."
       }
     },
     {
       "id": "710ba3fe-c4ee-4d7c-b5cc-1cb19a4815fc",
       "name": "Пудель большой",
-      "description": "Крупная ростовая разновидность пуделя. За декоративной внешностью стоит история водяной охотничьей собаки. Сегодня стандарт относит пуделя к компаньонам и подчёркивает его понятливость и привязанность к человеку.",
+      "description": "Крупная ростовая разновидность пуделя с гармоничным сложением и лёгкими, пружинистыми движениями. Это внимательный и активный компаньон, в характере которого стандарт отмечает понятливость и верность человеку.",
       "country": "Франция",
       "traits": "Обучаемость, активность, преданность.",
       "source": {
@@ -93,13 +93,13 @@
         "url": "https://help.rkf.online/ru/knowledge_base/art/222/cat/22/pudel-172"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/710ba3fe-c4ee-4d7c-b5cc-1cb19a4815fc.webp",
-        "author": "Wikidocsptm",
-        "license": "CC BY 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cafe-au-lait_standard_poodle.jpg",
-        "title": "Cafe-au-lait standard poodle.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/710ba3fe-c4ee-4d7c-b5cc-1cb19a4815fc-v2.webp",
+        "author": "Tim Wilson",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Full_attention_(8067543690).jpg",
+        "title": "Full attention (8067543690).jpg",
+        "changes": "WebP, 640 × 424; без дополнительного кадрирования."
       }
     },
     {
@@ -113,13 +113,13 @@
         "url": "https://www.fci.be/Nomenclature/Standards/148g04-en.pdf"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/db7a3ede-d877-4e6f-bd98-8c9ba9ff1d8d.webp",
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/db7a3ede-d877-4e6f-bd98-8c9ba9ff1d8d-v2.webp",
         "author": "Katemil94",
         "license": "CC BY-SA 4.0",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8B%A5%EC%8A%A4%ED%9B%88%ED%8A%B8(%EB%8B%A8%EB%AA%A8%EC%A2%85)_(Dachshund_(Short)).jpg",
         "title": "닥스훈트(단모종) (Dachshund (Short)).jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "changes": "WebP, 640 × 474; без дополнительного кадрирования."
       }
     },
     {
@@ -133,13 +133,13 @@
         "url": "https://www.fci.be/Nomenclature/Standards/039g01-en.pdf"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/2a4b364b-ec99-467c-b86c-516415601771.webp",
-        "author": "Huoadg5888; правки: Subsidiary account",
-        "license": "CC0",
-        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fawn_and_white_Welsh_Corgi_puppy_standing_on_rear_legs_and_sticking_out_the_tongue.jpg",
-        "title": "Fawn and white Welsh Corgi puppy standing on rear legs and sticking out the tongue.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/2a4b364b-ec99-467c-b86c-516415601771-v2.webp",
+        "author": "Dog breed facts",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Welsh_Pembroke_Corgi.jpg",
+        "title": "Welsh Pembroke Corgi.jpg",
+        "changes": "WebP, 640 × 479; без дополнительного кадрирования."
       }
     },
     {
@@ -153,13 +153,13 @@
         "url": "https://help.rkf.online/ru/knowledge_base/art/934/cat/18/sibirskij-haski-270"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/e0561c26-6d8b-42ae-88df-3047873e929a.webp",
-        "author": "John A. Taylor",
-        "license": "CC BY-SA 3.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siberianhusky5.jpg",
-        "title": "Siberianhusky5.jpg",
-        "changes": "Уменьшенная версия 330 × 247; перекодировано в WebP."
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/e0561c26-6d8b-42ae-88df-3047873e929a-v2.webp",
+        "author": "milanonegro (Pixabay)",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siberian-husky-1291343_1920.jpg",
+        "title": "Siberian-husky-1291343 1920.jpg",
+        "changes": "WebP, 640 × 504; без дополнительного кадрирования."
       }
     },
     {
@@ -173,13 +173,13 @@
         "url": "https://help.rkf.online/ru/knowledge_base/art/931/cat/18/siba-257"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/80d23247-6f46-4962-90cc-c3692b4cb4a5.webp",
-        "author": "Nancy Wong",
-        "license": "CC BY-SA 4.0",
-        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-        "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Shiba_Inu_enjoying_a_sunny_day.jpg",
-        "title": "A Shiba Inu enjoying a sunny day.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/80d23247-6f46-4962-90cc-c3692b4cb4a5-v2.webp",
+        "author": "Takashiba (English Wikipedia)",
+        "license": "Общественное достояние",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Taka_Shiba.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taka_Shiba.jpg",
+        "title": "Taka Shiba.jpg",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования."
       }
     },
     {
@@ -193,13 +193,413 @@
         "url": "https://help.rkf.online/ru/knowledge_base/art/1466/cat/19/dalmatin-153"
       },
       "image": {
-        "url": "https://matveevsasha.github.io/hvostatye-content/images/9ca1f843-4cad-45b3-847f-bc7975864b1d.webp",
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/9ca1f843-4cad-45b3-847f-bc7975864b1d-v2.webp",
         "author": "Dalmatiner24.eu",
         "license": "Общественное достояние",
         "licenseUrl": "https://commons.wikimedia.org/wiki/File:Binka_10_06.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Binka_10_06.jpg",
         "title": "Binka 10 06.jpg",
-        "changes": "Уменьшено и кадрировано до 200 × 200, WebP через Dog API; удалены технические EXIF/XMP без изменения пикселей."
+        "changes": "WebP, 500 × 383; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "20b1d8be-ae44-4a70-8526-0612904bc9b2",
+      "name": "Бордер-колли",
+      "description": "Пастушья собака с атлетичным корпусом и внимательным взглядом. Бордер-колли ценят за настойчивость в работе, отзывчивость на команды и способность долго двигаться без лишних усилий.",
+      "country": "Великобритания",
+      "traits": "Работоспособность, внимательность, отзывчивость.",
+      "source": {
+        "title": "FCI · официальный стандарт №297",
+        "url": "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/20b1d8be-ae44-4a70-8526-0612904bc9b2-v1.webp",
+        "author": "Joselodos",
+        "license": "CC0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Border_collie_blue_merle,_lateral_view.jpg",
+        "title": "Border collie blue merle, lateral view.jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "03269b7d-c5d6-4a8f-83d1-7a6180d40127",
+      "name": "Австралийская овчарка",
+      "description": "Подвижная пастушья собака среднего размера с крепким, слегка растянутым корпусом. Австралийская овчарка ориентирована на совместную работу с человеком; при первой встрече с незнакомцем может держаться сдержанно.",
+      "country": "США",
+      "traits": "Обучаемость, выносливость, пастуший инстинкт.",
+      "source": {
+        "title": "FCI · официальный стандарт №342",
+        "url": "https://www.fci.be/Nomenclature/Standards/342g01-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/03269b7d-c5d6-4a8f-83d1-7a6180d40127-v1.webp",
+        "author": "Trickdog-Fina",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Australian_Shepherd_red_bi.JPG",
+        "title": "Australian Shepherd red bi.JPG",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "11f90c78-8f4c-43f7-bc47-fab733a33c6b",
+      "name": "Ротвейлер",
+      "description": "Крепкая служебная собака с компактным мускулистым корпусом. Для ротвейлера стандарт подчёркивает уверенность, спокойную настороженность и готовность работать в контакте с человеком.",
+      "country": "Германия",
+      "traits": "Уверенность, преданность, работоспособность.",
+      "source": {
+        "title": "FCI · официальный стандарт №147",
+        "url": "https://www.fci.be/Nomenclature/Standards/147g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/11f90c78-8f4c-43f7-bc47-fab733a33c6b-v1.webp",
+        "author": "Svenska Mässan",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grupp_2_ROTTWEILER,_ASKELONS_IDUN_(24260990736).jpg",
+        "title": "Grupp 2 ROTTWEILER, ASKELONS IDUN (24260990736).jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "29fac412-58f8-44c4-8a47-77527e55123b",
+      "name": "Доберман",
+      "description": "Элегантная и мускулистая рабочая собака с короткой шерстью. В добермане сочетаются внимательность, смелость и способность обучаться; стандарт отдельно отмечает его привязанность к семье.",
+      "country": "Германия",
+      "traits": "Внимательность, обучаемость, смелость.",
+      "source": {
+        "title": "FCI · официальный стандарт №143",
+        "url": "https://www.fci.be/Nomenclature/Standards/143g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/29fac412-58f8-44c4-8a47-77527e55123b-v1.webp",
+        "author": "Miroslav Cacik",
+        "license": "Свободное использование (разрешение автора)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dobermann_handling.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dobermann_handling.jpg",
+        "title": "Dobermann handling.jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "08c9fafe-fc77-4da8-9824-05f64910a8e1",
+      "name": "Боксёр",
+      "description": "Короткошёрстная собака среднего размера с квадратным корпусом и развитой мускулатурой. Боксёр энергичен в игре и внимателен к окружающему; в стандарте особенно важны уравновешенность и уверенность.",
+      "country": "Германия",
+      "traits": "Игривость, уверенность, преданность.",
+      "source": {
+        "title": "FCI · официальный стандарт №144",
+        "url": "https://www.fci.be/Nomenclature/Standards/144g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/08c9fafe-fc77-4da8-9824-05f64910a8e1-v1.webp",
+        "author": "Mood210",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Male_fawn_Boxer_undocked.jpg",
+        "title": "Male fawn Boxer undocked.jpg",
+        "changes": "WebP, 640 × 472; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "e16a9f90-786f-40f5-9149-97e2a9a4ed8b",
+      "name": "Бернский зенненхунд",
+      "description": "Крупная трёхцветная собака с длинной шерстью и крепким сложением. Бернский зенненхунд сочетает внушительный облик с добродушием; стандарт описывает его как внимательного и преданного семье компаньона.",
+      "country": "Швейцария",
+      "traits": "Добродушие, внимательность, спокойная уверенность.",
+      "source": {
+        "title": "FCI · официальный стандарт №45",
+        "url": "https://www.fci.be/Nomenclature/Standards/045g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/e16a9f90-786f-40f5-9149-97e2a9a4ed8b-v1.webp",
+        "author": "FriendlyToaster",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:3-BerneseMountainDogInGrass.jpg",
+        "title": "3-BerneseMountainDogInGrass.jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "3f5ec130-8f1e-41fb-b614-26dda736375f",
+      "name": "Ньюфаундленд",
+      "description": "Массивная собака с сильным корпусом и густой шерстью. Ньюфаундленд связан с работой в воде и перевозкой грузов; его стандарт подчёркивает мягкость нрава и спокойное достоинство.",
+      "country": "Канада",
+      "traits": "Спокойствие, мягкость, сила.",
+      "source": {
+        "title": "FCI · официальный стандарт №50",
+        "url": "https://www.fci.be/Nomenclature/Standards/050g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/3f5ec130-8f1e-41fb-b614-26dda736375f-v1.webp",
+        "author": "DanDee Shots (Flickr)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newfoundland_dog_Smoky.jpg",
+        "title": "Newfoundland dog Smoky.jpg",
+        "changes": "WebP, 427 × 640; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "e3046d15-8fae-4cbb-a6df-4afe80490bbd",
+      "name": "Самоед",
+      "description": "Северная ездовая собака и компаньон с густой светлой шерстью. Самоед подвижен и общителен; стандарт не рассматривает его как сторожевую собаку, склонную отгонять посторонних.",
+      "country": "Россия — северные районы и Сибирь",
+      "traits": "Общительность, дружелюбие, живость.",
+      "source": {
+        "title": "FCI · официальный стандарт №212",
+        "url": "https://www.fci.be/Nomenclature/Standards/212g05-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/e3046d15-8fae-4cbb-a6df-4afe80490bbd-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Helsinki2006_samojedinkoira.jpg",
+        "title": "Helsinki2006 samojedinkoira.jpg",
+        "changes": "WebP, 640 × 529; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "5328d59b-b4e4-48e9-98ec-0545c66c4385",
+      "name": "Аляскинский маламут",
+      "description": "Мощная северная собака с широкой головой, густой шерстью и хорошо развитой мускулатурой. Маламут дружелюбен и привязан к людям; его сложение производит впечатление силы и устойчивости.",
+      "country": "США — Аляска",
+      "traits": "Дружелюбие, сила, выносливость.",
+      "source": {
+        "title": "FCI · официальный стандарт №243",
+        "url": "https://www.fci.be/Nomenclature/Standards/243g05-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/5328d59b-b4e4-48e9-98ec-0545c66c4385-v1.webp",
+        "author": "SCMW",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alaskan_Malamute.jpg",
+        "title": "Alaskan Malamute.jpg",
+        "changes": "WebP, 640 × 519; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "c24ba2fd-3fb2-49e9-b95e-748dc4d1196c",
+      "name": "Акита",
+      "description": "Крупная японская собака со стоячими ушами, крепким корпусом и густой шерстью. Акита выглядит сдержанно и внушительно; стандарт описывает спокойный, преданный и восприимчивый характер.",
+      "country": "Япония",
+      "traits": "Сдержанность, преданность, внимательность.",
+      "source": {
+        "title": "FCI · официальный стандарт №255",
+        "url": "https://www.fci.be/Nomenclature/Standards/255g05-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/c24ba2fd-3fb2-49e9-b95e-748dc4d1196c-v1.webp",
+        "author": "Peter Theakston",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Molly_akita.jpg",
+        "title": "Molly akita.jpg",
+        "changes": "WebP, 640 × 638; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "03c728a4-258a-4c31-8a1e-5c5e89455cdb",
+      "name": "Чау-чау",
+      "description": "Компактная собака с внушительным, почти львиным обликом. Чау-чау обычно сдержан с незнакомыми людьми и самостоятелен; стандарт ценит свободные движения без помех от избыточной шерсти.",
+      "country": "Китай",
+      "traits": "Самостоятельность, сдержанность, преданность.",
+      "source": {
+        "title": "FCI · официальный стандарт №205",
+        "url": "https://www.fci.be/Nomenclature/Standards/205g05-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/03c728a4-258a-4c31-8a1e-5c5e89455cdb-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chow_Chow_short-haired_3.jpg",
+        "title": "Chow Chow short-haired 3.jpg",
+        "changes": "WebP, 588 × 600; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "b7211a59-787d-4b34-b390-77b9b0dc5b9d",
+      "name": "Померанский шпиц",
+      "description": "Маленький компаньон с пышной шерстью, компактным корпусом и живым выражением морды. Померанский шпиц внимателен к происходящему и охотно общается с хозяином.",
+      "country": "Германия",
+      "traits": "Живость, внимательность, привязанность к человеку.",
+      "source": {
+        "title": "FCI · официальный стандарт №97",
+        "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/b7211a59-787d-4b34-b390-77b9b0dc5b9d-v1.webp",
+        "author": "Blackoranges",
+        "license": "Общественное достояние",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pomeranian.JPG",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pomeranian.JPG",
+        "title": "Pomeranian.JPG",
+        "changes": "WebP, 500 × 414; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "092dae18-86f4-4b41-a3f8-f57fab2f6f2c",
+      "name": "Чихуахуа",
+      "description": "Очень маленькая собака-компаньон с компактным корпусом и крупными выразительными ушами. Чихуахуа подвижен, внимателен и смел; размер не отменяет его живого характера.",
+      "country": "Мексика",
+      "traits": "Живость, бдительность, смелость.",
+      "source": {
+        "title": "FCI · официальный стандарт №218",
+        "url": "https://www.fci.be/Nomenclature/Standards/218g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/092dae18-86f4-4b41-a3f8-f57fab2f6f2c-v1.webp",
+        "author": "Bonnie van den Born (bonfoto.nl)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chihuahua1_bvdb.jpg",
+        "title": "Chihuahua1 bvdb.jpg",
+        "changes": "WebP, 370 × 322; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "ce40589c-295a-4259-9e83-711854db8129",
+      "name": "Йоркширский терьер",
+      "description": "Небольшой терьер-компаньон с прямой длинной шерстью и собранным силуэтом. За декоративным обликом йоркширского терьера сохраняются живость и внимательность, характерные для терьеров.",
+      "country": "Великобритания",
+      "traits": "Живость, сообразительность, внимательность.",
+      "source": {
+        "title": "FCI · официальный стандарт №86",
+        "url": "https://www.fci.be/Nomenclature/Standards/086g03-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/ce40589c-295a-4259-9e83-711854db8129-v1.webp",
+        "author": "Svenska Mässan",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:(2_version)_Grupp_3,_YORKSHIRETERRIER,_NO_UCH_SE_UCH_Oxzar_Amazing_Bel%E2%80%99s_Toffy_(24310212305).jpg",
+        "title": "(2 version) Grupp 3, YORKSHIRETERRIER, NO UCH SE UCH Oxzar Amazing Bel’s Toffy (24310212305).jpg",
+        "changes": "WebP, 500 × 621; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "9ca8f849-4979-4634-80bc-949692635577",
+      "name": "Кавалер-кинг-чарльз-спаниель",
+      "description": "Небольшой спаниель-компаньон с мягким выражением морды и изящным сложением. Кавалер остаётся активной собакой; стандарт подчёркивает его дружелюбие и отсутствие робости.",
+      "country": "Великобритания",
+      "traits": "Дружелюбие, ласковость, активность.",
+      "source": {
+        "title": "FCI · официальный стандарт №136",
+        "url": "https://www.fci.be/Nomenclature/Standards/136g09-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/9ca8f849-4979-4634-80bc-949692635577-v1.webp",
+        "author": "Andreweatock",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:CarterBIS.Tiki.13.6.09.jpg",
+        "title": "CarterBIS.Tiki.13.6.09.jpg",
+        "changes": "WebP, 500 × 365; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "13aab520-e65d-42ef-8b9d-8e6010b19ae3",
+      "name": "Английский кокер-спаниель",
+      "description": "Компактная подружейная собака с мягким выражением и энергичными движениями. Английский кокер-спаниель увлечён поиском и охотно работает даже в густых зарослях, оставаясь ласковым компаньоном.",
+      "country": "Великобритания",
+      "traits": "Энергичность, ласковость, увлечённость поиском.",
+      "source": {
+        "title": "FCI · официальный стандарт №5",
+        "url": "https://www.fci.be/Nomenclature/Standards/005g08-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/13aab520-e65d-42ef-8b9d-8e6010b19ae3-v1.webp",
+        "author": "Jean-Pol GRANDMONT",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Bill%22_-_Cocker_spaniel_anglais_2.JPG",
+        "title": "\"Bill\" - Cocker spaniel anglais 2.JPG",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "e9579b15-81f7-40ea-98e7-21af2631dceb",
+      "name": "Цвергшнауцер",
+      "description": "Небольшая крепкая собака с почти квадратным корпусом и жёсткой шерстью. Цвергшнауцер сохраняет характер старшего шнауцера: он внимателен, вынослив и уверен в себе.",
+      "country": "Германия",
+      "traits": "Бдительность, сообразительность, смелость.",
+      "source": {
+        "title": "FCI · официальный стандарт №183",
+        "url": "https://www.fci.be/Nomenclature/Standards/183g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/e9579b15-81f7-40ea-98e7-21af2631dceb-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Miniature_Schnauzer_salt_%26_pepper_(cropped).jpg",
+        "title": "Miniature Schnauzer salt & pepper (cropped).jpg",
+        "changes": "WebP, 640 × 481; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "0d84dcb0-2eb9-41fe-882a-29e140dd0822",
+      "name": "Русская псовая борзая",
+      "description": "Высоконогая борзая с узкой вытянутой головой и длинной мягкой шерстью. Русская псовая борзая сочетает спокойное поведение с быстрым откликом на движение и способностью к стремительному галопу.",
+      "country": "Россия",
+      "traits": "Зрительная внимательность, спокойствие, быстрота.",
+      "source": {
+        "title": "FCI · официальный стандарт №193",
+        "url": "https://www.fci.be/Nomenclature/Standards/193g10-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/0d84dcb0-2eb9-41fe-882a-29e140dd0822-v1.webp",
+        "author": "Deb (Montoursville, PA)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Borzoi_(7283858722).jpg",
+        "title": "Borzoi (7283858722).jpg",
+        "changes": "WebP, 640 × 459; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "32534831-9241-4be3-a594-70c45e1a9bbe",
+      "name": "Уиппет",
+      "description": "Изящная короткошёрстная борзая с сильными мышцами и глубоким корпусом. Уиппет сочетает спортивность с мягким, ровным характером и приспособляемостью к домашней жизни.",
+      "country": "Великобритания",
+      "traits": "Ласковость, уравновешенность, спортивность.",
+      "source": {
+        "title": "FCI · официальный стандарт №162",
+        "url": "https://www.fci.be/Nomenclature/Standards/162g10-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/32534831-9241-4be3-a594-70c45e1a9bbe-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Whippet_2018_6.jpg",
+        "title": "Whippet 2018 6.jpg",
+        "changes": "WebP, 640 × 513; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "e0c3dc07-73d6-4209-ae0b-8ddd99817287",
+      "name": "Сенбернар",
+      "description": "Очень крупная горная собака с мощной головой и крепким корпусом. Сенбернар дружелюбен по характеру и внимателен к обстановке; встречаются как спокойные, так и более подвижные собаки.",
+      "country": "Швейцария",
+      "traits": "Дружелюбие, бдительность, спокойная сила.",
+      "source": {
+        "title": "FCI · официальный стандарт №61",
+        "url": "https://www.fci.be/Nomenclature/Standards/061g02-en.pdf"
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/e0c3dc07-73d6-4209-ae0b-8ddd99817287-v1.webp",
+        "author": "Blanky",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hummel_Vedor_vd_Robandahoeve.jpg",
+        "title": "Hummel Vedor vd Robandahoeve.jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
       }
     }
   ],
@@ -251,7 +651,7 @@
     },
     {
       "id": "ru-fact-v1-06",
-      "text": "Золотистый ретривер относится к подружейным собакам: его породная работа связана с помощью охотнику.",
+      "text": "Лапы золотистого ретривера в стандарте сравнивают с кошачьими: они округлые и собранные.",
       "breedId": "fee91641-2a2e-4c4f-b557-cff67c5803bc",
       "source": {
         "title": "РКФ · стандарт №111",
@@ -260,7 +660,7 @@
     },
     {
       "id": "ru-fact-v1-07",
-      "text": "Планомерное разведение немецкой овчарки началось в 1899 году. Целью была служебная собака, пригодная для разных задач.",
+      "text": "Немецкая овчарка — рысак: её сложение рассчитано на размашистую, экономную рысь с ровной линией верха.",
       "breedId": "74a2d74a-48a3-4281-a473-abfcd59a0d60",
       "source": {
         "title": "РКФ · стандарт №166",
@@ -287,7 +687,7 @@
     },
     {
       "id": "ru-fact-v1-10",
-      "text": "Бигль идёт за добычей по запаховому следу. В стандарте его традиционная работа связана прежде всего с охотой на зайца.",
+      "text": "При Генрихе VIII и Елизавете I встречались жесткошёрстные бигли. Некоторые были настолько малы, что помещались в карман охотничьей куртки.",
       "breedId": "d8621d92-6558-451c-8631-a32e767026a0",
       "source": {
         "title": "РКФ · стандарт №161",
@@ -359,7 +759,7 @@
     },
     {
       "id": "ru-fact-v1-18",
-      "text": "Пемброк — пастушья порода. Несмотря на небольшой рост, его стандарт подчёркивает силу и выносливость.",
+      "text": "Голову пемброка стандарт сравнивает с лисьей. Уши у него стоячие, со слегка округлыми кончиками.",
       "breedId": "2a4b364b-ec99-467c-b86c-516415601771",
       "source": {
         "title": "Международная кинологическая федерация · стандарт №39",
@@ -386,7 +786,7 @@
     },
     {
       "id": "ru-fact-v1-21",
-      "text": "Хаски приспособлен к длительной работе в упряжке с лёгким грузом. Стандарт не описывает его как собаку для перевозки тяжестей.",
+      "text": "Хвост хаски напоминает круглую лисью кисть. В настороженном состоянии он может изгибаться серпом, но не должен плотно ложиться на спину.",
       "breedId": "e0561c26-6d8b-42ae-88df-3047873e929a",
       "source": {
         "title": "РКФ · стандарт №270",
@@ -423,6 +823,591 @@
     {
       "id": "ru-fact-v1-25",
       "text": "Первый неофициальный стандарт далматина написал Веро Шоу в 1882 году. Позднее его переработал английский породный клуб.",
+      "breedId": "9ca1f843-4cad-45b3-847f-bc7975864b1d",
+      "source": {
+        "title": "РКФ · стандарт №153",
+        "url": "https://help.rkf.online/ru/knowledge_base/art/1466/cat/19/dalmatin-153"
+      }
+    },
+    {
+      "id": "ru-20b1d8be-ae44-4a70-8526-0612904bc9b2-01",
+      "text": "Бордер-колли бывают гладкошёрстными и умеренно длинношёрстными. У обеих разновидностей есть плотный подшёрсток, защищающий от непогоды.",
+      "breedId": "20b1d8be-ae44-4a70-8526-0612904bc9b2",
+      "source": {
+        "title": "FCI · официальный стандарт №297",
+        "url": "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-20b1d8be-ae44-4a70-8526-0612904bc9b2-02",
+      "text": "При движении бордер-колли невысоко поднимает лапы: стандарт описывает плавную, словно крадущуюся походку.",
+      "breedId": "20b1d8be-ae44-4a70-8526-0612904bc9b2",
+      "source": {
+        "title": "FCI · официальный стандарт №297",
+        "url": "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-20b1d8be-ae44-4a70-8526-0612904bc9b2-03",
+      "text": "Уши бордер-колли могут стоять полностью или быть полустоячими. Оба варианта предусмотрены стандартом.",
+      "breedId": "20b1d8be-ae44-4a70-8526-0612904bc9b2",
+      "source": {
+        "title": "FCI · официальный стандарт №297",
+        "url": "https://www.fci.be/Nomenclature/Standards/297g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-03269b7d-c5d6-4a8f-83d1-7a6180d40127-01",
+      "text": "Название австралийской овчарки связывают с баскскими пастухами, приехавшими в США из Австралии в XIX веке. Современная порода сложилась в Америке.",
+      "breedId": "03269b7d-c5d6-4a8f-83d1-7a6180d40127",
+      "source": {
+        "title": "FCI · официальный стандарт №342",
+        "url": "https://www.fci.be/Nomenclature/Standards/342g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-03269b7d-c5d6-4a8f-83d1-7a6180d40127-02",
+      "text": "После Второй мировой войны популярности австралийской овчарки помогли родео, конные представления, кино и телевидение.",
+      "breedId": "03269b7d-c5d6-4a8f-83d1-7a6180d40127",
+      "source": {
+        "title": "FCI · официальный стандарт №342",
+        "url": "https://www.fci.be/Nomenclature/Standards/342g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-03269b7d-c5d6-4a8f-83d1-7a6180d40127-03",
+      "text": "Глаза австралийской овчарки могут быть карими, голубыми или янтарными. Стандарт допускает сочетания цветов, крапинки и мраморный рисунок радужки.",
+      "breedId": "03269b7d-c5d6-4a8f-83d1-7a6180d40127",
+      "source": {
+        "title": "FCI · официальный стандарт №342",
+        "url": "https://www.fci.be/Nomenclature/Standards/342g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-11f90c78-8f4c-43f7-bc47-fab733a33c6b-01",
+      "text": "Название ротвейлера связано с немецким городом Ротвайль. Там этих собак знали как помощников мясников при перегоне и охране скота.",
+      "breedId": "11f90c78-8f4c-43f7-bc47-fab733a33c6b",
+      "source": {
+        "title": "FCI · официальный стандарт №147",
+        "url": "https://www.fci.be/Nomenclature/Standards/147g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-11f90c78-8f4c-43f7-bc47-fab733a33c6b-02",
+      "text": "Ротвейлер был официально признан полицейской собакой в 1910 году после испытаний его рабочих качеств.",
+      "breedId": "11f90c78-8f4c-43f7-bc47-fab733a33c6b",
+      "source": {
+        "title": "FCI · официальный стандарт №147",
+        "url": "https://www.fci.be/Nomenclature/Standards/147g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-11f90c78-8f4c-43f7-bc47-fab733a33c6b-03",
+      "text": "Рыжеватые подпалины ротвейлера располагаются в определённых местах: в том числе над глазами, на щеках, груди и лапах. Основной окрас при этом чёрный.",
+      "breedId": "11f90c78-8f4c-43f7-bc47-fab733a33c6b",
+      "source": {
+        "title": "FCI · официальный стандарт №147",
+        "url": "https://www.fci.be/Nomenclature/Standards/147g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-29fac412-58f8-44c4-8a47-77527e55123b-01",
+      "text": "Доберман носит фамилию создателя породы — Фридриха Луиса Добермана. Разведением этих собак он занимался в 1870-х годах.",
+      "breedId": "29fac412-58f8-44c4-8a47-77527e55123b",
+      "source": {
+        "title": "FCI · официальный стандарт №143",
+        "url": "https://www.fci.be/Nomenclature/Standards/143g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-29fac412-58f8-44c4-8a47-77527e55123b-02",
+      "text": "За широкое применение в полиции доберман получил прозвище «жандармская собака».",
+      "breedId": "29fac412-58f8-44c4-8a47-77527e55123b",
+      "source": {
+        "title": "FCI · официальный стандарт №143",
+        "url": "https://www.fci.be/Nomenclature/Standards/143g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-29fac412-58f8-44c4-8a47-77527e55123b-03",
+      "text": "Стандарт добермана допускает чёрный и коричневый окрасы с чётким рыже-красным подпалом. Подшёрсток для породы не предусмотрен.",
+      "breedId": "29fac412-58f8-44c4-8a47-77527e55123b",
+      "source": {
+        "title": "FCI · официальный стандарт №143",
+        "url": "https://www.fci.be/Nomenclature/Standards/143g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-08c9fafe-fc77-4da8-9824-05f64910a8e1-01",
+      "text": "Непосредственным предком боксёра считают малого брабантского булленбейсера — собаку, помогавшую охотникам удерживать добычу.",
+      "breedId": "08c9fafe-fc77-4da8-9824-05f64910a8e1",
+      "source": {
+        "title": "FCI · официальный стандарт №144",
+        "url": "https://www.fci.be/Nomenclature/Standards/144g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-08c9fafe-fc77-4da8-9824-05f64910a8e1-02",
+      "text": "Тигровый окрас боксёра образуют тёмные полосы на рыжем фоне. Полосы должны заметно отличаться от основного цвета.",
+      "breedId": "08c9fafe-fc77-4da8-9824-05f64910a8e1",
+      "source": {
+        "title": "FCI · официальный стандарт №144",
+        "url": "https://www.fci.be/Nomenclature/Standards/144g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-08c9fafe-fc77-4da8-9824-05f64910a8e1-03",
+      "text": "Нижняя челюсть боксёра длиннее верхней. Такой прикус называется перекусом и является породной особенностью.",
+      "breedId": "08c9fafe-fc77-4da8-9824-05f64910a8e1",
+      "source": {
+        "title": "FCI · официальный стандарт №144",
+        "url": "https://www.fci.be/Nomenclature/Standards/144g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e16a9f90-786f-40f5-9149-97e2a9a4ed8b-01",
+      "text": "Первоначальное название бернского зенненхунда — дюррбахлер. Оно связано с местностью Дюррбах в кантоне Берн.",
+      "breedId": "e16a9f90-786f-40f5-9149-97e2a9a4ed8b",
+      "source": {
+        "title": "FCI · официальный стандарт №45",
+        "url": "https://www.fci.be/Nomenclature/Standards/045g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e16a9f90-786f-40f5-9149-97e2a9a4ed8b-02",
+      "text": "На швейцарских фермах предки бернского зенненхунда не только охраняли двор и перегоняли скот, но и работали упряжными собаками.",
+      "breedId": "e16a9f90-786f-40f5-9149-97e2a9a4ed8b",
+      "source": {
+        "title": "FCI · официальный стандарт №45",
+        "url": "https://www.fci.be/Nomenclature/Standards/045g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e16a9f90-786f-40f5-9149-97e2a9a4ed8b-03",
+      "text": "Породный клуб дюррбахлеров основали в 1907 году. Уже на выставке в Бургдорфе в 1910 году показали 107 собак.",
+      "breedId": "e16a9f90-786f-40f5-9149-97e2a9a4ed8b",
+      "source": {
+        "title": "FCI · официальный стандарт №45",
+        "url": "https://www.fci.be/Nomenclature/Standards/045g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-3f5ec130-8f1e-41fb-b614-26dda736375f-01",
+      "text": "Между пальцами ньюфаундленда есть перепонки — эта особенность прямо отмечена в породном стандарте.",
+      "breedId": "3f5ec130-8f1e-41fb-b614-26dda736375f",
+      "source": {
+        "title": "FCI · официальный стандарт №50",
+        "url": "https://www.fci.be/Nomenclature/Standards/050g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-3f5ec130-8f1e-41fb-b614-26dda736375f-02",
+      "text": "Во время плавания сильный хвост ньюфаундленда работает как руль. Поэтому у основания он широкий и крепкий.",
+      "breedId": "3f5ec130-8f1e-41fb-b614-26dda736375f",
+      "source": {
+        "title": "FCI · официальный стандарт №50",
+        "url": "https://www.fci.be/Nomenclature/Standards/050g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-3f5ec130-8f1e-41fb-b614-26dda736375f-03",
+      "text": "Ньюфаундленды бывают не только чёрными: FCI также признаёт коричневый и бело-чёрный окрасы.",
+      "breedId": "3f5ec130-8f1e-41fb-b614-26dda736375f",
+      "source": {
+        "title": "FCI · официальный стандарт №50",
+        "url": "https://www.fci.be/Nomenclature/Standards/050g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e3046d15-8fae-4cbb-a6df-4afe80490bbd-01",
+      "text": "«Самоедская улыбка» складывается из формы и положения глаз, а также слегка приподнятых уголков пасти.",
+      "breedId": "e3046d15-8fae-4cbb-a6df-4afe80490bbd",
+      "source": {
+        "title": "FCI · официальный стандарт №212",
+        "url": "https://www.fci.be/Nomenclature/Standards/212g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e3046d15-8fae-4cbb-a6df-4afe80490bbd-02",
+      "text": "В 1889 году Эрнест Килберн Скотт привёз в Англию коричневого щенка по кличке Сабарка. Он вошёл в число собак, с которых началось западное разведение самоедов.",
+      "breedId": "e3046d15-8fae-4cbb-a6df-4afe80490bbd",
+      "source": {
+        "title": "FCI · официальный стандарт №212",
+        "url": "https://www.fci.be/Nomenclature/Standards/212g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e3046d15-8fae-4cbb-a6df-4afe80490bbd-03",
+      "text": "Первый стандарт самоеда составили в Англии в 1909 году.",
+      "breedId": "e3046d15-8fae-4cbb-a6df-4afe80490bbd",
+      "source": {
+        "title": "FCI · официальный стандарт №212",
+        "url": "https://www.fci.be/Nomenclature/Standards/212g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-5328d59b-b4e4-48e9-98ec-0545c66c4385-01",
+      "text": "Маламута выводили для перевозки тяжёлых грузов на умеренной скорости. В стандарте подчёркнуто, что это не гоночная собака для скоростных состязаний.",
+      "breedId": "5328d59b-b4e4-48e9-98ec-0545c66c4385",
+      "source": {
+        "title": "FCI · официальный стандарт №243",
+        "url": "https://www.fci.be/Nomenclature/Standards/243g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-5328d59b-b4e4-48e9-98ec-0545c66c4385-02",
+      "text": "Глаза маламута должны быть карими. Голубые глаза, допустимые у хаски, не соответствуют стандарту маламута.",
+      "breedId": "5328d59b-b4e4-48e9-98ec-0545c66c4385",
+      "source": {
+        "title": "FCI · официальный стандарт №243",
+        "url": "https://www.fci.be/Nomenclature/Standards/243g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-5328d59b-b4e4-48e9-98ec-0545c66c4385-03",
+      "text": "Единственный сплошной окрас, разрешённый стандартом маламута, — белый. Остальные окрасы сочетаются с белыми участками.",
+      "breedId": "5328d59b-b4e4-48e9-98ec-0545c66c4385",
+      "source": {
+        "title": "FCI · официальный стандарт №243",
+        "url": "https://www.fci.be/Nomenclature/Standards/243g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-c24ba2fd-3fb2-49e9-b95e-748dc4d1196c-01",
+      "text": "Историю акиты связывают с акита-матаги — собаками среднего размера, которых использовали для охоты на медведя.",
+      "breedId": "c24ba2fd-3fb2-49e9-b95e-748dc4d1196c",
+      "source": {
+        "title": "FCI · официальный стандарт №255",
+        "url": "https://www.fci.be/Nomenclature/Standards/255g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-c24ba2fd-3fb2-49e9-b95e-748dc4d1196c-02",
+      "text": "У акиты сравнительно небольшие треугольные уши. Они направлены немного вперёд и продолжают наклон линии шеи.",
+      "breedId": "c24ba2fd-3fb2-49e9-b95e-748dc4d1196c",
+      "source": {
+        "title": "FCI · официальный стандарт №255",
+        "url": "https://www.fci.be/Nomenclature/Standards/255g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-c24ba2fd-3fb2-49e9-b95e-748dc4d1196c-03",
+      "text": "Толстый хвост акиты высоко посажен и несётся завитком над спиной. Если его опустить, кончик почти достигает скакательного сустава.",
+      "breedId": "c24ba2fd-3fb2-49e9-b95e-748dc4d1196c",
+      "source": {
+        "title": "FCI · официальный стандарт №255",
+        "url": "https://www.fci.be/Nomenclature/Standards/255g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-03c728a4-258a-4c31-8a1e-5c5e89455cdb-01",
+      "text": "Синевато-чёрный язык — характерная особенность чау-чау, указанная в стандарте породы.",
+      "breedId": "03c728a4-258a-4c31-8a1e-5c5e89455cdb",
+      "source": {
+        "title": "FCI · официальный стандарт №205",
+        "url": "https://www.fci.be/Nomenclature/Standards/205g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-03c728a4-258a-4c31-8a1e-5c5e89455cdb-02",
+      "text": "Чау-чау бывают длинношёрстными и короткошёрстными. У короткошёрстной разновидности шерсть напоминает плотный плюш.",
+      "breedId": "03c728a4-258a-4c31-8a1e-5c5e89455cdb",
+      "source": {
+        "title": "FCI · официальный стандарт №205",
+        "url": "https://www.fci.be/Nomenclature/Standards/205g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-03c728a4-258a-4c31-8a1e-5c5e89455cdb-03",
+      "text": "Нахмуренное выражение чау-чау создают положение и наклон ушей. Оно не должно возникать за счёт свободных складок кожи на голове.",
+      "breedId": "03c728a4-258a-4c31-8a1e-5c5e89455cdb",
+      "source": {
+        "title": "FCI · официальный стандарт №205",
+        "url": "https://www.fci.be/Nomenclature/Standards/205g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-b7211a59-787d-4b34-b390-77b9b0dc5b9d-01",
+      "text": "В системе FCI померанский шпиц — миниатюрная разновидность немецкого шпица, описанная в общем стандарте №97.",
+      "breedId": "b7211a59-787d-4b34-b390-77b9b0dc5b9d",
+      "source": {
+        "title": "FCI · официальный стандарт №97",
+        "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-b7211a59-787d-4b34-b390-77b9b0dc5b9d-02",
+      "text": "Объём шерсти померанского шпица создаёт густой подшёрсток. Наружные волосы при этом должны быть прямыми, а не кудрявыми.",
+      "breedId": "b7211a59-787d-4b34-b390-77b9b0dc5b9d",
+      "source": {
+        "title": "FCI · официальный стандарт №97",
+        "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-b7211a59-787d-4b34-b390-77b9b0dc5b9d-03",
+      "text": "Померанские шпицы бывают не только рыжими: стандарт перечисляет белый, чёрный, коричневый, серый и ряд других окрасов.",
+      "breedId": "b7211a59-787d-4b34-b390-77b9b0dc5b9d",
+      "source": {
+        "title": "FCI · официальный стандарт №97",
+        "url": "https://www.fci.be/Nomenclature/Standards/097g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-092dae18-86f4-4b41-a3f8-f57fab2f6f2c-01",
+      "text": "Порода чихуахуа названа в честь мексиканского штата Чиуауа.",
+      "breedId": "092dae18-86f4-4b41-a3f8-f57fab2f6f2c",
+      "source": {
+        "title": "FCI · официальный стандарт №218",
+        "url": "https://www.fci.be/Nomenclature/Standards/218g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-092dae18-86f4-4b41-a3f8-f57fab2f6f2c-02",
+      "text": "Стандарт чихуахуа оценивает размер по массе, а не по росту в холке. Предпочтительная масса — от 1,5 до 2,5 кг.",
+      "breedId": "092dae18-86f4-4b41-a3f8-f57fab2f6f2c",
+      "source": {
+        "title": "FCI · официальный стандарт №218",
+        "url": "https://www.fci.be/Nomenclature/Standards/218g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-092dae18-86f4-4b41-a3f8-f57fab2f6f2c-03",
+      "text": "У чихуахуа есть две разновидности шерсти: короткая гладкая и длинная шелковистая, образующая очёсы на ушах, лапах и хвосте.",
+      "breedId": "092dae18-86f4-4b41-a3f8-f57fab2f6f2c",
+      "source": {
+        "title": "FCI · официальный стандарт №218",
+        "url": "https://www.fci.be/Nomenclature/Standards/218g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-ce40589c-295a-4259-9e83-711854db8129-01",
+      "text": "Название «йоркширский терьер» закрепилось за породой в 1870 году.",
+      "breedId": "ce40589c-295a-4259-9e83-711854db8129",
+      "source": {
+        "title": "FCI · официальный стандарт №86",
+        "url": "https://www.fci.be/Nomenclature/Standards/086g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-ce40589c-295a-4259-9e83-711854db8129-02",
+      "text": "Шерсть на корпусе взрослого йоркширского терьера по стандарту тёмная стальная синева, а не серебристо-голубая. На груди и голове расположены подпалины.",
+      "breedId": "ce40589c-295a-4259-9e83-711854db8129",
+      "source": {
+        "title": "FCI · официальный стандарт №86",
+        "url": "https://www.fci.be/Nomenclature/Standards/086g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-ce40589c-295a-4259-9e83-711854db8129-03",
+      "text": "Длинная шерсть йоркширского терьера разделяется прямым пробором от носа до конца хвоста. При этом она не должна мешать движениям.",
+      "breedId": "ce40589c-295a-4259-9e83-711854db8129",
+      "source": {
+        "title": "FCI · официальный стандарт №86",
+        "url": "https://www.fci.be/Nomenclature/Standards/086g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-9ca8f849-4979-4634-80bc-949692635577-01",
+      "text": "У кавалера признают четыре окраса: чёрно-подпалый, рубиновый, бленхейм и трёхцветный.",
+      "breedId": "9ca8f849-4979-4634-80bc-949692635577",
+      "source": {
+        "title": "FCI · официальный стандарт №136",
+        "url": "https://www.fci.be/Nomenclature/Standards/136g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-9ca8f849-4979-4634-80bc-949692635577-02",
+      "text": "Бленхейм — это каштановые отметины на белом фоне. Особо ценится небольшое пятно между ушами, напоминающее ромб.",
+      "breedId": "9ca8f849-4979-4634-80bc-949692635577",
+      "source": {
+        "title": "FCI · официальный стандарт №136",
+        "url": "https://www.fci.be/Nomenclature/Standards/136g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-9ca8f849-4979-4634-80bc-949692635577-03",
+      "text": "Шерсть кавалера должна оставаться естественной: стандарт предусматривает длинные очёсы и исключает тримминг.",
+      "breedId": "9ca8f849-4979-4634-80bc-949692635577",
+      "source": {
+        "title": "FCI · официальный стандарт №136",
+        "url": "https://www.fci.be/Nomenclature/Standards/136g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-13aab520-e65d-42ef-8b9d-8e6010b19ae3-01",
+      "text": "Название кокер-спаниеля связано с английским словом woodcock — «вальдшнеп»: этих собак использовали, чтобы поднимать птицу из укрытия.",
+      "breedId": "13aab520-e65d-42ef-8b9d-8e6010b19ae3",
+      "source": {
+        "title": "FCI · официальный стандарт №5",
+        "url": "https://www.fci.be/Nomenclature/Standards/005g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-13aab520-e65d-42ef-8b9d-8e6010b19ae3-02",
+      "text": "Рабочие и выставочные английские кокеры могут заметно различаться сложением. Стандарт отмечает, что выставочные обычно крепче и тяжелее рабочих.",
+      "breedId": "13aab520-e65d-42ef-8b9d-8e6010b19ae3",
+      "source": {
+        "title": "FCI · официальный стандарт №5",
+        "url": "https://www.fci.be/Nomenclature/Standards/005g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-13aab520-e65d-42ef-8b9d-8e6010b19ae3-03",
+      "text": "Если вытянуть ухо английского кокера вперёд, его тонкое полотно должно доставать до кончика носа.",
+      "breedId": "13aab520-e65d-42ef-8b9d-8e6010b19ae3",
+      "source": {
+        "title": "FCI · официальный стандарт №5",
+        "url": "https://www.fci.be/Nomenclature/Standards/005g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e9579b15-81f7-40ea-98e7-21af2631dceb-01",
+      "text": "Цвергшнауцер формировался в районе Франкфурта-на-Майне. Вначале его описывали как жесткошёрстного карликового пинчера.",
+      "breedId": "e9579b15-81f7-40ea-98e7-21af2631dceb",
+      "source": {
+        "title": "FCI · официальный стандарт №183",
+        "url": "https://www.fci.be/Nomenclature/Standards/183g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e9579b15-81f7-40ea-98e7-21af2631dceb-02",
+      "text": "Борода и густые брови — породные признаки цвергшнауцера. Брови слегка затеняют глаза, а борода не должна быть слишком мягкой.",
+      "breedId": "e9579b15-81f7-40ea-98e7-21af2631dceb",
+      "source": {
+        "title": "FCI · официальный стандарт №183",
+        "url": "https://www.fci.be/Nomenclature/Standards/183g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e9579b15-81f7-40ea-98e7-21af2631dceb-03",
+      "text": "Стандарт цвергшнауцера признаёт четыре окраса: чёрный, «перец с солью», чёрный с серебром и белый.",
+      "breedId": "e9579b15-81f7-40ea-98e7-21af2631dceb",
+      "source": {
+        "title": "FCI · официальный стандарт №183",
+        "url": "https://www.fci.be/Nomenclature/Standards/183g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-0d84dcb0-2eb9-41fe-882a-29e140dd0822-01",
+      "text": "Первый единый стандарт русской псовой борзой Московское общество охоты приняло в 1888 году; его автором был Н. П. Ермолов.",
+      "breedId": "0d84dcb0-2eb9-41fe-882a-29e140dd0822",
+      "source": {
+        "title": "FCI · официальный стандарт №193",
+        "url": "https://www.fci.be/Nomenclature/Standards/193g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-0d84dcb0-2eb9-41fe-882a-29e140dd0822-02",
+      "text": "Русскую псовую борзую используют не только на охоте, но и в бегах и курсинге — преследовании движущейся искусственной приманки.",
+      "breedId": "0d84dcb0-2eb9-41fe-882a-29e140dd0822",
+      "source": {
+        "title": "FCI · официальный стандарт №193",
+        "url": "https://www.fci.be/Nomenclature/Standards/193g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-0d84dcb0-2eb9-41fe-882a-29e140dd0822-03",
+      "text": "Шерсть русской псовой борзой бывает волнистой или образует крупные завитки. На голове и передней стороне ног она заметно короче.",
+      "breedId": "0d84dcb0-2eb9-41fe-882a-29e140dd0822",
+      "source": {
+        "title": "FCI · официальный стандарт №193",
+        "url": "https://www.fci.be/Nomenclature/Standards/193g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-32534831-9241-4be3-a594-70c45e1a9bbe-01",
+      "text": "Небольшие тонкие уши уиппета складываются назад так, что напоминают розу. В стандарте эта форма прямо называется «розовидной».",
+      "breedId": "32534831-9241-4be3-a594-70c45e1a9bbe",
+      "source": {
+        "title": "FCI · официальный стандарт №162",
+        "url": "https://www.fci.be/Nomenclature/Standards/162g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-32534831-9241-4be3-a594-70c45e1a9bbe-02",
+      "text": "Плавная арка поясницы — часть породного силуэта уиппета, но спина не должна выглядеть горбатой.",
+      "breedId": "32534831-9241-4be3-a594-70c45e1a9bbe",
+      "source": {
+        "title": "FCI · официальный стандарт №162",
+        "url": "https://www.fci.be/Nomenclature/Standards/162g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-32534831-9241-4be3-a594-70c45e1a9bbe-03",
+      "text": "Длинный хвост уиппета сужается к концу и не имеет очёсов. В движении он изгибается, но не поднимается выше линии спины.",
+      "breedId": "32534831-9241-4be3-a594-70c45e1a9bbe",
+      "source": {
+        "title": "FCI · официальный стандарт №162",
+        "url": "https://www.fci.be/Nomenclature/Standards/162g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e0c3dc07-73d6-4209-ae0b-8ddd99817287-01",
+      "text": "Сенбернары помогали искать путников, потерявшихся в снегу и тумане у перевала Большой Сен-Бернар. Приют на перевале расположен на высоте 2469 метров.",
+      "breedId": "e0c3dc07-73d6-4209-ae0b-8ddd99817287",
+      "source": {
+        "title": "FCI · официальный стандарт №61",
+        "url": "https://www.fci.be/Nomenclature/Standards/061g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e0c3dc07-73d6-4209-ae0b-8ddd99817287-02",
+      "text": "Сенбернар Леон стал первой собакой, внесённой в швейцарскую племенную книгу в 1884 году.",
+      "breedId": "e0c3dc07-73d6-4209-ae0b-8ddd99817287",
+      "source": {
+        "title": "FCI · официальный стандарт №61",
+        "url": "https://www.fci.be/Nomenclature/Standards/061g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e0c3dc07-73d6-4209-ae0b-8ddd99817287-03",
+      "text": "Стандарт различает короткошёрстных и длинношёрстных сенбернаров. У обеих разновидностей есть густой подшёрсток.",
+      "breedId": "e0c3dc07-73d6-4209-ae0b-8ddd99817287",
+      "source": {
+        "title": "FCI · официальный стандарт №61",
+        "url": "https://www.fci.be/Nomenclature/Standards/061g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-db7a3ede-d877-4e6f-bd98-8c9ba9ff1d8d-03",
+      "text": "Немецкий породный клуб такс основан в 1888 году. Он считается старейшим клубом, посвящённым разведению этой породы.",
+      "breedId": "db7a3ede-d877-4e6f-bd98-8c9ba9ff1d8d",
+      "source": {
+        "title": "Международная кинологическая федерация · стандарт №148",
+        "url": "https://www.fci.be/Nomenclature/Standards/148g04-en.pdf"
+      }
+    },
+    {
+      "id": "ru-2a4b364b-ec99-467c-b86c-516415601771-03",
+      "text": "Мысленная линия от кончика носа пемброка через глаз должна проходить около кончика уха — так стандарт описывает характерные пропорции головы.",
+      "breedId": "2a4b364b-ec99-467c-b86c-516415601771",
+      "source": {
+        "title": "Международная кинологическая федерация · стандарт №39",
+        "url": "https://www.fci.be/Nomenclature/Standards/039g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-e0561c26-6d8b-42ae-88df-3047873e929a-03",
+      "text": "Во время сезонной линьки хаски может почти лишаться подшёрстка. В стандарте отдельно отмечено, что для этого периода такое состояние нормально.",
+      "breedId": "e0561c26-6d8b-42ae-88df-3047873e929a",
+      "source": {
+        "title": "РКФ · стандарт №270",
+        "url": "https://help.rkf.online/ru/knowledge_base/art/934/cat/18/sibirskij-haski-270"
+      }
+    },
+    {
+      "id": "ru-80d23247-6f46-4962-90cc-c3692b4cb4a5-03",
+      "text": "Кунжутный окрас сиба — смесь чёрных, рыжих и белых волос. Стандарт отдельно описывает обычный, чёрный и рыжий кунжутный варианты.",
+      "breedId": "80d23247-6f46-4962-90cc-c3692b4cb4a5",
+      "source": {
+        "title": "РКФ · стандарт №257",
+        "url": "https://help.rkf.online/ru/knowledge_base/art/931/cat/18/siba-257"
+      }
+    },
+    {
+      "id": "ru-9ca1f843-4cad-45b3-847f-bc7975864b1d-03",
+      "text": "Пятна на голове и лапах далматина должны быть мельче, чем на корпусе. На хвосте пятнистый рисунок тоже желателен.",
       "breedId": "9ca1f843-4cad-45b3-847f-bc7975864b1d",
       "source": {
         "title": "РКФ · стандарт №153",
