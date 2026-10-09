@@ -2055,6 +2055,839 @@
         "title": "Bullterrier-3453301920.jpg",
         "changes": "WebP, 640 × 427; без дополнительного кадрирования."
       }
+    },
+    {
+      "id": "418a150a-ef16-5d18-80ed-cb51e90ff6d5",
+      "name": "Колли длинношёрстный",
+      "description": "Шотландская пастушья собака с вытянутой головой, лёгкими движениями и длинной густой шерстью. Эта карточка посвящена длинношёрстному колли; короткошёрстный колли относится к отдельному стандарту FCI.",
+      "country": "Великобритания",
+      "traits": "Обычно общителен и восприимчив к обучению. Нуждается в прогулках, занятиях и регулярном прочёсывании густого подшёрстка.",
+      "source": {
+        "title": "FCI · официальный стандарт №156",
+        "url": "https://www.fci.be/Nomenclature/Standards/156g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 27,
+          "max": 34
+        },
+        "femaleWeightKg": {
+          "min": 23,
+          "max": 29
+        },
+        "maleHeightCm": {
+          "min": 61,
+          "max": 66
+        },
+        "femaleHeightCm": {
+          "min": 56,
+          "max": 61
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/418a150a-ef16-5d18-80ed-cb51e90ff6d5-v1.webp",
+        "author": "Yasu w",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rough-Collie-japan08_(cropped).jpg",
+        "title": "Rough-Collie-japan08 (cropped).jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использован готовый кадрированный исходник Commons."
+      }
+    },
+    {
+      "id": "b0a9f340-3a14-5e5d-b4ff-d4fe8092b40a",
+      "name": "Бельгийская овчарка",
+      "description": "Подвижная пастушья и служебная собака с почти квадратным корпусом. FCI объединяет четыре разновидности: грюнендаль, тервюрен, малинуа и лакенуа. Они различаются шерстью и окрасом; на иллюстрации показаны все четыре.",
+      "country": "Бельгия",
+      "traits": "Внимательна к окружающему и охотно работает с человеком. Нуждается в последовательном обучении и занятиях; объём ухода за шерстью зависит от разновидности.",
+      "source": {
+        "title": "FCI · официальный стандарт №15",
+        "url": "https://www.fci.be/Nomenclature/Standards/015g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 25,
+          "max": 30
+        },
+        "femaleWeightKg": {
+          "min": 20,
+          "max": 25
+        },
+        "maleHeightCm": {
+          "min": 60,
+          "max": 66
+        },
+        "femaleHeightCm": {
+          "min": 56,
+          "max": 62
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/b0a9f340-3a14-5e5d-b4ff-d4fe8092b40a-v1.webp",
+        "author": "sannse; Ulrik Fallström; Pleple2000; коллаж Adventurous36",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:04_-_Belgian_shepherd_dog_varieties_-_Groenendael,Tervuren,_Malinois,_Laekenois.jpg",
+        "title": "04 - Belgian shepherd dog varieties - Groenendael,Tervuren, Malinois, Laekenois.jpg",
+        "changes": "WebP, 583 × 640; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Исходный коллаж: 1 — грюнендаль, 2 — тервюрен, 3 — малинуа, 4 — лакенуа; составлен Adventurous36."
+      }
+    },
+    {
+      "id": "19dd8848-56a9-5914-89dd-a330d39a05ac",
+      "name": "Вельш-корги-кардиган",
+      "description": "Невысокая крепкая пастушья собака из Уэльса с удлинённым корпусом, крупными стоячими ушами и длинным хвостом. Кардиган и пемброк — отдельные породы, хотя оба относятся к вельш-корги.",
+      "country": "Великобритания",
+      "traits": "Внимателен и активен, нуждается в прогулках и обучении. Плотную шерсть необходимо регулярно вычёсывать, особенно во время линьки.",
+      "source": {
+        "title": "FCI · официальный стандарт №38",
+        "url": "https://www.fci.be/Nomenclature/Standards/038g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 14,
+          "max": 17
+        },
+        "femaleWeightKg": {
+          "min": 11,
+          "max": 15
+        },
+        "maleHeightCm": {
+          "min": 27,
+          "max": 32
+        },
+        "femaleHeightCm": {
+          "min": 27,
+          "max": 32
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/19dd8848-56a9-5914-89dd-a330d39a05ac-v1.webp",
+        "author": "Svenska Mässan from Sweden",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:WELSH_CORGI_CARDIGAN,_Nickname%E2%80%99s_Bangaway_(24264727026).jpg",
+        "title": "WELSH CORGI CARDIGAN, Nickname’s Bangaway (24264727026).jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "1bc36285-6222-5bdc-b256-6225078eae2f",
+      "name": "Кавказская овчарка",
+      "description": "Крупная охранная собака, сформировавшаяся среди собак Кавказа. Крепкий костяк, сильная мускулатура и густая шерсть связаны с работой по защите стад и жилищ в суровых условиях.",
+      "country": "Россия; Кавказ",
+      "traits": "Самостоятельна и настороженна. Требует опытного владельца, ранней социализации и надёжного контроля; густая шерсть нуждается в вычёсывании.",
+      "source": {
+        "title": "FCI · официальный стандарт №328",
+        "url": "https://www.fci.be/Nomenclature/Standards/328g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 45,
+          "max": 77
+        },
+        "femaleWeightKg": {
+          "min": 45,
+          "max": 77
+        },
+        "maleHeightCm": {
+          "min": 58,
+          "max": 76
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 76
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/1bc36285-6222-5bdc-b256-6225078eae2f-v1.webp",
+        "author": "Pleple2000",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Owczarek_kaukaski_65556.jpg",
+        "title": "Owczarek kaukaski 65556.jpg",
+        "changes": "WebP, 640 × 534; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "89b1d559-3d3b-5b9e-b8f4-a0c7fab2a758",
+      "name": "Среднеазиатская овчарка",
+      "description": "Мощная собака, сложившаяся на обширных территориях Центральной Азии. Её использовали для охраны скота, караванов и жилищ. Корпус немного вытянут, голова массивная, шерсть с плотным подшёрстком.",
+      "country": "Россия; Центральная Азия",
+      "traits": "Самостоятельна, территориальна и склонна беречь силы. Нуждается в опытном обращении, социализации и безопасно ограждённой территории.",
+      "source": {
+        "title": "FCI · официальный стандарт №335",
+        "url": "https://www.fci.be/Nomenclature/Standards/335g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 50
+        },
+        "femaleWeightKg": {
+          "min": 40
+        },
+        "maleHeightCm": {
+          "min": 70
+        },
+        "femaleHeightCm": {
+          "min": 65
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/89b1d559-3d3b-5b9e-b8f4-a0c7fab2a758-v1.webp",
+        "author": "Halalosirambankiskecskek",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:2.CAO_in_Hungary.jpg",
+        "title": "2.CAO in Hungary.jpg",
+        "changes": "WebP, 640 × 507; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использована производная версия Commons от CAO in Hungary.jpg."
+      }
+    },
+    {
+      "id": "54841217-42c5-50d7-a248-dd749d8e23e5",
+      "name": "Русский чёрный терьер",
+      "description": "Крупная служебная собака, выведенная в СССР в середине XX века. Имеет крепкий корпус, массивную голову и густую чёрную шерсть с бородой и усами. Несмотря на название, FCI относит её к группе пинчеров, шнауцеров и молоссов.",
+      "country": "Россия",
+      "traits": "Уверен в себе, внимателен и обучаем. Нуждается в последовательном воспитании, нагрузке и регулярном уходе за густой шерстью.",
+      "source": {
+        "title": "FCI · официальный стандарт №327",
+        "url": "https://www.fci.be/Nomenclature/Standards/327g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 36,
+          "max": 59
+        },
+        "femaleWeightKg": {
+          "min": 36,
+          "max": 59
+        },
+        "maleHeightCm": {
+          "min": 69,
+          "max": 76
+        },
+        "femaleHeightCm": {
+          "min": 66,
+          "max": 74
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/54841217-42c5-50d7-a248-dd749d8e23e5-v1.webp",
+        "author": "Pleple2000",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wystawa_Rybnik_02.10.2011_czarny_terier_rosyjski_2pl.jpg",
+        "title": "Wystawa Rybnik 02.10.2011 czarny terier rosyjski 2pl.jpg",
+        "changes": "WebP, 640 × 454; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "fbf1847d-1277-5611-93b0-6eb2c9d2d0ca",
+      "name": "Тибетский мастиф",
+      "description": "Мощная горная охранная собака, связанная с кочевыми пастухами Гималаев и тибетскими монастырями. Отличается плотной двойной шерстью, массивной головой и хвостом, который несёт над спиной.",
+      "country": "Китай; Тибет",
+      "traits": "Самостоятелен и сдержан с незнакомыми. Требует социализации и терпеливого обучения; во время сезонной линьки особенно важен уход за подшёрстком.",
+      "source": {
+        "title": "FCI · официальный стандарт №230",
+        "url": "https://www.fci.be/Nomenclature/Standards/230g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 41,
+          "max": 68
+        },
+        "femaleWeightKg": {
+          "min": 32,
+          "max": 54
+        },
+        "maleHeightCm": {
+          "min": 66,
+          "max": 76
+        },
+        "femaleHeightCm": {
+          "min": 61,
+          "max": 71
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/fbf1847d-1277-5611-93b0-6eb2c9d2d0ca-v1.webp",
+        "author": "Svenska Mässan from Sweden",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BIR_Grupp_2-_TIBETANSK_MASTIFF,_Legenda_Tibeta_Temudzhin_(23938629470).jpg",
+        "title": "BIR Grupp 2- TIBETANSK MASTIFF, Legenda Tibeta Temudzhin (23938629470).jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "4c921b69-a973-535d-a9b3-d688e61a972e",
+      "name": "Джек-рассел-терьер",
+      "description": "Небольшой рабочий терьер английского происхождения, порода развивалась и в Австралии. Корпус чуть длиннее высоты в холке. Шерсть бывает гладкой, жёсткой или промежуточной — брокен.",
+      "country": "Великобритания; развитие породы — Австралия",
+      "traits": "Энергичен, любознателен и настойчив. Нуждается в занятиях и контроле охотничьего поведения; маленький размер не означает малой потребности в нагрузке.",
+      "source": {
+        "title": "FCI · официальный стандарт №345",
+        "url": "https://www.fci.be/Nomenclature/Standards/345g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 4.1,
+          "max": 6.8
+        },
+        "femaleWeightKg": {
+          "min": 4.1,
+          "max": 6.8
+        },
+        "maleHeightCm": {
+          "min": 25,
+          "max": 30
+        },
+        "femaleHeightCm": {
+          "min": 25,
+          "max": 30
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/4c921b69-a973-535d-a9b3-d688e61a972e-v1.webp",
+        "author": "Plank",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jack_Russell_Terrier_1.jpg",
+        "title": "Jack Russell Terrier 1.jpg",
+        "changes": "WebP, 427 × 640; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "ae5fe674-9d9a-59e2-a5e9-cc4e673a5597",
+      "name": "Стаффордширский бультерьер",
+      "description": "Компактный короткошёрстный терьер с широкой головой и развитой мускулатурой. При сравнительно небольшом росте выглядит сильным, но должен сохранять подвижность и сбалансированные пропорции.",
+      "country": "Великобритания",
+      "traits": "Энергичен и привязан к людям. Нуждается в обучении и управляемых знакомствах с другими собаками; уход за короткой шерстью несложен.",
+      "source": {
+        "title": "FCI · официальный стандарт №76",
+        "url": "https://www.fci.be/Nomenclature/Standards/076g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 13,
+          "max": 17
+        },
+        "femaleWeightKg": {
+          "min": 11,
+          "max": 15
+        },
+        "maleHeightCm": {
+          "min": 36,
+          "max": 41
+        },
+        "femaleHeightCm": {
+          "min": 36,
+          "max": 41
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/ae5fe674-9d9a-59e2-a5e9-cc4e673a5597-v1.webp",
+        "author": "Or Logassi",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D7%A1%D7%90%D7%98%D7%A3_%D7%90%D7%A0%D7%92%D7%9C%D7%99.jpg",
+        "title": "סאטף אנגלי.jpg",
+        "changes": "WebP, 300 × 399; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "3b00c65d-f214-5967-827e-9fd1897e40c3",
+      "name": "Японский шпиц",
+      "description": "Небольшая собака-компаньон с белой двойной шерстью, острой мордой, стоячими ушами и пушистым хвостом над спиной. Породу сформировали в Японии на основе привезённых белых шпицев.",
+      "country": "Япония",
+      "traits": "Подвижен, внимателен и общителен. Нуждается в занятиях и регулярном вычёсывании; привычку спокойно реагировать на звуки стоит развивать с детства.",
+      "source": {
+        "title": "FCI · официальный стандарт №262",
+        "url": "https://www.fci.be/Nomenclature/Standards/262g05-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 4.5,
+          "max": 11.3
+        },
+        "femaleWeightKg": {
+          "min": 4.5,
+          "max": 11.3
+        },
+        "maleHeightCm": {
+          "min": 30,
+          "max": 38
+        },
+        "femaleHeightCm": {
+          "min": 30,
+          "max": 38
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/3b00c65d-f214-5967-827e-9fd1897e40c3-v1.webp",
+        "author": "Svenska Mässan from Sweden",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BIR_Grupp_5-_JAPANSK_SPETS,_Chezzay%E2%80%99s_Nice_N%E2%80%99Easy_(23938629860).jpg",
+        "title": "BIR Grupp 5- JAPANSK SPETS, Chezzay’s Nice N’Easy (23938629860).jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "8e7b82da-9d1a-5a4e-9826-e3a7470545cc",
+      "name": "Родезийский риджбек",
+      "description": "Короткошёрстная выносливая охотничья собака юга Африки. Отличается мускулистым, но не тяжёлым сложением и гребнем шерсти на спине, растущей в противоположном направлении.",
+      "country": "Южная Африка; Зимбабве",
+      "traits": "Самостоятелен и обычно сдержан с незнакомыми. Нуждается в движении, обучении и контроле преследования животных.",
+      "source": {
+        "title": "FCI · официальный стандарт №146",
+        "url": "https://www.fci.be/Nomenclature/Standards/146g06-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 32,
+          "max": 39
+        },
+        "femaleWeightKg": {
+          "min": 32,
+          "max": 39
+        },
+        "maleHeightCm": {
+          "min": 64,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 61,
+          "max": 66
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/8e7b82da-9d1a-5a4e-9826-e3a7470545cc-v1.webp",
+        "author": "Bonnie van den Born (Bonfoto)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhodesian_ridgeback.jpg",
+        "title": "Rhodesian ridgeback.jpg",
+        "changes": "WebP, 500 × 332; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "dccbe791-e7ee-5b25-b090-9874fcf091b3",
+      "name": "Бладхаунд",
+      "description": "Крупная гончая с длинными ушами и свободной кожей на голове и шее. Порода связана с арденнскими гончими святого Губерта; её специализация — продолжительная работа по запаховому следу.",
+      "country": "Бельгия",
+      "traits": "Настойчив в поиске запаха и нуждается в спокойном обучении. Прогулки требуют контроля; за ушами и складками кожи необходим регулярный уход.",
+      "source": {
+        "title": "FCI · официальный стандарт №84",
+        "url": "https://www.fci.be/Nomenclature/Standards/084g06-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 41,
+          "max": 50
+        },
+        "femaleWeightKg": {
+          "min": 36,
+          "max": 45
+        },
+        "maleHeightCm": {
+          "min": 64,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 64
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/dccbe791-e7ee-5b25-b090-9874fcf091b3-v1.webp",
+        "author": "Cleanboot (talk) (Uploads)",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bloodhound_black_and_tan_%27blanket%27.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloodhound_black_and_tan_%27blanket%27.jpg",
+        "title": "Bloodhound black and tan 'blanket'.jpg",
+        "changes": "WebP, 640 × 536; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "f8ae894d-b190-5f23-98b2-56455e7aaba0",
+      "name": "Английский сеттер",
+      "description": "Элегантная длинношёрстная легавая, выведенная для поиска птицы. Характерны плавные движения, длинные очёсы и крапчатый окрас. Английский сеттер — отдельная порода, не разновидность ирландского красного сеттера.",
+      "country": "Великобритания",
+      "traits": "Активен, общителен и обладает выраженным охотничьим интересом. Нуждается в длительных прогулках, занятиях и уходе за очёсами.",
+      "source": {
+        "title": "FCI · официальный стандарт №2",
+        "url": "https://www.fci.be/Nomenclature/Standards/002g07-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10
+        },
+        "maleWeightKg": {
+          "min": 29,
+          "max": 36
+        },
+        "femaleWeightKg": {
+          "min": 20,
+          "max": 25
+        },
+        "maleHeightCm": {
+          "min": 64,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 64
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/f8ae894d-b190-5f23-98b2-56455e7aaba0-v1.webp",
+        "author": "Elf at English Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:EnglishSetter9_fx_wb.jpg",
+        "title": "EnglishSetter9 fx wb.jpg",
+        "changes": "WebP, 500 × 375; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "bd0eff7f-bb10-5798-b4ef-9770ccd4e8fa",
+      "name": "Английский спрингер-спаниель",
+      "description": "Подвижный охотничий спаниель крепкого сложения с висячими ушами и шерстью средней длины. Его работа — найти птицу, поднять её из укрытия и подать добычу; рабочие и выставочные линии могут различаться по облику.",
+      "country": "Великобритания",
+      "traits": "Охотно взаимодействует с человеком и нуждается в регулярной нагрузке. Шерсть следует расчёсывать, а уши осматривать после прогулок.",
+      "source": {
+        "title": "FCI · официальный стандарт №125",
+        "url": "https://www.fci.be/Nomenclature/Standards/125g08-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 14,
+          "max": 23
+        },
+        "femaleWeightKg": {
+          "min": 14,
+          "max": 23
+        },
+        "maleHeightCm": {
+          "min": 45,
+          "max": 50
+        },
+        "femaleHeightCm": {
+          "min": 45,
+          "max": 50
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/bd0eff7f-bb10-5798-b4ef-9770ccd4e8fa-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:English_Springer_Spaniel_liver_%26_white.jpg",
+        "title": "English Springer Spaniel liver & white.jpg",
+        "changes": "WebP, 640 × 528; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "23b70baf-adf0-5dd0-ae5f-af8f7011a69f",
+      "name": "Американский кокер-спаниель",
+      "description": "Небольшой спаниель американского разведения с компактным корпусом, округлым черепом и длинной шелковистой шерстью. Американский кокер и английский кокер — самостоятельные породы с разными стандартами.",
+      "country": "США",
+      "traits": "Общителен и подвижен. Длинная шерсть требует систематического расчёсывания и стрижки; необходимы прогулки и уход за ушами.",
+      "source": {
+        "title": "FCI · официальный стандарт №167",
+        "url": "https://www.fci.be/Nomenclature/Standards/167g08-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 11,
+          "max": 14
+        },
+        "femaleWeightKg": {
+          "min": 9,
+          "max": 11
+        },
+        "maleHeightCm": {
+          "min": 37,
+          "max": 39
+        },
+        "femaleHeightCm": {
+          "min": 34,
+          "max": 37
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/23b70baf-adf0-5dd0-ae5f-af8f7011a69f-v1.webp",
+        "author": "Kulala",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:PointbreakHoneyimHome.jpg",
+        "title": "PointbreakHoneyimHome.jpg",
+        "changes": "WebP, 489 × 358; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "f0a60ab1-3445-556a-b234-0ae308c397cc",
+      "name": "Пекинес",
+      "description": "Небольшая коренастая собака-компаньон китайского происхождения с широкой головой и густой шерстью. Её облик часто сравнивают со львом; при этом шерсть и особенности морды не должны мешать свободному движению и дыханию.",
+      "country": "Китай",
+      "traits": "Самостоятелен и привязан к близким. Требует ухода за шерстью и внимательного выбора нагрузки, особенно в жаркую погоду.",
+      "source": {
+        "title": "FCI · официальный стандарт №207",
+        "url": "https://www.fci.be/Nomenclature/Standards/207g09-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "max": 6.4
+        },
+        "femaleWeightKg": {
+          "max": 6.4
+        },
+        "maleHeightCm": {
+          "min": 15,
+          "max": 23
+        },
+        "femaleHeightCm": {
+          "min": 15,
+          "max": 23
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/f0a60ab1-3445-556a-b234-0ae308c397cc-v1.webp",
+        "author": "SheltieBoy",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:1AKC_Pekingese_Dog_Show_2011.jpg",
+        "title": "1AKC Pekingese Dog Show 2011.jpg",
+        "changes": "WebP, 640 × 437; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "b4f4438b-4068-5c9b-b648-2db082a7bb06",
+      "name": "Японский хин",
+      "description": "Маленькая декоративная собака с широкой мордой, изящными движениями и длинной шелковистой шерстью. Японский хин развивался как придворный компаньон; его корпус близок к квадратному.",
+      "country": "Япония",
+      "traits": "Обычно мягок в общении и чувствителен к обращению. Нуждается в бережной нагрузке, уходе за шерстью и внимании к глазам.",
+      "source": {
+        "title": "FCI · официальный стандарт №206",
+        "url": "https://www.fci.be/Nomenclature/Standards/206g09-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 3.2,
+          "max": 5
+        },
+        "femaleWeightKg": {
+          "min": 3.2,
+          "max": 5
+        },
+        "maleHeightCm": {
+          "min": 20,
+          "max": 28
+        },
+        "femaleHeightCm": {
+          "min": 20,
+          "max": 28
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/b4f4438b-4068-5c9b-b648-2db082a7bb06-v1.webp",
+        "author": "Joliot",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chin_posing.jpg",
+        "title": "Chin posing.jpg",
+        "changes": "WebP, 624 × 640; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "2cfb5d46-8e91-5aa7-9cbe-3f4ae648f4f1",
+      "name": "Бостон-терьер",
+      "description": "Компактная американская собака-компаньон с короткой шерстью, широкой короткой мордой и коротким хвостом. Контрастные белые отметины подчёркивают характерный рисунок окраса.",
+      "country": "США",
+      "traits": "Обычно общителен и охотно участвует в играх. Нуждается в обучении и умеренной нагрузке; короткая морда требует осторожности в жару.",
+      "source": {
+        "title": "FCI · официальный стандарт №140",
+        "url": "https://www.fci.be/Nomenclature/Standards/140g09-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 11,
+          "max": 13
+        },
+        "maleWeightKg": {
+          "min": 5.4,
+          "max": 11.3
+        },
+        "femaleWeightKg": {
+          "min": 5.4,
+          "max": 11.3
+        },
+        "maleHeightCm": {
+          "min": 25,
+          "max": 30
+        },
+        "femaleHeightCm": {
+          "min": 25,
+          "max": 30
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/2cfb5d46-8e91-5aa7-9cbe-3f4ae648f4f1-v1.webp",
+        "author": "Andreas Schlaugat",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boston-terrier-carlos-de.JPG",
+        "title": "Boston-terrier-carlos-de.JPG",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "5802bd86-d391-584e-8fce-5c84ea2a51df",
+      "name": "Китайская хохлатая собака",
+      "description": "Небольшая изящная собака-компаньон с двумя вариантами шерсти: голым и пуховым, который называют паудер-пафф. У голой собаки шерсть сохраняется на голове, лапах и хвосте; пуховая покрыта мягкой шерстью целиком. На фото — голый вариант.",
+      "country": "Китай; патронат — Великобритания",
+      "traits": "Подвижна и ориентирована на общение. Голая кожа требует защиты от холода и солнца, а шерсть пухового варианта — регулярного расчёсывания.",
+      "source": {
+        "title": "FCI · официальный стандарт №288",
+        "url": "https://www.fci.be/Nomenclature/Standards/288g09-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 13,
+          "max": 18
+        },
+        "maleWeightKg": {
+          "min": 3.6,
+          "max": 5.4
+        },
+        "femaleWeightKg": {
+          "min": 3.6,
+          "max": 5.4
+        },
+        "maleHeightCm": {
+          "min": 28,
+          "max": 33
+        },
+        "femaleHeightCm": {
+          "min": 28,
+          "max": 33
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/5802bd86-d391-584e-8fce-5c84ea2a51df-v1.webp",
+        "author": "Tommy Gildseth",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:IndyStands.jpg",
+        "title": "IndyStands.jpg",
+        "changes": "WebP, 640 × 425; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "fba26dec-f0b7-5707-8ab7-fbcf7902018d",
+      "name": "Ирландский вольфхаунд",
+      "description": "Очень крупная жесткошёрстная борзая ирландского происхождения. Сочетает длинные ноги и корпус с сильной мускулатурой; исторически использовалась в охоте на крупного зверя.",
+      "country": "Ирландия",
+      "traits": "Обычно спокоен в быту, но нуждается в пространстве и обучении управляемости. Охотничий интерес требует контроля рядом с небольшими животными.",
+      "source": {
+        "title": "FCI · официальный стандарт №160",
+        "url": "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 6,
+          "max": 8
+        },
+        "maleWeightKg": {
+          "min": 64,
+          "max": 82
+        },
+        "femaleWeightKg": {
+          "min": 52,
+          "max": 64
+        },
+        "maleHeightCm": {
+          "min": 86,
+          "max": 89
+        },
+        "femaleHeightCm": {
+          "min": 81,
+          "max": 86
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/fba26dec-f0b7-5707-8ab7-fbcf7902018d-v1.webp",
+        "author": "Dux",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:(2)_Irish_Wolfhound_4.jpg",
+        "title": "(2) Irish Wolfhound 4.jpg",
+        "changes": "WebP, 640 × 509; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использован фрагмент Irish Wolfhound 4.jpg, выделенный в Commons пользователем Adventurous36."
+      }
     }
   ],
   "facts": [
@@ -3379,6 +4212,186 @@
       "source": {
         "title": "FCI · официальный стандарт №11",
         "url": "https://www.fci.be/Nomenclature/Standards/011g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-fd4f122c-fd8a-506d-9343-65ee6c519ae1",
+      "text": "Длинношёрстный и короткошёрстный колли происходят от общего поголовья: официальный стандарт отмечает родственные линии, сохраняющиеся у них до сих пор.",
+      "breedId": "418a150a-ef16-5d18-80ed-cb51e90ff6d5",
+      "source": {
+        "title": "FCI · официальный стандарт №156",
+        "url": "https://www.fci.be/Nomenclature/Standards/156g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-c208a376-4d67-50cb-a6b1-c857907b175e",
+      "text": "В 1891 году профессор Адольф Рёль собрал в Кюрегеме 117 пастушьих собак: этот смотр стал одним из шагов к созданию бельгийской овчарки.",
+      "breedId": "b0a9f340-3a14-5e5d-b4ff-d4fe8092b40a",
+      "source": {
+        "title": "FCI · официальный стандарт №15",
+        "url": "https://www.fci.be/Nomenclature/Standards/015g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-967243c5-c8c0-55aa-b565-db8a9237d4ca",
+      "text": "У вельш-корги-кардигана стандарт допускает голубые глаза только при мраморном окрасе блю-мерль; это может быть один глаз или оба.",
+      "breedId": "19dd8848-56a9-5914-89dd-a330d39a05ac",
+      "source": {
+        "title": "FCI · официальный стандарт №38",
+        "url": "https://www.fci.be/Nomenclature/Standards/038g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-7dc80e97-bc71-5d1d-afb7-f26d4ee28db4",
+      "text": "Планомерную селекционную работу с кавказской овчаркой в СССР начали в 1920-х годах, отбирая в том числе выносливость и устойчивость к непогоде.",
+      "breedId": "1bc36285-6222-5bdc-b256-6225078eae2f",
+      "source": {
+        "title": "FCI · официальный стандарт №328",
+        "url": "https://www.fci.be/Nomenclature/Standards/328g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-2345fc97-f07a-5e9d-9119-37213d3d926c",
+      "text": "Среднеазиатская овчарка созревает медленно: в официальном стандарте полная зрелость отнесена примерно к трёхлетнему возрасту.",
+      "breedId": "89b1d559-3d3b-5b9e-b8f4-a0c7fab2a758",
+      "source": {
+        "title": "FCI · официальный стандарт №335",
+        "url": "https://www.fci.be/Nomenclature/Standards/335g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-22750a75-e970-5b50-8e80-14a94701d5d7",
+      "text": "В создании русского чёрного терьера участвовали несколько пород; главным предком официальный стандарт называет ризеншнауцера.",
+      "breedId": "54841217-42c5-50d7-a248-dd749d8e23e5",
+      "source": {
+        "title": "FCI · официальный стандарт №327",
+        "url": "https://www.fci.be/Nomenclature/Standards/327g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-877df676-f582-5d79-a652-c5be63c62492",
+      "text": "Тибетский мастиф поздно достигает полной зрелости: стандарт указывает 2–3 года для сук и не менее 4 лет для кобелей.",
+      "breedId": "fbf1847d-1277-5611-93b0-6eb2c9d2d0ca",
+      "source": {
+        "title": "FCI · официальный стандарт №230",
+        "url": "https://www.fci.be/Nomenclature/Standards/230g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0282c57e-d449-5f92-8be8-b94c19f23ce4",
+      "text": "Джек-рассел и парсон-рассел происходят от одного рабочего типа терьеров: парсон выше и ближе к квадратному формату, джек-рассел ниже и несколько длиннее.",
+      "breedId": "4c921b69-a973-535d-a9b3-d688e61a972e",
+      "source": {
+        "title": "FCI · официальный стандарт №345",
+        "url": "https://www.fci.be/Nomenclature/Standards/345g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-2300315e-ee9f-5a8f-aa38-127943df895a",
+      "text": "У стаффордширского бультерьера стандарт предусматривает два положения ушей: полустоячие или сложенные назад «розой».",
+      "breedId": "ae5fe674-9d9a-59e2-a5e9-cc4e673a5597",
+      "source": {
+        "title": "FCI · официальный стандарт №76",
+        "url": "https://www.fci.be/Nomenclature/Standards/076g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-c5a3cd9d-083e-5eb9-8139-c51281543725",
+      "text": "Единый стандарт японского шпица Японский кеннел-клуб установил в 1948 году, после Второй мировой войны.",
+      "breedId": "3b00c65d-f214-5967-827e-9fd1897e40c3",
+      "source": {
+        "title": "FCI · официальный стандарт №262",
+        "url": "https://www.fci.be/Nomenclature/Standards/262g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5d739683-77bd-5694-8ca7-381d9f1d34a7",
+      "text": "Первый стандарт родезийского риджбека составили в Булавайо в 1922 году, взяв за основу стандарт далматина.",
+      "breedId": "8e7b82da-9d1a-5a4e-9826-e3a7470545cc",
+      "source": {
+        "title": "FCI · официальный стандарт №146",
+        "url": "https://www.fci.be/Nomenclature/Standards/146g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0fff29e9-7ce4-595e-b966-c9e047e4fcc2",
+      "text": "Название bloodhound связывают с выражением blooded hound — «чистокровная гончая», а не с кровожадностью собаки.",
+      "breedId": "dccbe791-e7ee-5b25-b090-9874fcf091b3",
+      "source": {
+        "title": "FCI · официальный стандарт №84",
+        "url": "https://www.fci.be/Nomenclature/Standards/084g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-a6bc3c3c-902e-5b55-8aaa-03ef2760d327",
+      "text": "Крапчатую расцветку английского сеттера называют «бельтон»: в стандарте этим словом обозначены сочетания белого фона с цветным крапом.",
+      "breedId": "f8ae894d-b190-5f23-98b2-56455e7aaba0",
+      "source": {
+        "title": "FCI · официальный стандарт №2",
+        "url": "https://www.fci.be/Nomenclature/Standards/002g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-bcf4c356-5d30-50b1-bac5-0ff3956f7bfa",
+      "text": "До распространения ружей предки английского спрингер-спаниеля поднимали дичь для ловли сетью, охоты с соколом или борзой.",
+      "breedId": "bd0eff7f-bb10-5798-b4ef-9770ccd4e8fa",
+      "source": {
+        "title": "FCI · официальный стандарт №125",
+        "url": "https://www.fci.be/Nomenclature/Standards/125g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5421ff92-c76a-5bfc-ae6c-56969fd14be5",
+      "text": "По стандарту американского кокер-спаниеля длина корпуса от груди до задней части бедра немного превышает высоту в холке: он не должен выглядеть длинным и приземистым.",
+      "breedId": "23b70baf-adf0-5dd0-ae5f-af8f7011a69f",
+      "source": {
+        "title": "FCI · официальный стандарт №167",
+        "url": "https://www.fci.be/Nomenclature/Standards/167g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-18ee9148-ca07-5caa-85dc-e58947b3ad1e",
+      "text": "Современный стандарт пекинеса прямо требует, чтобы складка над носом не закрывала глаза или нос и не мешала их работе.",
+      "breedId": "f0a60ab1-3445-556a-b234-0ae308c397cc",
+      "source": {
+        "title": "FCI · официальный стандарт №207",
+        "url": "https://www.fci.be/Nomenclature/Standards/207g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-fbb4480d-d7fe-5d64-a0bc-6b741f625645",
+      "text": "В 1853 году коммодор Мэттью Перри вывез японских хинов из Японии; согласно стандарту FCI, двух собак подарили королеве Виктории.",
+      "breedId": "b4f4438b-4068-5c9b-b648-2db082a7bb06",
+      "source": {
+        "title": "FCI · официальный стандарт №206",
+        "url": "https://www.fci.be/Nomenclature/Standards/206g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1c1dcab6-3ca8-5b22-87f3-d0aaa83857a7",
+      "text": "Бостон-терьер в классификации FCI относится к малым молоссам группы собак-компаньонов, хотя в названии сохранилось слово «терьер».",
+      "breedId": "2cfb5d46-8e91-5aa7-9cbe-3f4ae648f4f1",
+      "source": {
+        "title": "FCI · официальный стандарт №140",
+        "url": "https://www.fci.be/Nomenclature/Standards/140g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-3fd43048-23b4-5b1c-9268-876b98dfe9a2",
+      "text": "Помимо двух вариантов шерсти, стандарт китайской хохлатой описывает два типа сложения: более лёгкий «олений» и более крепкий «кобби».",
+      "breedId": "5802bd86-d391-584e-8fce-5c84ea2a51df",
+      "source": {
+        "title": "FCI · официальный стандарт №288",
+        "url": "https://www.fci.be/Nomenclature/Standards/288g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-7e2125e7-2209-5254-b4d0-fc952795fd1a",
+      "text": "В 1885 году появился первый стандарт ирландского вольфхаунда и был основан породный клуб.",
+      "breedId": "fba26dec-f0b7-5707-8ab7-fbcf7902018d",
+      "source": {
+        "title": "FCI · официальный стандарт №160",
+        "url": "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf"
       }
     }
   ]
