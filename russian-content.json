@@ -10,8 +10,8 @@
       "traits": "Общительность, понятливость, любовь к воде.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
-          "max": 14
+          "min": 11,
+          "max": 13
         },
         "maleWeightKg": {
           "min": 29,
@@ -61,7 +61,7 @@
         },
         "femaleWeightKg": {
           "min": 25,
-          "max": 32
+          "max": 29
         },
         "maleHeightCm": {
           "min": 58,
@@ -95,7 +95,7 @@
       "metrics": {
         "lifeYears": {
           "min": 7,
-          "max": 10
+          "max": 12
         },
         "maleWeightKg": {
           "min": 30,
@@ -136,24 +136,24 @@
       "traits": "Активность, настойчивость, дружелюбие.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
+          "min": 10,
           "max": 15
         },
         "maleWeightKg": {
           "min": 9,
-          "max": 14
+          "max": 11
         },
         "femaleWeightKg": {
           "min": 9,
-          "max": 14
+          "max": 11
         },
         "maleHeightCm": {
           "min": 33,
-          "max": 38
+          "max": 40
         },
         "femaleHeightCm": {
           "min": 33,
-          "max": 38
+          "max": 40
         }
       },
       "source": {
@@ -178,24 +178,24 @@
       "traits": "Обучаемость, активность, преданность.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
-          "max": 15
+          "min": 10,
+          "max": 18
         },
         "maleWeightKg": {
-          "min": 20,
-          "max": 30
+          "min": 27,
+          "max": 32
         },
         "femaleWeightKg": {
-          "min": 20,
-          "max": 27
+          "min": 18,
+          "max": 23
         },
         "maleHeightCm": {
-          "min": 45,
-          "max": 62
+          "min": 56,
+          "max": 69
         },
         "femaleHeightCm": {
-          "min": 45,
-          "max": 62
+          "min": 56,
+          "max": 69
         }
       },
       "source": {
@@ -221,7 +221,7 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 15
+          "max": 16
         },
         "maleWeightKg": {
           "min": 7,
@@ -263,7 +263,7 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 15
+          "max": 13
         },
         "maleWeightKg": {
           "min": 10,
@@ -346,16 +346,16 @@
       "traits": "Преданность, бдительность, развитые чувства.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
-          "max": 15
+          "min": 13,
+          "max": 16
         },
         "maleWeightKg": {
-          "min": 8,
-          "max": 11
+          "min": 7.7,
+          "max": 11.8
         },
         "femaleWeightKg": {
-          "min": 7,
-          "max": 9
+          "min": 6.4,
+          "max": 9.1
         },
         "maleHeightCm": {
           "min": 37,
@@ -392,11 +392,11 @@
           "max": 13
         },
         "maleWeightKg": {
-          "min": 25,
+          "min": 20,
           "max": 32
         },
         "femaleWeightKg": {
-          "min": 25,
+          "min": 20,
           "max": 32
         },
         "maleHeightCm": {
@@ -431,15 +431,15 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 16
+          "max": 15
         },
         "maleWeightKg": {
           "min": 14,
           "max": 25
         },
         "femaleWeightKg": {
-          "min": 12,
-          "max": 20
+          "min": 14,
+          "max": 25
         },
         "maleHeightCm": {
           "min": 48,
@@ -476,11 +476,11 @@
           "max": 15
         },
         "maleWeightKg": {
-          "min": 20,
-          "max": 30
+          "min": 23,
+          "max": 29
         },
         "femaleWeightKg": {
-          "min": 17,
+          "min": 18,
           "max": 25
         },
         "maleHeightCm": {
@@ -514,12 +514,12 @@
       "traits": "Уверенность, преданность, работоспособность.",
       "metrics": {
         "lifeYears": {
-          "min": 8,
+          "min": 9,
           "max": 10
         },
         "maleWeightKg": {
-          "min": 50,
-          "max": 60
+          "min": 43,
+          "max": 61
         },
         "femaleWeightKg": {
           "min": 36,
@@ -557,15 +557,15 @@
       "metrics": {
         "lifeYears": {
           "min": 10,
-          "max": 13
+          "max": 12
         },
         "maleWeightKg": {
-          "min": 40,
+          "min": 34,
           "max": 45
         },
         "femaleWeightKg": {
-          "min": 25,
-          "max": 35
+          "min": 27,
+          "max": 41
         },
         "maleHeightCm": {
           "min": 66,
@@ -602,11 +602,11 @@
           "max": 12
         },
         "maleWeightKg": {
-          "min": 25,
-          "max": 32
+          "min": 29,
+          "max": 36
         },
         "femaleWeightKg": {
-          "min": 20,
+          "min": 23,
           "max": 29
         },
         "maleHeightCm": {
@@ -682,7 +682,7 @@
       "traits": "Спокойствие, мягкость, сила.",
       "metrics": {
         "lifeYears": {
-          "min": 8,
+          "min": 9,
           "max": 10
         },
         "maleWeightKg": {
@@ -694,12 +694,12 @@
           "max": 54
         },
         "maleHeightCm": {
-          "min": 71,
+          "min": 66,
           "max": 71
         },
         "femaleHeightCm": {
           "min": 66,
-          "max": 66
+          "max": 71
         }
       },
       "source": {
@@ -729,7 +729,7 @@
         },
         "maleWeightKg": {
           "min": 20,
-          "max": 30
+          "max": 29
         },
         "femaleWeightKg": {
           "min": 16,
@@ -774,16 +774,16 @@
           "max": 39
         },
         "femaleWeightKg": {
-          "min": 32,
-          "max": 38
+          "min": 34,
+          "max": 39
         },
         "maleHeightCm": {
-          "min": 61,
-          "max": 66
+          "min": 58,
+          "max": 64
         },
         "femaleHeightCm": {
-          "min": 56,
-          "max": 61
+          "min": 58,
+          "max": 64
         }
       },
       "source": {
@@ -808,23 +808,23 @@
       "traits": "Сдержанность, преданность, внимательность.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
-          "max": 15
+          "min": 10,
+          "max": 12
         },
         "maleWeightKg": {
-          "min": 30,
+          "min": 29,
           "max": 34
         },
         "femaleWeightKg": {
           "min": 25,
-          "max": 30
+          "max": 29
         },
         "maleHeightCm": {
           "min": 64,
           "max": 70
         },
         "femaleHeightCm": {
-          "min": 58,
+          "min": 57,
           "max": 64
         }
       },
@@ -850,8 +850,8 @@
       "traits": "Самостоятельность, сдержанность, преданность.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
-          "max": 15
+          "min": 8,
+          "max": 12
         },
         "maleWeightKg": {
           "min": 20,
@@ -862,12 +862,12 @@
           "max": 32
         },
         "maleHeightCm": {
-          "min": 46,
-          "max": 51
+          "min": 48,
+          "max": 56
         },
         "femaleHeightCm": {
-          "min": 43,
-          "max": 48
+          "min": 46,
+          "max": 51
         }
       },
       "source": {
@@ -896,20 +896,20 @@
           "max": 16
         },
         "maleWeightKg": {
-          "min": 1,
-          "max": 3
+          "min": 1.4,
+          "max": 3.2
         },
         "femaleWeightKg": {
-          "min": 1,
-          "max": 3
+          "min": 1.4,
+          "max": 3.2
         },
         "maleHeightCm": {
-          "min": 18,
-          "max": 24
+          "min": 15,
+          "max": 18
         },
         "femaleHeightCm": {
-          "min": 18,
-          "max": 24
+          "min": 15,
+          "max": 18
         }
       },
       "source": {
@@ -946,12 +946,12 @@
           "max": 3
         },
         "maleHeightCm": {
-          "min": 15,
-          "max": 23
+          "min": 13,
+          "max": 20
         },
         "femaleHeightCm": {
-          "min": 15,
-          "max": 23
+          "min": 13,
+          "max": 20
         }
       },
       "source": {
@@ -976,24 +976,22 @@
       "traits": "Живость, сообразительность, внимательность.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
+          "min": 11,
           "max": 15
         },
         "maleWeightKg": {
-          "min": 2,
-          "max": 3
+          "max": 3.2
         },
         "femaleWeightKg": {
-          "min": 2,
-          "max": 3
+          "max": 3.2
         },
         "maleHeightCm": {
           "min": 18,
-          "max": 23
+          "max": 20
         },
         "femaleHeightCm": {
           "min": 18,
-          "max": 23
+          "max": 20
         }
       },
       "source": {
@@ -1022,12 +1020,12 @@
           "max": 15
         },
         "maleWeightKg": {
-          "min": 5,
-          "max": 8
+          "min": 5.9,
+          "max": 8.2
         },
         "femaleWeightKg": {
-          "min": 5,
-          "max": 8
+          "min": 5.9,
+          "max": 8.2
         },
         "maleHeightCm": {
           "min": 30,
@@ -1107,11 +1105,11 @@
         },
         "maleWeightKg": {
           "min": 5,
-          "max": 9
+          "max": 9.1
         },
         "femaleWeightKg": {
           "min": 5,
-          "max": 9
+          "max": 9.1
         },
         "maleHeightCm": {
           "min": 30,
@@ -1156,12 +1154,10 @@
           "max": 39
         },
         "maleHeightCm": {
-          "min": 74,
-          "max": 81
+          "min": 71
         },
         "femaleHeightCm": {
-          "min": 66,
-          "max": 74
+          "min": 66
         }
       },
       "source": {
@@ -1232,12 +1228,12 @@
           "max": 10
         },
         "maleWeightKg": {
-          "min": 63,
+          "min": 64,
           "max": 82
         },
         "femaleWeightKg": {
           "min": 54,
-          "max": 63
+          "max": 64
         },
         "maleHeightCm": {
           "min": 71,
@@ -1274,7 +1270,7 @@
           "max": 12
         },
         "maleWeightKg": {
-          "min": 11,
+          "min": 9,
           "max": 14
         },
         "femaleWeightKg": {
@@ -1282,12 +1278,12 @@
           "max": 13
         },
         "maleHeightCm": {
-          "min": 27,
-          "max": 35
+          "min": 28,
+          "max": 33
         },
         "femaleHeightCm": {
-          "min": 24,
-          "max": 32
+          "min": 28,
+          "max": 33
         }
       },
       "source": {
@@ -1317,11 +1313,11 @@
         },
         "maleWeightKg": {
           "min": 23,
-          "max": 23
+          "max": 25
         },
         "femaleWeightKg": {
-          "min": 18,
-          "max": 18
+          "min": 23,
+          "max": 25
         },
         "maleHeightCm": {
           "min": 36,
@@ -1354,24 +1350,24 @@
       "traits": "Живость, уравновешенность, понятливость.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
+          "min": 13,
           "max": 15
         },
         "maleWeightKg": {
-          "min": 6,
-          "max": 8
+          "min": 6.4,
+          "max": 8.2
         },
         "femaleWeightKg": {
-          "min": 6,
-          "max": 8
+          "min": 6.4,
+          "max": 8.2
         },
         "maleHeightCm": {
-          "min": 30,
-          "max": 36
+          "min": 25,
+          "max": 33
         },
         "femaleHeightCm": {
           "min": 25,
-          "max": 30
+          "max": 33
         }
       },
       "source": {
@@ -1396,11 +1392,11 @@
       "traits": "Преданность, уверенность, сдержанность с незнакомыми.",
       "metrics": {
         "lifeYears": {
-          "min": 8,
+          "min": 7,
           "max": 10
         },
         "maleWeightKg": {
-          "min": 54,
+          "min": 64,
           "max": 79
         },
         "femaleWeightKg": {
@@ -1409,11 +1405,11 @@
         },
         "maleHeightCm": {
           "min": 76,
-          "max": 86
+          "max": 81
         },
         "femaleHeightCm": {
           "min": 71,
-          "max": 81
+          "max": 76
         }
       },
       "source": {
@@ -1438,15 +1434,15 @@
       "traits": "Бдительность, подвижность, быстрая реакция.",
       "metrics": {
         "lifeYears": {
-          "min": 10,
+          "min": 9,
           "max": 12
         },
         "maleWeightKg": {
-          "min": 40,
+          "min": 45,
           "max": 50
         },
         "femaleWeightKg": {
-          "min": 35,
+          "min": 40,
           "max": 45
         },
         "maleHeightCm": {
@@ -1523,23 +1519,23 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 14
+          "max": 13
         },
         "maleWeightKg": {
-          "min": 23,
+          "min": 18,
           "max": 29
         },
         "femaleWeightKg": {
-          "min": 20,
-          "max": 27
+          "min": 18,
+          "max": 29
         },
         "maleHeightCm": {
-          "min": 30,
+          "min": 33,
           "max": 38
         },
         "femaleHeightCm": {
-          "min": 28,
-          "max": 36
+          "min": 33,
+          "max": 38
         }
       },
       "source": {
@@ -1565,23 +1561,23 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 14
+          "max": 15
         },
         "maleWeightKg": {
-          "min": 29,
-          "max": 34
+          "min": 27,
+          "max": 32
         },
         "femaleWeightKg": {
-          "min": 25,
-          "max": 29
+          "min": 27,
+          "max": 32
         },
         "maleHeightCm": {
-          "min": 66,
-          "max": 71
+          "min": 58,
+          "max": 67
         },
         "femaleHeightCm": {
-          "min": 61,
-          "max": 66
+          "min": 55,
+          "max": 62
         }
       },
       "source": {
@@ -1607,10 +1603,10 @@
       "metrics": {
         "lifeYears": {
           "min": 10,
-          "max": 14
+          "max": 13
         },
         "maleWeightKg": {
-          "min": 30,
+          "min": 29,
           "max": 32
         },
         "femaleWeightKg": {
@@ -1622,7 +1618,7 @@
           "max": 76
         },
         "femaleHeightCm": {
-          "min": 68,
+          "min": 69,
           "max": 71
         }
       },
@@ -1648,24 +1644,24 @@
       "traits": "Самостоятельность, бдительность, чистоплотность.",
       "metrics": {
         "lifeYears": {
-          "min": 14,
-          "max": 16
+          "min": 13,
+          "max": 14
         },
         "maleWeightKg": {
           "min": 10,
           "max": 11
         },
         "femaleWeightKg": {
-          "min": 9,
-          "max": 10
+          "min": 10,
+          "max": 11
         },
         "maleHeightCm": {
           "min": 41,
           "max": 43
         },
         "femaleHeightCm": {
-          "min": 38,
-          "max": 41
+          "min": 41,
+          "max": 43
         }
       },
       "source": {
@@ -1732,23 +1728,23 @@
       "traits": "Самостоятельность, смелость, дружелюбие.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
+          "min": 13,
           "max": 15
         },
         "maleWeightKg": {
-          "min": 7,
-          "max": 10
+          "min": 6.8,
+          "max": 9.1
         },
         "femaleWeightKg": {
-          "min": 6,
-          "max": 7
+          "min": 6.8,
+          "max": 9.1
         },
         "maleHeightCm": {
           "min": 25,
-          "max": 30
+          "max": 28
         },
         "femaleHeightCm": {
-          "min": 23,
+          "min": 25,
           "max": 28
         }
       },
@@ -1774,24 +1770,24 @@
       "traits": "Уверенность, смелость, внимательность.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
+          "min": 11,
           "max": 14
         },
         "maleWeightKg": {
-          "min": 20,
-          "max": 23
+          "min": 23,
+          "max": 32
         },
         "femaleWeightKg": {
-          "min": 18,
-          "max": 20
+          "min": 23,
+          "max": 32
         },
         "maleHeightCm": {
-          "min": 56,
+          "min": 58,
           "max": 61
         },
         "femaleHeightCm": {
           "min": 56,
-          "max": 58
+          "max": 59
         }
       },
       "source": {
@@ -1817,22 +1813,22 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 14
+          "max": 15
         },
         "maleWeightKg": {
-          "min": 2,
-          "max": 3
+          "min": 3,
+          "max": 4
         },
         "femaleWeightKg": {
-          "min": 2,
-          "max": 3
+          "min": 3,
+          "max": 4
         },
         "maleHeightCm": {
-          "min": 20,
+          "min": 21,
           "max": 25
         },
         "femaleHeightCm": {
-          "min": 18,
+          "min": 20,
           "max": 23
         }
       },
@@ -1859,22 +1855,22 @@
       "metrics": {
         "lifeYears": {
           "min": 14,
-          "max": 16
+          "max": 15
         },
         "maleWeightKg": {
-          "min": 5,
-          "max": 8
+          "min": 5.4,
+          "max": 8.2
         },
         "femaleWeightKg": {
-          "min": 5,
-          "max": 8
+          "min": 5.4,
+          "max": 8.2
         },
         "maleHeightCm": {
-          "min": 25,
-          "max": 30
+          "min": 24,
+          "max": 29
         },
         "femaleHeightCm": {
-          "min": 23,
+          "min": 24,
           "max": 29
         }
       },
@@ -1900,24 +1896,24 @@
       "traits": "Дружелюбие, самостоятельность, живость.",
       "metrics": {
         "lifeYears": {
-          "min": 14,
-          "max": 16
+          "min": 10,
+          "max": 18
         },
         "maleWeightKg": {
-          "min": 4,
-          "max": 7
+          "min": 4.1,
+          "max": 7.3
         },
         "femaleWeightKg": {
-          "min": 4,
-          "max": 7
+          "min": 4.1,
+          "max": 7.3
         },
         "maleHeightCm": {
-          "min": 20,
-          "max": 28
+          "min": 23,
+          "max": 27
         },
         "femaleHeightCm": {
-          "min": 20,
-          "max": 28
+          "min": 23,
+          "max": 27
         }
       },
       "source": {
@@ -1942,16 +1938,16 @@
       "traits": "Живость, подвижность, изящные движения.",
       "metrics": {
         "lifeYears": {
-          "min": 12,
-          "max": 15
+          "min": 14,
+          "max": 16
         },
         "maleWeightKg": {
-          "min": 3,
-          "max": 5
+          "min": 2.3,
+          "max": 4.5
         },
         "femaleWeightKg": {
-          "min": 3,
-          "max": 5
+          "min": 2.3,
+          "max": 4.5
         },
         "maleHeightCm": {
           "min": 20,
@@ -1984,7 +1980,7 @@
       "traits": "Контактность, энергичность, дружелюбие.",
       "metrics": {
         "lifeYears": {
-          "min": 10,
+          "min": 12,
           "max": 14
         },
         "maleWeightKg": {
@@ -2027,15 +2023,23 @@
       "metrics": {
         "lifeYears": {
           "min": 12,
-          "max": 15
+          "max": 13
         },
         "maleWeightKg": {
-          "min": 25,
-          "max": 29
+          "min": 23,
+          "max": 32
         },
         "femaleWeightKg": {
-          "min": 20,
-          "max": 25
+          "min": 23,
+          "max": 32
+        },
+        "maleHeightCm": {
+          "min": 53,
+          "max": 56
+        },
+        "femaleHeightCm": {
+          "min": 53,
+          "max": 56
         }
       },
       "source": {
