@@ -2888,6 +2888,845 @@
         "title": "(2) Irish Wolfhound 4.jpg",
         "changes": "WebP, 640 × 509; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использован фрагмент Irish Wolfhound 4.jpg, выделенный в Commons пользователем Adventurous36."
       }
+    },
+    {
+      "id": "56d8214c-e49e-53b1-a346-69a2f128e62b",
+      "name": "Бобтейл",
+      "description": "Бобтейл, или староанглийская овчарка, — крепкая пастушья собака с обильной лохматой шерстью. Порода сложилась в Великобритании как помощник при работе со стадами. Узнаваемый силуэт дополняют широкая голова и характерная раскачивающаяся походка.",
+      "country": "Великобритания",
+      "traits": "Уравновешенный, привязчивый и понятливый. Нуждается в движении, общении и тщательном уходе за густой шерстью.",
+      "source": {
+        "title": "FCI · официальный стандарт №16",
+        "url": "https://www.fci.be/Nomenclature/Standards/016g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 27,
+          "max": 45
+        },
+        "femaleWeightKg": {
+          "min": 27,
+          "max": 45
+        },
+        "maleHeightCm": {
+          "min": 53,
+          "max": 64
+        },
+        "femaleHeightCm": {
+          "min": 53,
+          "max": 64
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/56d8214c-e49e-53b1-a346-69a2f128e62b-v1.webp",
+        "author": "AKS.9955",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_English_Sheepdog_(side).jpg",
+        "title": "Old English Sheepdog (side).jpg",
+        "changes": "WebP, 640 × 471; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "3a40b910-6007-5d8d-8eb8-a6b6ef8b2b78",
+      "name": "Ризеншнауцер",
+      "description": "Ризеншнауцер — крупная рабочая собака из Южной Германии, где его предки помогали перегонять скот. Жёсткая шерсть, борода и выраженные брови придают ему характерный облик. Сила и выносливость позволили породе освоить служебную работу.",
+      "country": "Германия",
+      "traits": "Внимательный, уверенный и хорошо обучаемый. Ему подходят регулярные занятия, активные прогулки и последовательное воспитание.",
+      "source": {
+        "title": "FCI · официальный стандарт №181",
+        "url": "https://www.fci.be/Nomenclature/Standards/181g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 13
+        },
+        "maleWeightKg": {
+          "min": 34,
+          "max": 43
+        },
+        "femaleWeightKg": {
+          "min": 25,
+          "max": 36
+        },
+        "maleHeightCm": {
+          "min": 65,
+          "max": 70
+        },
+        "femaleHeightCm": {
+          "min": 60,
+          "max": 65
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/3a40b910-6007-5d8d-8eb8-a6b6ef8b2b78-v1.webp",
+        "author": "Kkrzysiu o2 (атрибуция Commons)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stablemaster%27s_NORTHERN_HOPE(Poznan2006).jpg",
+        "title": "Stablemaster's NORTHERN HOPE(Poznan2006).jpg",
+        "changes": "WebP, 640 × 569; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "1386ae75-5115-5be8-af58-0e28b25d1312",
+      "name": "Босерон",
+      "description": "Босерон — французская короткошёрстная овчарка, выведенная для управления стадом и его охраны. Это сильная, подвижная собака с плотным корпусом. Подпалины на ногах дали породе прозвище «красные чулки»; ещё одна её особенность — двойные прибылые пальцы на задних лапах.",
+      "country": "Франция",
+      "traits": "Смелый, уверенный и преданный. Нуждается в понятных правилах, социализации и занятиях, позволяющих использовать рабочие способности.",
+      "source": {
+        "title": "FCI · официальный стандарт №44",
+        "url": "https://www.fci.be/Nomenclature/Standards/044g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 32,
+          "max": 50
+        },
+        "femaleWeightKg": {
+          "min": 32,
+          "max": 50
+        },
+        "maleHeightCm": {
+          "min": 65,
+          "max": 70
+        },
+        "femaleHeightCm": {
+          "min": 61,
+          "max": 67
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/1386ae75-5115-5be8-af58-0e28b25d1312-v1.webp",
+        "author": "Stefan Schmitz",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:BeauceronStand.jpg",
+        "title": "BeauceronStand.jpg",
+        "changes": "WebP, 501 × 389; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "136f6345-084e-5a19-85e9-9dff8638a45e",
+      "name": "Бриар",
+      "description": "Бриар — длинношёрстная французская овчарка, которую использовали для перегона и охраны овец. Длинная шерсть образует бороду и брови, а кончик хвоста загибается крючком. Несмотря на массивный меховой силуэт, собака остаётся гибкой и подвижной.",
+      "country": "Франция",
+      "traits": "Внимательный, уравновешенный и смелый. Требует регулярного вычёсывания, прогулок и совместных занятий с человеком.",
+      "source": {
+        "title": "FCI · официальный стандарт №113",
+        "url": "https://www.fci.be/Nomenclature/Standards/113g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 25,
+          "max": 45
+        },
+        "femaleWeightKg": {
+          "min": 25,
+          "max": 45
+        },
+        "maleHeightCm": {
+          "min": 58,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 56,
+          "max": 65
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/136f6345-084e-5a19-85e9-9dff8638a45e-v1.webp",
+        "author": "Birgit Balzer, Deutschland (uploaded by Caronna 17:00, 10 Feb 2005 (UTC))",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Briard_fauve.JPG",
+        "title": "Briard fauve.JPG",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "243e2b45-b34c-59d9-904f-ed632a07bc76",
+      "name": "Фландрский бувье",
+      "description": "Фландрский бувье происходит из бельгийской и французской Фландрии. На фермах он помогал перегонять скот, тянуть грузы и охранять хозяйство. Это крепкая собака с компактным корпусом, грубой шерстью и заметной бородой.",
+      "country": "Бельгия и Франция",
+      "traits": "Спокойный, наблюдательный и самостоятельный. Хорошо раскрывается при последовательном обучении; густой шерсти нужен регулярный уход.",
+      "source": {
+        "title": "FCI · официальный стандарт №191",
+        "url": "https://www.fci.be/Nomenclature/Standards/191g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 32,
+          "max": 50
+        },
+        "femaleWeightKg": {
+          "min": 32,
+          "max": 50
+        },
+        "maleHeightCm": {
+          "min": 62,
+          "max": 70
+        },
+        "femaleHeightCm": {
+          "min": 60,
+          "max": 67
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/243e2b45-b34c-59d9-904f-ed632a07bc76-v1.webp",
+        "author": "Basco (Dutch Wikipedia)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bouvier.JPG",
+        "title": "Bouvier.JPG",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "94d6a847-5f50-5858-bd9a-04755ccba6fd",
+      "name": "Шипперке",
+      "description": "Шипперке — небольшая бельгийская сторожевая собака. Чёрная шерсть образует воротник и гриву, подчёркивающие крепкую шею, а небольшие стоячие уши всегда настороже. В прошлом этих собак ценили как бдительных помощников и ловцов грызунов.",
+      "country": "Бельгия",
+      "traits": "Любознательный, энергичный и чуткий. Быстро замечает перемены вокруг, охотно исследует новое и нуждается в занятиях даже при небольшом размере.",
+      "source": {
+        "title": "FCI · официальный стандарт №83",
+        "url": "https://www.fci.be/Nomenclature/Standards/083g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 16
+        },
+        "maleWeightKg": {
+          "min": 4.5,
+          "max": 7.3
+        },
+        "femaleWeightKg": {
+          "min": 4.5,
+          "max": 7.3
+        },
+        "maleHeightCm": {
+          "min": 28,
+          "max": 33
+        },
+        "femaleHeightCm": {
+          "min": 25,
+          "max": 30
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/94d6a847-5f50-5858-bd9a-04755ccba6fd-v1.webp",
+        "author": "鏑木對馬守 (атрибуция Commons)",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Schipperke0001.jpg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schipperke0001.jpg",
+        "title": "Schipperke0001.jpg",
+        "changes": "WebP, 640 × 478; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "133f3004-c285-5c83-b178-ec8cf7e03482",
+      "name": "Леонбергер",
+      "description": "Леонбергер — крупная длинношёрстная собака из немецкого города Леонберг. Породу создавали с участием больших горных собак и ньюфаундлендов. Тёмная маска и пышная шерсть на шее придают ему сходство со львом.",
+      "country": "Германия",
+      "traits": "Обычно спокойный, общительный и уверенный. Нуждается в контакте с семьёй, посильных прогулках и регулярном вычёсывании густой шерсти.",
+      "source": {
+        "title": "FCI · официальный стандарт №145",
+        "url": "https://www.fci.be/Nomenclature/Standards/145g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 8,
+          "max": 10
+        },
+        "maleWeightKg": {
+          "min": 50,
+          "max": 77
+        },
+        "femaleWeightKg": {
+          "min": 41,
+          "max": 64
+        },
+        "maleHeightCm": {
+          "min": 71,
+          "max": 80
+        },
+        "femaleHeightCm": {
+          "min": 65,
+          "max": 75
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/133f3004-c285-5c83-b178-ec8cf7e03482-v1.webp",
+        "author": "Kurre92",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonberger_male.jpg",
+        "title": "Leonberger male.jpg",
+        "changes": "WebP, 500 × 375; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "ec229eef-f816-5726-be9c-fa8784994e5e",
+      "name": "Бульмастиф",
+      "description": "Бульмастиф сформировался в Великобритании из мастифов и бульдогов как помощник егерей. Это мощная короткошёрстная собака с широкой головой и крепким корпусом. В её облике сочетаются внушительная сила и способность двигаться свободно.",
+      "country": "Великобритания",
+      "traits": "Бдительный, преданный и решительный. Ранняя социализация и спокойное последовательное обучение особенно важны для такой сильной собаки.",
+      "source": {
+        "title": "FCI · официальный стандарт №157",
+        "url": "https://www.fci.be/Nomenclature/Standards/157g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 7,
+          "max": 9
+        },
+        "maleWeightKg": {
+          "min": 50,
+          "max": 59
+        },
+        "femaleWeightKg": {
+          "min": 45,
+          "max": 54
+        },
+        "maleHeightCm": {
+          "min": 64,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 61,
+          "max": 66
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/ec229eef-f816-5726-be9c-fa8784994e5e-v1.webp",
+        "author": "Fausto Moreno; обработка Pharaoh Hound",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bullmastiff_edited.JPG",
+        "title": "Bullmastiff edited.JPG",
+        "changes": "WebP, 640 × 557; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. В Commons выполнены кадрирование и коррекция уровней Pharaoh Hound."
+      }
+    },
+    {
+      "id": "a842a978-e45e-5217-9f6a-32f091036420",
+      "name": "Бордоский дог",
+      "description": "Бордоский дог — старинная французская порода молоссов с массивной головой и короткой рыжей шерстью. В прошлом этих собак использовали для охраны и других тяжёлых работ. Широкая грудь и складки на голове делают породу легко узнаваемой.",
+      "country": "Франция",
+      "traits": "Обычно спокойный и очень привязанный к близким. Сохраняет сторожевую настороженность; нуждается в социализации и умеренной регулярной активности.",
+      "source": {
+        "title": "FCI · официальный стандарт №116",
+        "url": "https://www.fci.be/Nomenclature/Standards/116g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 5,
+          "max": 8
+        },
+        "maleWeightKg": {
+          "min": 50,
+          "max": 66
+        },
+        "femaleWeightKg": {
+          "min": 45,
+          "max": 54
+        },
+        "maleHeightCm": {
+          "min": 61,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 66
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/a842a978-e45e-5217-9f6a-32f091036420-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:French_Mastiff_female_4.jpg",
+        "title": "French Mastiff female 4.jpg",
+        "changes": "WebP, 640 × 495; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "368be669-78e9-56f5-84d3-d123c90041ac",
+      "name": "Неаполитанский мастиф",
+      "description": "Неаполитанский мастиф — итальянская сторожевая собака крупного размера. Для него характерны тяжёлый корпус, широкая голова и свободная кожа, образующая складки. Порода сложилась на юге Италии как охранник дома и владений.",
+      "country": "Италия",
+      "traits": "Сдержанный, наблюдательный и преданный. Требует раннего знакомства с разными ситуациями, последовательного воспитания и внимательного ухода за складками кожи.",
+      "source": {
+        "title": "FCI · официальный стандарт №197",
+        "url": "https://www.fci.be/Nomenclature/Standards/197g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 7,
+          "max": 9
+        },
+        "maleWeightKg": {
+          "min": 50,
+          "max": 68
+        },
+        "femaleWeightKg": {
+          "min": 50,
+          "max": 68
+        },
+        "maleHeightCm": {
+          "min": 66,
+          "max": 79
+        },
+        "femaleHeightCm": {
+          "min": 61,
+          "max": 74
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/368be669-78e9-56f5-84d3-d123c90041ac-v1.webp",
+        "author": "Lisa M. Herndon",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cannon_-_Male_Neapolitan_Mastiff_1998.jpeg",
+        "title": "Cannon - Male Neapolitan Mastiff 1998.jpeg",
+        "changes": "WebP, 640 × 410; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "7e94a0e9-b410-5895-bd39-42102ef1216c",
+      "name": "Английский мастиф",
+      "description": "Английский мастиф — очень крупная британская собака с массивным корпусом и широкой головой. Короткая шерсть сочетается с тёмной маской на морде. Порода имеет давнюю историю сторожевой работы, но её современный образ тесно связан и с ролью компаньона.",
+      "country": "Великобритания",
+      "traits": "Обычно спокойный, ласковый с близкими и сдержанный с незнакомыми. Большие размеры требуют раннего обучения бытовым правилам и достаточно свободного места.",
+      "source": {
+        "title": "FCI · официальный стандарт №264",
+        "url": "https://www.fci.be/Nomenclature/Standards/264g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 6,
+          "max": 10
+        },
+        "maleWeightKg": {
+          "min": 73,
+          "max": 104
+        },
+        "femaleWeightKg": {
+          "min": 54,
+          "max": 77
+        },
+        "maleHeightCm": {
+          "min": 71,
+          "max": 76
+        },
+        "femaleHeightCm": {
+          "min": 71,
+          "max": 76
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/7e94a0e9-b410-5895-bd39-42102ef1216c-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:English_Mastiff_fawn_female_2.jpg",
+        "title": "English Mastiff fawn female 2.jpg",
+        "changes": "WebP, 640 × 581; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "c2796364-65b4-513c-bec3-4a9f63e36fb4",
+      "name": "Скотч-терьер",
+      "description": "Скотч-терьер — крепкая коротконогая собака из Шотландии, созданная для норной охоты. Длинная голова, небольшие стоячие уши и жёсткая шерсть с бородой формируют его узнаваемый силуэт. Небольшой рост не мешает ему быть сильным и настойчивым.",
+      "country": "Великобритания",
+      "traits": "Самостоятельный, преданный и смелый. Любит исследовать запахи и копать; лучше обучается при терпеливом подходе и понятной мотивации.",
+      "source": {
+        "title": "FCI · официальный стандарт №73",
+        "url": "https://www.fci.be/Nomenclature/Standards/073g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12
+        },
+        "maleWeightKg": {
+          "min": 8.6,
+          "max": 10
+        },
+        "femaleWeightKg": {
+          "min": 8.2,
+          "max": 9.5
+        },
+        "maleHeightCm": {
+          "min": 25,
+          "max": 28
+        },
+        "femaleHeightCm": {
+          "min": 25,
+          "max": 28
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/c2796364-65b4-513c-bec3-4a9f63e36fb4-v1.webp",
+        "author": "Mgct1506",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scottish_Terrier_Blue.JPG",
+        "title": "Scottish Terrier Blue.JPG",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "aa007023-4912-537e-8da9-37b20ab0d67e",
+      "name": "Бедлингтон-терьер",
+      "description": "Бедлингтон-терьер происходит из северной Англии. Его выгнутая спина, узкая голова и мягкий хохолок создают необычный силуэт, напоминающий ягнёнка. За нежным обликом скрывается подвижный терьер с охотничьим прошлым.",
+      "country": "Великобритания",
+      "traits": "Ласковый с близкими, внимательный и смелый. Сохраняет интерес к преследованию мелких животных; шерсти нужны расчёсывание и регулярная стрижка.",
+      "source": {
+        "title": "FCI · официальный стандарт №9",
+        "url": "https://www.fci.be/Nomenclature/Standards/009g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 11,
+          "max": 16
+        },
+        "maleWeightKg": {
+          "min": 7.7,
+          "max": 10.4
+        },
+        "femaleWeightKg": {
+          "min": 7.7,
+          "max": 10.4
+        },
+        "maleHeightCm": {
+          "min": 38,
+          "max": 44
+        },
+        "femaleHeightCm": {
+          "min": 38,
+          "max": 44
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/aa007023-4912-537e-8da9-37b20ab0d67e-v1.webp",
+        "author": "David Owsiany",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boutchie_apres_championnat_004.JPG",
+        "title": "Boutchie apres championnat 004.JPG",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "a79f3865-a22e-5455-ba30-3dab7f07af7f",
+      "name": "Керри-блю-терьер",
+      "description": "Керри-блю-терьер — ирландская порода, связанная с графством Керри. Такие собаки выполняли разные работы на фермах и помогали на охоте. Их мягкая волнистая шерсть постепенно приобретает голубовато-серый оттенок по мере взросления.",
+      "country": "Ирландия",
+      "traits": "Живой, наблюдательный и настойчивый. Нуждается в разнообразных занятиях, социализации и регулярном уходе за шерстью.",
+      "source": {
+        "title": "FCI · официальный стандарт №3",
+        "url": "https://www.fci.be/Nomenclature/Standards/003g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 15,
+          "max": 18
+        },
+        "femaleWeightKg": {
+          "min": 15,
+          "max": 18
+        },
+        "maleHeightCm": {
+          "min": 46,
+          "max": 50
+        },
+        "femaleHeightCm": {
+          "min": 44,
+          "max": 48
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/a79f3865-a22e-5455-ba30-3dab7f07af7f-v1.webp",
+        "author": "Peter Kumpert, Germany",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kerry_Blue_Terrier.jpg",
+        "title": "Kerry Blue Terrier.jpg",
+        "changes": "WebP, 640 × 623; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "b9ad0d7a-bf2e-5521-9eff-13a38dadcc8f",
+      "name": "Ирландский терьер",
+      "description": "Ирландский терьер — сухая, подвижная собака с жёсткой рыжей шерстью. В Ирландии его ценили как разностороннего помощника на ферме, охотника и сторожа. По сравнению с некоторыми другими терьерами он выглядит более длинноногим и лёгким.",
+      "country": "Ирландия",
+      "traits": "Смелый, энергичный и привязчивый. Может увлекаться погоней; ему полезны активные прогулки, обучение и спокойное знакомство с другими собаками.",
+      "source": {
+        "title": "FCI · официальный стандарт №139",
+        "url": "https://www.fci.be/Nomenclature/Standards/139g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 13,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 11,
+          "max": 16
+        },
+        "femaleWeightKg": {
+          "min": 11,
+          "max": 16
+        },
+        "maleHeightCm": {
+          "min": 46,
+          "max": 51
+        },
+        "femaleHeightCm": {
+          "min": 46,
+          "max": 51
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/b9ad0d7a-bf2e-5521-9eff-13a38dadcc8f-v1.webp",
+        "author": "Sini Merikallio; derivative Work: Cú Faoil",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Irish_Terrier_CR.jpg",
+        "title": "Irish Terrier CR.jpg",
+        "changes": "WebP, 640 × 597; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использована производная версия Commons; автор исходника Sini Merikallio, обработка Cú Faoil."
+      }
+    },
+    {
+      "id": "82447549-ee28-5019-b8c4-ddb9920e97e5",
+      "name": "Английский пойнтер",
+      "description": "Английский пойнтер — короткошёрстная легавая, известная выразительной стойкой при обнаружении птицы. Порода сформировалась в Великобритании. Её телосложение сочетает силу, лёгкость и выносливость, необходимые для продолжительной работы в поле.",
+      "country": "Великобритания",
+      "traits": "Внимательный, подвижный и обычно доброжелательный. Нуждается в длительных прогулках и занятиях, позволяющих использовать чутьё и охотничьи способности.",
+      "source": {
+        "title": "FCI · официальный стандарт №1",
+        "url": "https://www.fci.be/Nomenclature/Standards/001g07-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 25,
+          "max": 34
+        },
+        "femaleWeightKg": {
+          "min": 20,
+          "max": 29
+        },
+        "maleHeightCm": {
+          "min": 64,
+          "max": 71
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 66
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/82447549-ee28-5019-b8c4-ddb9920e97e5-v1.webp",
+        "author": "Томасина",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:English_Pointer_in_Riga_1.JPG",
+        "title": "English Pointer in Riga 1.JPG",
+        "changes": "WebP, 640 × 495; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "154058f4-eb2e-5d9b-8c11-78659cafd9fe",
+      "name": "Шотландский сеттер",
+      "description": "Шотландский сеттер, или гордон, — крепкая длинношёрстная легавая с чёрно-подпалым окрасом. Название связывают с герцогами Гордон, участвовавшими в развитии породы. Собака предназначена для поиска птицы и обозначения её местонахождения стойкой.",
+      "country": "Великобритания",
+      "traits": "Понятливый, уверенный и энергичный. Любит совместную работу с человеком; ему нужны продолжительные прогулки и уход за украшающей шерстью.",
+      "source": {
+        "title": "FCI · официальный стандарт №6",
+        "url": "https://www.fci.be/Nomenclature/Standards/006g07-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 13
+        },
+        "maleWeightKg": {
+          "min": 25,
+          "max": 36
+        },
+        "femaleWeightKg": {
+          "min": 20,
+          "max": 32
+        },
+        "maleHeightCm": {
+          "min": 61,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 66
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/154058f4-eb2e-5d9b-8c11-78659cafd9fe-v1.webp",
+        "author": "Jukka Puro",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orrvilas_enska_w800px.jpg",
+        "title": "Orrvilas enska w800px.jpg",
+        "changes": "WebP, 640 × 514; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "744d2bf3-2abe-5528-a7e5-b4ed6430400d",
+      "name": "Немецкий курцхаар",
+      "description": "Немецкий курцхаар — короткошёрстная легавая, созданная в Германии как разносторонняя охотничья собака. Он сочетает поиск птицы со стойкой, подачей и работой на разной местности. Сухое мускулистое телосложение помогает ему двигаться быстро и долго.",
+      "country": "Германия",
+      "traits": "Уравновешенный, деятельный и обучаемый. Требует значительной физической и умственной нагрузки, а также надёжного управления на прогулках.",
+      "source": {
+        "title": "FCI · официальный стандарт №119",
+        "url": "https://www.fci.be/Nomenclature/Standards/119g07-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 12
+        },
+        "maleWeightKg": {
+          "min": 25,
+          "max": 32
+        },
+        "femaleWeightKg": {
+          "min": 20,
+          "max": 27
+        },
+        "maleHeightCm": {
+          "min": 58,
+          "max": 64
+        },
+        "femaleHeightCm": {
+          "min": 53,
+          "max": 58
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/744d2bf3-2abe-5528-a7e5-b4ed6430400d-v1.webp",
+        "author": "Bonnie van den Born (Bonfoto)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Duitse_staande_korthaar_10-10-2.jpg",
+        "title": "Duitse staande korthaar 10-10-2.jpg",
+        "changes": "WebP, 500 × 332; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "4617b30c-cc04-59d6-92e1-96f84b1e0649",
+      "name": "Бретонский эпаньоль",
+      "description": "Бретонский эпаньоль — компактная французская легавая из Бретани. Несмотря на название, он работает со стойкой, а не только поднимает дичь, как многие спаниели. Породу ценят за подвижность, чутьё и способность работать на разной местности.",
+      "country": "Франция",
+      "traits": "Общительный, внимательный и очень энергичный. Охотно занимается с человеком; ему нужны активные прогулки и задачи на поиск.",
+      "source": {
+        "title": "FCI · официальный стандарт №95",
+        "url": "https://www.fci.be/Nomenclature/Standards/095g07-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 14,
+          "max": 18
+        },
+        "femaleWeightKg": {
+          "min": 14,
+          "max": 18
+        },
+        "maleHeightCm": {
+          "min": 44,
+          "max": 52
+        },
+        "femaleHeightCm": {
+          "min": 44,
+          "max": 52
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/4617b30c-cc04-59d6-92e1-96f84b1e0649-v1.webp",
+        "author": "Olatz / souligne",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zuri_txakurra_1_(cropped).JPG",
+        "title": "Zuri txakurra 1 (cropped).JPG",
+        "changes": "WebP, 640 × 480; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использован готовый фрагмент Zuri txakurra 1.JPG из Commons."
+      }
+    },
+    {
+      "id": "0a8440b1-ea3a-543d-84e5-dd6e86f6b948",
+      "name": "Афганская борзая",
+      "description": "Афганская борзая — охотничья собака из Афганистана с длинной шелковистой шерстью. Стройное сильное тело, высоко поставленная голова и хвост с кольцом на конце придают ей особый силуэт. Порода сохраняет выраженное стремление преследовать движущуюся цель.",
+      "country": "Афганистан",
+      "traits": "Самостоятельная, сдержанная и чуткая. Нуждается в безопасном пространстве для движения, терпеливом обучении и тщательном уходе за длинной шерстью.",
+      "source": {
+        "title": "FCI · официальный стандарт №228",
+        "url": "https://www.fci.be/Nomenclature/Standards/228g10-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 18
+        },
+        "maleWeightKg": {
+          "min": 23,
+          "max": 27
+        },
+        "femaleWeightKg": {
+          "min": 23,
+          "max": 27
+        },
+        "maleHeightCm": {
+          "min": 64,
+          "max": 69
+        },
+        "femaleHeightCm": {
+          "min": 64,
+          "max": 69
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/0a8440b1-ea3a-543d-84e5-dd6e86f6b948-v1.webp",
+        "author": "Weaveravel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Afghan_dog_-_cropped.jpg",
+        "title": "Afghan dog - cropped.jpg",
+        "changes": "WebP, 397 × 350; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использован готовый фрагмент Afghan dog.jpg из Commons."
+      }
     }
   ],
   "facts": [
@@ -4392,6 +5231,546 @@
       "source": {
         "title": "FCI · официальный стандарт №160",
         "url": "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-793f441e-9edd-52e3-862b-4b11f025d824",
+      "text": "Лай бобтейла описывают французским выражением pot-cassé — «треснувший колокол». По звучанию его сравнивают со стуком двух кастрюль друг о друга.",
+      "breedId": "56d8214c-e49e-53b1-a346-69a2f128e62b",
+      "source": {
+        "title": "AKC — Бобтейл",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/fun-facts-old-english-sheepdog/"
+      }
+    },
+    {
+      "id": "ru-fact-1d4e80fd-bc16-5a81-ae24-727ebd2804bf",
+      "text": "У бобтейла могут быть не только тёмные, но и голубые глаза. Стандарт FCI допускает даже два голубых глаза — это не обязательно признак помеси.",
+      "breedId": "56d8214c-e49e-53b1-a346-69a2f128e62b",
+      "source": {
+        "title": "FCI — стандарт № 16: Бобтейл",
+        "url": "https://www.fci.be/Nomenclature/Standards/016g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1f77ffc2-a35c-5067-8455-39b029811d2f",
+      "text": "В начале XX века бобтейлов разводили и выставляли представители богатейших семей США, в том числе Вандербильты и Гуггенхаймы. Так бывший рабочий помощник стал ещё и престижной выставочной собакой.",
+      "breedId": "56d8214c-e49e-53b1-a346-69a2f128e62b",
+      "source": {
+        "title": "AKC — Бобтейл",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/fun-facts-old-english-sheepdog/"
+      }
+    },
+    {
+      "id": "ru-fact-3822fb7f-829a-55d1-bf73-7c14bf056df7",
+      "text": "Ризеншнауцер, миттельшнауцер и цвергшнауцер — три самостоятельные породы со своими стандартами, а не три размера одной породы.",
+      "breedId": "3a40b910-6007-5d8d-8eb8-a6b6ef8b2b78",
+      "source": {
+        "title": "AKC — Ризеншнауцер",
+        "url": "https://www.akc.org/expert-advice/lifestyle/fun-facts-giant-schnauzer/"
+      }
+    },
+    {
+      "id": "ru-fact-8a9cc471-1ce2-5c0d-8749-298612a75a6a",
+      "text": "Ризеншнауцеров начали записывать в племенную книгу в 1913 году, а в 1925 году породу официально признали служебной. Эти даты отмечены в исторической справке FCI.",
+      "breedId": "3a40b910-6007-5d8d-8eb8-a6b6ef8b2b78",
+      "source": {
+        "title": "FCI — стандарт № 181: Ризеншнауцер",
+        "url": "https://www.fci.be/Nomenclature/Standards/181g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1170987f-8f47-56f0-bcd2-177c3707aa80",
+      "text": "Ризеншнауцеры бывают не только чёрными: стандарт FCI предусматривает также «перец с солью» и чёрно-серебристый окрас. У последнего светлые отметины расположены на определённых участках головы, груди и конечностей.",
+      "breedId": "3a40b910-6007-5d8d-8eb8-a6b6ef8b2b78",
+      "source": {
+        "title": "FCI — стандарт № 181: Ризеншнауцер",
+        "url": "https://www.fci.be/Nomenclature/Standards/181g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-38c6d892-5718-59f4-9887-0c2c477287a8",
+      "text": "В 1863 году на выставке в Париже показали 13 чёрно-подпалых овчарок со стоячими ушами. Американский клуб босерона рассматривает их как одно из первых официальных появлений будущей породы.",
+      "breedId": "1386ae75-5115-5be8-af58-0e28b25d1312",
+      "source": {
+        "title": "American Beauceron Club — иллюстрированный стандарт",
+        "url": "https://beauce.org/wp-content/uploads/Beauceron-Illustrated-Breed-Standard.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-b794396a-e992-50a2-ad80-7600f9b2ee77",
+      "text": "Во время мировых войн босероны помогали не только доставлять сообщения, но и обнаруживать мины. Об этих задачах породы рассказывает историческая справка AKC.",
+      "breedId": "1386ae75-5115-5be8-af58-0e28b25d1312",
+      "source": {
+        "title": "AKC — Босерон",
+        "url": "https://www.akc.org/press-releases/swedish-vallhund-beauceron-eligible-for-akc-registration/"
+      }
+    },
+    {
+      "id": "ru-fact-8ceb9795-c4dc-5866-a611-44bea5d6d332",
+      "text": "У босерона окраса арлекин серые и чёрные участки шерсти сочетаются с подпалинами. Для такого окраса стандарт допускает светлые голубые глаза, тогда как у чёрно-подпалых собак нужны тёмные.",
+      "breedId": "1386ae75-5115-5be8-af58-0e28b25d1312",
+      "source": {
+        "title": "FCI — стандарт № 44: Босерон",
+        "url": "https://www.fci.be/Nomenclature/Standards/044g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-aba6f1c1-2a0b-51a8-9417-22c76b698b9d",
+      "text": "Название chien de Brie встречается в сельскохозяйственном труде аббата Розье 1809 года. Стандарт FCI приводит это как раннее письменное упоминание имени бриара.",
+      "breedId": "136f6345-084e-5a19-85e9-9dff8638a45e",
+      "source": {
+        "title": "FCI — стандарт № 113: Бриар",
+        "url": "https://www.fci.be/Nomenclature/Standards/113g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-72bf5b61-6f4b-5dff-bac1-22253437924b",
+      "text": "Во время обеих мировых войн французская армия использовала бриаров для поиска раненых на поле боя. Пастушьи собаки выполняли и сторожевую службу.",
+      "breedId": "136f6345-084e-5a19-85e9-9dff8638a45e",
+      "source": {
+        "title": "FCI — стандарт № 113: Бриар",
+        "url": "https://www.fci.be/Nomenclature/Standards/113g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-b522aa0e-ed63-5a61-8166-64c59f9edd65",
+      "text": "Шерсть бриара по стандарту напоминает козью: она длинная, суховатая на ощупь и гибкая, с небольшим подшёрстком. Пышный вид не означает мягкую ватную шерсть.",
+      "breedId": "136f6345-084e-5a19-85e9-9dff8638a45e",
+      "source": {
+        "title": "FCI — стандарт № 113: Бриар",
+        "url": "https://www.fci.be/Nomenclature/Standards/113g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-ac267949-8dae-5915-b570-0316893723f1",
+      "text": "Фландрских бувье использовали для приведения в действие маслобоек. Их обязанности на ферме включали не только работу со скотом, но и помощь в переработке молока.",
+      "breedId": "243e2b45-b34c-59d9-904f-ed632a07bc76",
+      "source": {
+        "title": "AKC — Фландрский бувье",
+        "url": "https://www.akc.org/expert-advice/lifestyle/the-bouvier-des-flandresfrom-farm-dog-to-war-dog-to-family-pet/"
+      }
+    },
+    {
+      "id": "ru-fact-5970b306-d969-5057-88ab-45e80a509ba1",
+      "text": "В Первую мировую войну фландрские бувье переносили сообщения и тянули санитарные носилки. Военные потери едва не привели к исчезновению породы.",
+      "breedId": "243e2b45-b34c-59d9-904f-ed632a07bc76",
+      "source": {
+        "title": "AKC — Фландрский бувье",
+        "url": "https://www.akc.org/expert-advice/lifestyle/the-bouvier-des-flandresfrom-farm-dog-to-war-dog-to-family-pet/"
+      }
+    },
+    {
+      "id": "ru-fact-b0a184f7-5945-5a9b-8d13-3440b3e0bfdd",
+      "text": "Одно из прозвищ фландрского бувье — Vuilbaard, «грязная борода». Длинная борода легко собирает остатки еды и другой мусор, поэтому ей нужен отдельный уход.",
+      "breedId": "243e2b45-b34c-59d9-904f-ed632a07bc76",
+      "source": {
+        "title": "AKC — Фландрский бувье",
+        "url": "https://www.akc.org/expert-advice/lifestyle/the-bouvier-des-flandresfrom-farm-dog-to-war-dog-to-family-pet/"
+      }
+    },
+    {
+      "id": "ru-fact-b02b6cc0-8afc-501d-8ed8-1b02e60a87e2",
+      "text": "Название «шипперке» во фламандском диалекте означает «маленькая овчарка». Именно такое объяснение приводит стандарт FCI.",
+      "breedId": "94d6a847-5f50-5858-bd9a-04755ccba6fd",
+      "source": {
+        "title": "FCI — стандарт № 83: Шипперке",
+        "url": "https://www.fci.be/Nomenclature/Standards/083g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e364c955-b47d-5a5e-864f-1f87ca7b08be",
+      "text": "Около 1690 года брюссельские ремесленники, особенно сапожники, устраивали состязания красивых латунных ошейников для шипперке. Оценивали искусную работу украшений, которыми наряжали собак.",
+      "breedId": "94d6a847-5f50-5858-bd9a-04755ccba6fd",
+      "source": {
+        "title": "FCI — стандарт № 83: Шипперке",
+        "url": "https://www.fci.be/Nomenclature/Standards/083g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-7c168808-e4a1-5aec-acc5-0eefe42d8879",
+      "text": "Первый стандарт шипперке составили в 1888 году, когда появился клуб породы. FCI называет его старейшим породным клубом Бельгии.",
+      "breedId": "94d6a847-5f50-5858-bd9a-04755ccba6fd",
+      "source": {
+        "title": "FCI — стандарт № 83: Шипперке",
+        "url": "https://www.fci.be/Nomenclature/Standards/083g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-68569691-185c-5309-88ab-bfd889a0024e",
+      "text": "Первые собаки, действительно названные леонбергерами, родились в 1846 году. Ранние скрещивания дали крупных длинношёрстных собак с преимущественно белым окрасом, не похожим на привычную сегодня рыжую шерсть с маской.",
+      "breedId": "133f3004-c285-5c83-b178-ec8cf7e03482",
+      "source": {
+        "title": "FCI — стандарт № 145: Леонбергер",
+        "url": "https://www.fci.be/Nomenclature/Standards/145g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-56852006-852a-5ac9-8cb7-43467b1cb0c0",
+      "text": "В конце XIX века леонбергеры были популярными фермерскими собаками в Баден-Вюртемберге. Их ценили, в частности, за способность тянуть грузы, а не только охранять хозяйство.",
+      "breedId": "133f3004-c285-5c83-b178-ec8cf7e03482",
+      "source": {
+        "title": "FCI — стандарт № 145: Леонбергер",
+        "url": "https://www.fci.be/Nomenclature/Standards/145g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-f2dc7a88-3a37-5679-bfbe-a917de82cbaa",
+      "text": "У леонбергера есть перепонки между пальцами. AKC отмечает эту особенность в связи с его способностями к водным видам спорта и спасательной работе.",
+      "breedId": "133f3004-c285-5c83-b178-ec8cf7e03482",
+      "source": {
+        "title": "AKC — Леонбергер",
+        "url": "https://www.akc.org/expert-advice/lifestyle/things-leonberger-owner-know/"
+      }
+    },
+    {
+      "id": "ru-fact-e6093fa7-e4e0-525e-8cee-37214f8486d7",
+      "text": "Историческая задача бульмастифа заключалась в том, чтобы тихо выследить браконьера и удерживать его до прихода егеря. Собак обучали задерживать человека, не нанося ему тяжёлых повреждений.",
+      "breedId": "ec229eef-f816-5726-be9c-fa8784994e5e",
+      "source": {
+        "title": "AKC — Бульмастиф",
+        "url": "https://www.akc.org/expert-advice/lifestyle/fun-facts-bullmastiff/"
+      }
+    },
+    {
+      "id": "ru-fact-3f20865c-dfcb-5caa-8c5d-7e4a31eb84ad",
+      "text": "В 1920-х годах Джон Д. Рокфеллер привёз бульмастифов в США для охраны своего загородного имения в Тарритауне, штат Нью-Йорк.",
+      "breedId": "ec229eef-f816-5726-be9c-fa8784994e5e",
+      "source": {
+        "title": "AKC — Бульмастиф",
+        "url": "https://www.akc.org/expert-advice/lifestyle/fun-facts-bullmastiff/"
+      }
+    },
+    {
+      "id": "ru-fact-bafc2af3-d286-5d68-bdc3-c53dc0ebb206",
+      "text": "Бульмастиф Буткус, появившийся в фильме «Рокки», был собственным питомцем Сильвестра Сталлоне. Для этой роли актёр использовал свою собаку, а не специально нанятую кинозвезду.",
+      "breedId": "ec229eef-f816-5726-be9c-fa8784994e5e",
+      "source": {
+        "title": "AKC — Бульмастиф",
+        "url": "https://www.akc.org/expert-advice/lifestyle/fun-facts-bullmastiff/"
+      }
+    },
+    {
+      "id": "ru-fact-8d8a199e-b3fa-59a3-985d-08da309b6901",
+      "text": "На первой французской выставке собак в Париже в 1863 году бордоские доги уже выступали под своим нынешним названием. Выставка проходила в саду Жарден д’Акклиматасьон.",
+      "breedId": "a842a978-e45e-5217-9f6a-32f091036420",
+      "source": {
+        "title": "FCI — стандарт № 116: Бордоский дог",
+        "url": "https://www.fci.be/Nomenclature/Standards/116g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-002ec0c8-0440-5943-b3f3-0f4df2238d7b",
+      "text": "В прошлом различали тулузский, парижский и бордоский типы французских догов. Именно бордоский тип стал основой современной породы.",
+      "breedId": "a842a978-e45e-5217-9f6a-32f091036420",
+      "source": {
+        "title": "FCI — стандарт № 116: Бордоский дог",
+        "url": "https://www.fci.be/Nomenclature/Standards/116g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-64eedecf-4993-5229-b449-d209328a6bd1",
+      "text": "У бордоского дога допустимый оттенок глаз связан с маской: при чёрной маске глаза должны быть ореховыми или тёмно-карими. При коричневой маске или её отсутствии стандарт допускает более светлые глаза.",
+      "breedId": "a842a978-e45e-5217-9f6a-32f091036420",
+      "source": {
+        "title": "FCI — стандарт № 116: Бордоский дог",
+        "url": "https://www.fci.be/Nomenclature/Standards/116g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-7c8ea88d-c7c3-5f08-9be1-37d98bb838cc",
+      "text": "Современное восстановление неаполитанского мастифа началось в 1947 году усилиями группы энтузиастов. Эту дату FCI отделяет от гораздо более древней истории собак подобного типа.",
+      "breedId": "368be669-78e9-56f5-84d3-d123c90041ac",
+      "source": {
+        "title": "FCI — стандарт № 197: Неаполитанский мастиф",
+        "url": "https://www.fci.be/Nomenclature/Standards/197g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-d9802e16-6e50-5b94-8941-98c68b7c4128",
+      "text": "Шаг неаполитанского мастифа стандарт сравнивает с движением льва и медведя: он медленный и своеобразный. На рыси впечатление меняется благодаря сильному толчку задних ног.",
+      "breedId": "368be669-78e9-56f5-84d3-d123c90041ac",
+      "source": {
+        "title": "FCI — стандарт № 197: Неаполитанский мастиф",
+        "url": "https://www.fci.be/Nomenclature/Standards/197g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-6c359e18-0dfd-528a-bb58-a4efcc3a7a83",
+      "text": "Обильные складки неаполитанского мастифа не должны мешать его здоровью и благополучию. Стандарт прямо ограничивает выраженность этого признака: больше складок не означает лучше.",
+      "breedId": "368be669-78e9-56f5-84d3-d123c90041ac",
+      "source": {
+        "title": "FCI — стандарт № 197: Неаполитанский мастиф",
+        "url": "https://www.fci.be/Nomenclature/Standards/197g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-bcb1f7f6-fe94-5b2a-8326-e963c30bc759",
+      "text": "После Второй мировой войны английский мастиф почти исчез в Великобритании. Для восстановления поголовья пришлось ввозить собак из других стран.",
+      "breedId": "7e94a0e9-b410-5895-bd39-42102ef1216c",
+      "source": {
+        "title": "FCI — стандарт № 264: Английский мастиф",
+        "url": "https://www.fci.be/Nomenclature/Standards/264g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5e76216d-3a8d-5514-a606-ecb6ef2eb3d3",
+      "text": "Английский мастиф может уже выглядеть огромным, но ещё не быть полностью взрослым. По данным AKC, окончательная физическая и психическая зрелость наступает примерно к трём годам.",
+      "breedId": "7e94a0e9-b410-5895-bd39-42102ef1216c",
+      "source": {
+        "title": "AKC — Английский мастиф",
+        "url": "https://www.akc.org/expert-advice/lifestyle/fun-facts-mastiff/"
+      }
+    },
+    {
+      "id": "ru-fact-22551b36-7db3-5cae-ab10-929c5009a44e",
+      "text": "Английский мастиф Зорба вошёл в историю рекордов в ноябре 1989 года: его длина от носа до кончика хвоста составляла около 2,5 метра. Это выдающийся отдельный случай, а не обычный размер породы.",
+      "breedId": "7e94a0e9-b410-5895-bd39-42102ef1216c",
+      "source": {
+        "title": "AKC — Английский мастиф",
+        "url": "https://www.akc.org/expert-advice/lifestyle/fun-facts-mastiff/"
+      }
+    },
+    {
+      "id": "ru-fact-407ed7c1-de23-59e6-9507-a9c8e70dfaae",
+      "text": "Первый стандарт скотч-терьера появился в 1881 году, а первый породный клуб — годом позже. Так нынешняя порода получила собственные правила описания и сообщество заводчиков ещё в XIX веке.",
+      "breedId": "c2796364-65b4-513c-bec3-4a9f63e36fb4",
+      "source": {
+        "title": "FCI — стандарт № 73: Скотч-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/073g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-32cda507-679b-5070-abc2-dbf789f08228",
+      "text": "Скотч-терьер не обязательно чёрный. Стандарт допускает также пшеничный и тигровый окрасы, хотя в массовом представлении чаще встречается образ чёрного скотти.",
+      "breedId": "c2796364-65b4-513c-bec3-4a9f63e36fb4",
+      "source": {
+        "title": "FCI — стандарт № 73: Скотч-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/073g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-20a76ecd-fdc1-5a28-a40d-833162d74676",
+      "text": "У президента США Франклина Рузвельта жил скотч-терьер Фала. Среди других известных любителей породы были актёры Хамфри Богарт и Бетт Дейвис, а также лётчик Чарльз Линдберг.",
+      "breedId": "c2796364-65b4-513c-bec3-4a9f63e36fb4",
+      "source": {
+        "title": "AKC — Скотч-терьер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/scottish-terrier-history-rugged-hunter-1930s-fad/"
+      }
+    },
+    {
+      "id": "ru-fact-3a6a2085-c4a2-534b-9329-17a2cd10d90f",
+      "text": "Бедлингтон-терьер раньше был известен как ротбери-терьер. Это старое название напоминает о североанглийском горняцком крае, где развивалась порода.",
+      "breedId": "aa007023-4912-537e-8da9-37b20ab0d67e",
+      "source": {
+        "title": "FCI — стандарт № 9: Бедлингтон-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/009g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-4c79260b-232d-563e-843f-6b98590a7e0e",
+      "text": "Одной из ранних задач бедлингтон-терьера была ловля кроликов для семейного стола. Его необычный «овечий» облик не отменял вполне практической охотничьей работы.",
+      "breedId": "aa007023-4912-537e-8da9-37b20ab0d67e",
+      "source": {
+        "title": "FCI — стандарт № 9: Бедлингтон-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/009g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-33f326d1-794c-5de4-aa06-71f4993a5d0a",
+      "text": "Цвет носа бедлингтон-терьера зависит от окраса шерсти. У голубых собак он чёрный, а у печёночных и песочных — коричневый; это прямо предусмотрено стандартом.",
+      "breedId": "aa007023-4912-537e-8da9-37b20ab0d67e",
+      "source": {
+        "title": "FCI — стандарт № 9: Бедлингтон-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/009g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-f335217b-ded9-5dd9-b199-102f01784343",
+      "text": "Керри-блю-терьера использовали и на воде, и под землёй: среди его исторических задач были охота на выдру и работа по барсуку в норе.",
+      "breedId": "a79f3865-a22e-5455-ba30-3dab7f07af7f",
+      "source": {
+        "title": "FCI — стандарт № 3: Керри-блю-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/003g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-fa1003d9-2343-5e30-949a-dc32148760e7",
+      "text": "В качестве одного из ранних вероятных упоминаний керри-блю-терьера FCI приводит текст 1847 года о собаке голубовато-сланцевого окраса. Достоверных ранних записей о породе сохранилось мало.",
+      "breedId": "a79f3865-a22e-5455-ba30-3dab7f07af7f",
+      "source": {
+        "title": "FCI — стандарт № 3: Керри-блю-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/003g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-8a27b510-60b4-555a-8aa1-b9c05119132c",
+      "text": "В начале 1920-х годов керри-блю-терьер стал своеобразным символом ирландских патриотов. Некоторое время интересы породы одновременно представляли сразу четыре клуба.",
+      "breedId": "a79f3865-a22e-5455-ba30-3dab7f07af7f",
+      "source": {
+        "title": "FCI — стандарт № 3: Керри-блю-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/003g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5a9619ae-7db7-5dc4-a7e6-85628259f667",
+      "text": "До 1880-х годов ирландские терьеры бывали не только рыжими, но и чёрно-подпалыми или тигровыми. Привычный однотонный рыжий облик закрепили последующим племенным отбором.",
+      "breedId": "b9ad0d7a-bf2e-5521-9eff-13a38dadcc8f",
+      "source": {
+        "title": "FCI — стандарт № 139: Ирландский терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/139g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-2a16dc8a-0641-5967-8163-1dd625ffcfb6",
+      "text": "В Первую мировую войну ирландские терьеры служили связными. Они переносили сообщения в шуме и суматохе окопных боёв, где особенно ценились их смелость и сообразительность.",
+      "breedId": "b9ad0d7a-bf2e-5521-9eff-13a38dadcc8f",
+      "source": {
+        "title": "FCI — стандарт № 139: Ирландский терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/139g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1f99d57c-6ebe-5fe8-a959-2c99b3a1ec25",
+      "text": "Первый клуб ирландского терьера основали в Дублине 31 марта 1879 года. Он появился ещё до окончательного закрепления привычного сегодня рыжего окраса породы.",
+      "breedId": "b9ad0d7a-bf2e-5521-9eff-13a38dadcc8f",
+      "source": {
+        "title": "FCI — стандарт № 139: Ирландский терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/139g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-b1fe30b8-6c4a-5eb1-bf61-1c5ef05bd0f0",
+      "text": "В XVII веке пойнтеры помогали находить зайцев, которых затем преследовали грейхаунды. Их работа не всегда ограничивалась привычной сегодня охотой на птицу с ружьём.",
+      "breedId": "82447549-ee28-5019-b8c4-ddb9920e97e5",
+      "source": {
+        "title": "AKC — Английский пойнтер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/pointer-history/"
+      }
+    },
+    {
+      "id": "ru-fact-e11e6cb2-fefe-5a76-a996-edbbb51dfeb7",
+      "text": "На эмблеме Westminster Kennel Club изображён пойнтер по кличке Сенсейшн, привезённый из Англии. Так конкретная собака стала узнаваемым символом знаменитой выставки.",
+      "breedId": "82447549-ee28-5019-b8c4-ddb9920e97e5",
+      "source": {
+        "title": "AKC — Английский пойнтер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/pointer-history/"
+      }
+    },
+    {
+      "id": "ru-fact-5978ee77-f147-506f-9875-56237ea30918",
+      "text": "Охотничьи задатки пойнтера могут проявляться очень рано: AKC описывает щенков, начинающих делать стойку уже примерно в два месяца. Это проявление врождённой склонности, а не готовой выучки.",
+      "breedId": "82447549-ee28-5019-b8c4-ddb9920e97e5",
+      "source": {
+        "title": "AKC — Английский пойнтер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/pointer-history/"
+      }
+    },
+    {
+      "id": "ru-fact-ede6f61f-772b-59de-ae51-95b352624265",
+      "text": "Крепкий костяк шотландского сеттера связан с работой на каменистых вересковых пустошах. Там ценились сила и выносливость, а не только скорость поиска.",
+      "breedId": "154058f4-eb2e-5d9b-8c11-78659cafd9fe",
+      "source": {
+        "title": "AKC — Шотландский сеттер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/gordon-setter-history/"
+      }
+    },
+    {
+      "id": "ru-fact-96ddcc39-28b1-5c3e-acbc-78f49587e15b",
+      "text": "Сеттеры в питомнике замка Гордон не всегда были привычными чёрно-подпалыми. В XIX веке описывали и трёхцветных собак с большими белыми участками; точный состав ранних скрещиваний неизвестен.",
+      "breedId": "154058f4-eb2e-5d9b-8c11-78659cafd9fe",
+      "source": {
+        "title": "AKC — Шотландский сеттер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/gordon-setter-history/"
+      }
+    },
+    {
+      "id": "ru-fact-bc07c6cf-4e91-548c-a597-cbd14006736b",
+      "text": "Предки шотландского сеттера обозначали найденную птицу, низко прижимаясь к земле. Это позволяло охотнику набросить сеть на птиц, иногда накрывая ею и саму собаку.",
+      "breedId": "154058f4-eb2e-5d9b-8c11-78659cafd9fe",
+      "source": {
+        "title": "AKC — Шотландский сеттер",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/gordon-setter-history/"
+      }
+    },
+    {
+      "id": "ru-fact-71455fb3-2564-5559-8fe8-0b9c0cb2deb1",
+      "text": "Племенную книгу Deutsch-Kurzhaar ведут с 1897 года. Князь Альбрехт цу Зольмс-Браунфельс участвовал в разработке признаков породы, правил оценки экстерьера и охотничьих испытаний.",
+      "breedId": "744d2bf3-2abe-5528-a7e5-b4ed6430400d",
+      "source": {
+        "title": "FCI — стандарт № 119: Немецкий курцхаар",
+        "url": "https://www.fci.be/Nomenclature/Standards/119g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-05476838-9e36-5464-91fa-ed975415414f",
+      "text": "Предков немецкого курцхаара использовали при ловле птиц сетями и в соколиной охоте. Их способность замирать перед найденной дичью пригодилась ещё до современной ружейной охоты.",
+      "breedId": "744d2bf3-2abe-5528-a7e5-b4ed6430400d",
+      "source": {
+        "title": "FCI — стандарт № 119: Немецкий курцхаар",
+        "url": "https://www.fci.be/Nomenclature/Standards/119g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-60cfb971-d28b-51d4-b35f-2d2e164da4a8",
+      "text": "Тёмно-коричневый чалый окрас курцхаара образован тесным смешением белых и коричневых волосков. Стандарт особо отмечает практическую ценность такой неброской расцветки на охоте.",
+      "breedId": "744d2bf3-2abe-5528-a7e5-b4ed6430400d",
+      "source": {
+        "title": "FCI — стандарт № 119: Немецкий курцхаар",
+        "url": "https://www.fci.be/Nomenclature/Standards/119g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-af792ed7-3226-5737-97d2-13c28dbf0ea1",
+      "text": "Бретонский эпаньоль может родиться с очень коротким хвостом или вовсе без него. Поэтому короткий хвост у этой породы не обязательно является результатом купирования.",
+      "breedId": "4617b30c-cc04-59d6-92e1-96f84b1e0649",
+      "source": {
+        "title": "FCI — стандарт № 95: Бретонский эпаньоль",
+        "url": "https://www.fci.be/Nomenclature/Standards/095g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-f22eb2f7-f13a-5cd0-948d-63530d46928a",
+      "text": "Проект стандарта бретонского эпаньоля подготовили в Нанте в 1907 году, а приняли 7 июня 1908 года в Лудеаке. Первое название клуба подчёркивало естественную короткохвостость собак.",
+      "breedId": "4617b30c-cc04-59d6-92e1-96f84b1e0649",
+      "source": {
+        "title": "FCI — стандарт № 95: Бретонский эпаньоль",
+        "url": "https://www.fci.be/Nomenclature/Standards/095g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-f8af0301-6f28-5d58-b3e2-272f9b5ce1b4",
+      "text": "Стандарт FCI называет бретонского эпаньоля самой небольшой из легавых пород. При этом он сохраняет рабочий тип собаки, которая ищет дичь и обозначает её стойкой.",
+      "breedId": "4617b30c-cc04-59d6-92e1-96f84b1e0649",
+      "source": {
+        "title": "FCI — стандарт № 95: Бретонский эпаньоль",
+        "url": "https://www.fci.be/Nomenclature/Standards/095g07-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-3e04bd97-38c2-58b4-a919-af226c5437fb",
+      "text": "Афганская борзая Зардин прославилась на лондонской выставке в Хрустальном дворце в 1907 году. Её успех отмечен в исторической справке стандарта FCI.",
+      "breedId": "0a8440b1-ea3a-543d-84e5-dd6e86f6b948",
+      "source": {
+        "title": "FCI — стандарт № 228: Афганская борзая",
+        "url": "https://www.fci.be/Nomenclature/Standards/228g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-34073666-ede1-5abe-9bb9-389b6742d748",
+      "text": "У взрослой афганской борзой на спине формируется «седло» из короткой плотно прилегающей шерсти. Оно естественно контрастирует с длинными волосами на боках и ногах, а не создаётся стрижкой.",
+      "breedId": "0a8440b1-ea3a-543d-84e5-dd6e86f6b948",
+      "source": {
+        "title": "FCI — стандарт № 228: Афганская борзая",
+        "url": "https://www.fci.be/Nomenclature/Standards/228g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e95c99bc-4676-54f6-933f-4433cf38398e",
+      "text": "Первая клонированная собака, Снуппи, была афганской борзой. Она появилась в Южной Корее в 2005 году — необычная страница в истории этой охотничьей породы.",
+      "breedId": "0a8440b1-ea3a-543d-84e5-dd6e86f6b948",
+      "source": {
+        "title": "AKC — Афганская борзая",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/afghan-hound-history/"
       }
     }
   ]
