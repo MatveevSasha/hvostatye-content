@@ -3727,6 +3727,468 @@
         "title": "Afghan dog - cropped.jpg",
         "changes": "WebP, 397 × 350; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike. Использован готовый фрагмент Afghan dog.jpg из Commons."
       }
+    },
+    {
+      "id": "82d37a18-317a-5e5b-89b3-67738ebae7b7",
+      "name": "Австралийская пастушья собака",
+      "description": "Крепкая рабочая собака, выведенная для управления стадами на больших австралийских пастбищах. Выносливая, внимательная и тесно связанная с владельцем, она нуждается в занятиях, а не только в прогулках. К незнакомым людям часто относится сдержанно.",
+      "country": "Австралия",
+      "traits": "выносливая, бдительная, работоспособная",
+      "source": {
+        "title": "FCI — стандарт № 287: Австралийская пастушья собака",
+        "url": "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 16
+        },
+        "maleWeightKg": {
+          "min": 15.9,
+          "max": 22.7
+        },
+        "femaleWeightKg": {
+          "min": 15.9,
+          "max": 22.7
+        },
+        "maleHeightCm": {
+          "min": 46,
+          "max": 51
+        },
+        "femaleHeightCm": {
+          "min": 43,
+          "max": 48
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/82d37a18-317a-5e5b-89b3-67738ebae7b7-v1.webp",
+        "author": "Zingpix",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:ACD-blue-spud.jpg",
+        "title": "ACD-blue-spud.jpg",
+        "changes": "WebP, 640 × 512; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "caab0cc7-afff-57c8-8842-bcd507a065bc",
+      "name": "Пуми",
+      "description": "Небольшая венгерская пастушья собака с живым выражением и подвижными полустоячими ушами. Пуми быстро реагирует на происходящее, охотно работает с человеком и нередко подаёт голос. Ему подходят разнообразные задания и регулярная активность.",
+      "country": "Венгрия",
+      "traits": "подвижный, внимательный, общительный",
+      "source": {
+        "title": "FCI — стандарт № 56: Пуми",
+        "url": "https://www.fci.be/Nomenclature/Standards/056g01-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 13
+        },
+        "maleWeightKg": {
+          "min": 12.2,
+          "max": 13.2
+        },
+        "femaleWeightKg": {
+          "min": 10,
+          "max": 10.9
+        },
+        "maleHeightCm": {
+          "min": 41,
+          "max": 47
+        },
+        "femaleHeightCm": {
+          "min": 38,
+          "max": 44
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/caab0cc7-afff-57c8-8842-bcd507a065bc-v1.webp",
+        "author": "Svenska Mässan from Sweden",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grupp_1,_PUMI,_DK_V-15_JWW-13_NO_UCH_NORD_UCH_SE_V-13_Camms_Ceger_(24014621660).jpg",
+        "title": "Grupp 1, PUMI, DK V-15 JWW-13 NO UCH NORD UCH SE V-13 Camms Ceger (24014621660).jpg",
+        "changes": "WebP, 640 × 427; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "19515067-045d-5b49-9f06-1b6bb7737c02",
+      "name": "Энтлебухер-зенненхунд",
+      "description": "Компактная трёхцветная пастушья собака из швейцарской долины Энтлебух. Энтлебухер энергичен, уверен в себе и привязан к семье; с посторонними может быть настороженным. Короткая плотная шерсть сочетается с крепким, немного растянутым корпусом.",
+      "country": "Швейцария",
+      "traits": "энергичный, преданный, бдительный",
+      "source": {
+        "title": "FCI — стандарт № 47: Энтлебухер-зенненхунд",
+        "url": "https://www.fci.be/Nomenclature/Standards/047g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 11,
+          "max": 13
+        },
+        "maleWeightKg": {
+          "min": 22.7,
+          "max": 29.5
+        },
+        "femaleWeightKg": {
+          "min": 18.1,
+          "max": 24.9
+        },
+        "maleHeightCm": {
+          "min": 44,
+          "max": 52
+        },
+        "femaleHeightCm": {
+          "min": 42,
+          "max": 50
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/19515067-045d-5b49-9f06-1b6bb7737c02-v1.webp",
+        "author": "Serge Renggli",
+        "license": "CC BY-SA 2.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elio_v_Schaerlig_im_Juni_2007_klein.jpg",
+        "title": "Elio v Schaerlig im Juni 2007 klein.jpg",
+        "changes": "WebP, 573 × 505; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "59167b3a-5257-55ef-ad09-06c839f0e24f",
+      "name": "Ховаварт",
+      "description": "Крупная немецкая рабочая собака с длинной слегка волнистой шерстью. Ховаварт сочетает уверенность, выносливость и выраженную привязанность к семье. Исторические охранные качества требуют вдумчивого воспитания и раннего знакомства с окружающим миром.",
+      "country": "Германия",
+      "traits": "уравновешенный, уверенный, преданный",
+      "source": {
+        "title": "FCI — стандарт № 190: Ховаварт",
+        "url": "https://www.fci.be/Nomenclature/Standards/190g02-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 10,
+          "max": 14
+        },
+        "maleWeightKg": {
+          "min": 29.5,
+          "max": 40.8
+        },
+        "femaleWeightKg": {
+          "min": 29.5,
+          "max": 40.8
+        },
+        "maleHeightCm": {
+          "min": 58,
+          "max": 71
+        },
+        "femaleHeightCm": {
+          "min": 58,
+          "max": 71
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/59167b3a-5257-55ef-ad09-06c839f0e24f-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hoff-blond1.jpg",
+        "title": "Hoff-blond1.jpg",
+        "changes": "WebP, 640 × 443; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "f73fc1aa-4723-5120-b0ba-8e90b417aa87",
+      "name": "Вельштерьер",
+      "description": "Компактный терьер из Уэльса с характерной бородой и чёрно-подпалым или чепрачным окрасом. Вельштерьер смел, оживлён и ориентирован на взаимодействие с человеком. Охотничий интерес может проявляться и у домашней собаки, поэтому ему нужны занятия и последовательное воспитание.",
+      "country": "Великобритания",
+      "traits": "смелый, оживлённый, контактный",
+      "source": {
+        "title": "FCI — стандарт № 78: Вельштерьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/078g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 9.1,
+          "max": 10
+        },
+        "femaleWeightKg": {
+          "min": 9.1,
+          "max": 10
+        },
+        "maleHeightCm": {
+          "min": 38,
+          "max": 41
+        },
+        "femaleHeightCm": {
+          "min": 38,
+          "max": 41
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/f73fc1aa-4723-5120-b0ba-8e90b417aa87-v1.webp",
+        "author": "Pleple2000",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terier_walijski_suka_2009_pl.jpg",
+        "title": "Terier walijski suka 2009 pl.jpg",
+        "changes": "WebP, 640 × 504; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "0909095e-f0c0-556d-9399-00f9b4bcf4cc",
+      "name": "Норвич-терьер",
+      "description": "Маленький крепкий терьер со стоячими ушами и короткой жёсткой шерстью. Норвич любознателен, активен и обычно охотно общается с людьми. Несмотря на размер, это полноценная рабочая по происхождению собака с заметным интересом к мелкой добыче.",
+      "country": "Великобритания",
+      "traits": "любознательный, смелый, активный",
+      "source": {
+        "title": "FCI — стандарт № 72: Норвич-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/072g03-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 4.5,
+          "max": 6.8
+        },
+        "femaleWeightKg": {
+          "min": 4.5,
+          "max": 6.8
+        },
+        "maleHeightCm": {
+          "min": 23,
+          "max": 25
+        },
+        "femaleHeightCm": {
+          "min": 23,
+          "max": 25
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/0909095e-f0c0-556d-9399-00f9b4bcf4cc-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norwich-grizzle.jpg",
+        "title": "Norwich-grizzle.jpg",
+        "changes": "WebP, 605 × 640; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "0f363d55-fcbc-5afa-873f-f662d8c6f65d",
+      "name": "Финский шпиц",
+      "description": "Рыжий северный охотничий шпиц с заострёнными ушами и хвостом, загнутым на спину. Финский шпиц подвижен, внимателен и склонен самостоятельно принимать решения. Его выразительный голос и потребность в занятиях важно учитывать при выборе семейной собаки.",
+      "country": "Финляндия",
+      "traits": "подвижный, самостоятельный, внимательный",
+      "source": {
+        "title": "FCI — стандарт № 49: Финский шпиц",
+        "url": "https://www.fci.be/Nomenclature/Standards/049g05-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 13,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 11.3,
+          "max": 15
+        },
+        "femaleWeightKg": {
+          "min": 9.1,
+          "max": 12.7
+        },
+        "maleHeightCm": {
+          "min": 44,
+          "max": 51
+        },
+        "femaleHeightCm": {
+          "min": 39,
+          "max": 46
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/0f363d55-fcbc-5afa-873f-f662d8c6f65d-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Finnishspitzpysty2.jpg",
+        "title": "Finnishspitzpysty2.jpg",
+        "changes": "WebP, 631 × 640; без дополнительного кадрирования."
+      }
+    },
+    {
+      "id": "918234fb-dc66-5dde-91bd-a818ffb6bb42",
+      "name": "Норвежский серый элкхунд",
+      "description": "Крепкий северный охотничий шпиц с плотной шерстью, стоячими ушами и туго закрученным хвостом. Серый элкхунд вынослив, смел и бдителен. Он способен самостоятельно работать вдали от человека, поэтому нуждается в последовательном обучении и содержательной активности.",
+      "country": "Норвегия",
+      "traits": "выносливый, смелый, самостоятельный",
+      "source": {
+        "title": "FCI — стандарт № 242: Норвежский серый элкхунд",
+        "url": "https://www.fci.be/Nomenclature/Standards/242g05-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 15.9,
+          "max": 27.2
+        },
+        "femaleWeightKg": {
+          "min": 15.9,
+          "max": 27.2
+        },
+        "maleHeightCm": {
+          "min": 48,
+          "max": 53
+        },
+        "femaleHeightCm": {
+          "min": 48,
+          "max": 53
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/918234fb-dc66-5dde-91bd-a818ffb6bb42-v1.webp",
+        "author": "HawkNightingale175",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elkhound2020_(cropped).jpg",
+        "title": "Elkhound2020 (cropped).jpg",
+        "changes": "WebP, 447 × 640; без дополнительного кадрирования. Использован готовый кадрированный файл Wikimedia Commons."
+      }
+    },
+    {
+      "id": "7f8602c7-8cd0-503b-9893-bdd1fe4b286b",
+      "name": "Лаготто-романьоло",
+      "description": "Некрупная итальянская собака с плотными кудрями, известная способностью искать трюфели. Лаготто внимателен, охотно учится и любит задачи, в которых можно использовать обоняние. Для поддержания шерсти в хорошем состоянии нужен регулярный уход.",
+      "country": "Италия",
+      "traits": "обучаемый, внимательный, работоспособный",
+      "source": {
+        "title": "FCI — стандарт № 298: Лаготто-романьоло",
+        "url": "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 15,
+          "max": 17
+        },
+        "maleWeightKg": {
+          "min": 12.9,
+          "max": 15.9
+        },
+        "femaleWeightKg": {
+          "min": 10.9,
+          "max": 14.1
+        },
+        "maleHeightCm": {
+          "min": 43,
+          "max": 48
+        },
+        "femaleHeightCm": {
+          "min": 41,
+          "max": 46
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/7f8602c7-8cd0-503b-9893-bdd1fe4b286b-v1.webp",
+        "author": "Canarian",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lagotto-white2.jpg",
+        "title": "Lagotto-white2.jpg",
+        "changes": "WebP, 640 × 548; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "78f698a3-0640-5771-9572-5e6359adfe19",
+      "name": "Лхаса-апсо",
+      "description": "Небольшая тибетская собака-компаньон с длинной прямой шерстью и уверенным характером. Лхаса-апсо оживлён с близкими, но может быть сдержан с незнакомцами. За декоративной внешностью сохраняются бдительность и самостоятельность.",
+      "country": "Тибет (Китай)",
+      "traits": "бдительный, самостоятельный, привязанный к семье",
+      "source": {
+        "title": "FCI — стандарт № 227: Лхаса-апсо",
+        "url": "https://www.fci.be/Nomenclature/Standards/227g09-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 12,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 5.4,
+          "max": 8.2
+        },
+        "femaleWeightKg": {
+          "min": 5.4,
+          "max": 8.2
+        },
+        "maleHeightCm": {
+          "min": 25,
+          "max": 28
+        },
+        "femaleHeightCm": {
+          "min": 25,
+          "max": 28
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/78f698a3-0640-5771-9572-5e6359adfe19-v1.webp",
+        "author": "Elminjas at Dutch Wikipedia",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aishia.jpg",
+        "title": "Aishia.jpg",
+        "changes": "WebP, 500 × 345; без дополнительного кадрирования. Производная версия под той же лицензией ShareAlike."
+      }
+    },
+    {
+      "id": "666d0aea-d3e6-5f52-b7bb-25b66f7267f6",
+      "name": "Левретка",
+      "description": "Миниатюрная гладкошёрстная борзая изящного сложения. Левретка сочетает быстроту и лёгкость движений с нежной привязанностью к человеку. Она чувствительна к обращению и обычно ценит тесное общение с семьёй.",
+      "country": "Италия",
+      "traits": "ласковая, чуткая, подвижная",
+      "source": {
+        "title": "FCI — стандарт № 200: Левретка",
+        "url": "https://www.fci.be/Nomenclature/Standards/200g10-en.pdf"
+      },
+      "metrics": {
+        "lifeYears": {
+          "min": 14,
+          "max": 15
+        },
+        "maleWeightKg": {
+          "min": 3.2,
+          "max": 6.4
+        },
+        "femaleWeightKg": {
+          "min": 3.2,
+          "max": 6.4
+        },
+        "maleHeightCm": {
+          "min": 33,
+          "max": 38
+        },
+        "femaleHeightCm": {
+          "min": 33,
+          "max": 38
+        }
+      },
+      "image": {
+        "url": "https://matveevsasha.github.io/hvostatye-content/images/666d0aea-d3e6-5f52-b7bb-25b66f7267f6-v1.webp",
+        "author": "christina",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Italian_Greyhound_standing_gray_(cropped).jpg",
+        "title": "Italian Greyhound standing gray (cropped).jpg",
+        "changes": "WebP, 481 × 640; без дополнительного кадрирования. Использован готовый кадрированный файл Wikimedia Commons."
+      }
     }
   ],
   "facts": [
@@ -5771,6 +6233,663 @@
       "source": {
         "title": "AKC — Афганская борзая",
         "url": "https://www.akc.org/expert-advice/dog-breeds/afghan-hound-history/"
+      }
+    },
+    {
+      "id": "ru-fact-0317f3ce-c3c9-518d-90bd-4d68f49f9fe9",
+      "text": "В фильме «Лесси возвращается домой» 1943 года знаменитую собаку сыграл кобель колли по кличке Пэл. Картина была снята по роману Эрика Найта и помогла сделать образ длинношёрстного колли узнаваемым далеко за пределами собачьих выставок.",
+      "breedId": "418a150a-ef16-5d18-80ed-cb51e90ff6d5",
+      "source": {
+        "title": "AKC — история колли и Лесси",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/collie-history-queen-victoria-lassie-beyond/"
+      }
+    },
+    {
+      "id": "ru-fact-b385ca4b-5194-565d-9295-c8b4d277703a",
+      "text": "У внимательного длинношёрстного колли уши не должны полностью выпрямляться: по стандарту примерно две трети уха стоят, а верхняя треть наклоняется вперёд. Этот небольшой изгиб заметно влияет на характерное выражение морды.",
+      "breedId": "418a150a-ef16-5d18-80ed-cb51e90ff6d5",
+      "source": {
+        "title": "FCI · официальный стандарт №156",
+        "url": "https://www.fci.be/Nomenclature/Standards/156g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-64070792-5d85-5bfa-939f-5783d405328f",
+      "text": "Бельгийских овчарок начали записывать в племенную книгу Королевского общества Святого Губерта лишь в 1901 году — через десять лет после основания породного клуба. До признания этих рабочих собак долго считали породой простых людей.",
+      "breedId": "b0a9f340-3a14-5e5d-b4ff-d4fe8092b40a",
+      "source": {
+        "title": "FCI · официальный стандарт №15",
+        "url": "https://www.fci.be/Nomenclature/Standards/015g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-75f52beb-1bdb-5802-b112-e23ed987de81",
+      "text": "Стандарт бельгийской овчарки отдельно отмечает способность резко менять направление даже на большой скорости. Описанная там привычка двигаться кругами связана с её пастушьим и охранным прошлым.",
+      "breedId": "b0a9f340-3a14-5e5d-b4ff-d4fe8092b40a",
+      "source": {
+        "title": "FCI · официальный стандарт №15",
+        "url": "https://www.fci.be/Nomenclature/Standards/015g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-17d78880-ab39-5432-81d2-0d508bc73e79",
+      "text": "Кардиганы помогали перегонять скот, прихватывая животных за пятки. Низкий рост был полезен в такой работе: собаке было легче уклониться от ответного удара копытом.",
+      "breedId": "19dd8848-56a9-5914-89dd-a330d39a05ac",
+      "source": {
+        "title": "AKC — история вельш-корги-кардигана",
+        "url": "https://www.akc.org/expert-advice/lifestyle/things-you-didnt-know-about-the-cardigan-welsh-corgi/"
+      }
+    },
+    {
+      "id": "ru-fact-9ff5c87a-462d-5ecb-8f10-dd42358af427",
+      "text": "За время признания в Американском клубе собаководства кардиган сменил три группы: сначала неспортивную, затем рабочую и, наконец, пастушью. Это история классификации AKC, а не изменение происхождения самой породы.",
+      "breedId": "19dd8848-56a9-5914-89dd-a330d39a05ac",
+      "source": {
+        "title": "AKC — история вельш-корги-кардигана",
+        "url": "https://www.akc.org/expert-advice/lifestyle/things-you-didnt-know-about-the-cardigan-welsh-corgi/"
+      }
+    },
+    {
+      "id": "ru-fact-7d3f34ee-f369-576d-9e39-b13702d41e01",
+      "text": "Историческая область распространения кавказской овчарки не ограничивалась горами. Стандарт FCI указывает также степные районы юга России: собаки складывались в разных условиях большого региона.",
+      "breedId": "1bc36285-6222-5bdc-b256-6225078eae2f",
+      "source": {
+        "title": "FCI · официальный стандарт №328",
+        "url": "https://www.fci.be/Nomenclature/Standards/328g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-ef634a44-85e3-54f2-b7a6-924eb219fa54",
+      "text": "У длинношёрстной кавказской овчарки шерсть образует не только гриву на шее, но и кисточки на ушах, а также «штаны» на задней стороне бёдер. На голове и передней стороне ног шерсть заметно короче.",
+      "breedId": "1bc36285-6222-5bdc-b256-6225078eae2f",
+      "source": {
+        "title": "FCI · официальный стандарт №328",
+        "url": "https://www.fci.be/Nomenclature/Standards/328g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e253b849-bbf3-5f82-9530-1b2bdf9e5c6c",
+      "text": "Среднеазиатская овчарка формировалась на огромной территории — от Каспийского моря до Китая и от Южного Урала до Афганистана. Поэтому её история связана с длительным отбором рабочих собак у разных народов, а не с одним питомником.",
+      "breedId": "89b1d559-3d3b-5b9e-b8f4-a0c7fab2a758",
+      "source": {
+        "title": "FCI · официальный стандарт №335",
+        "url": "https://www.fci.be/Nomenclature/Standards/335g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-04ed40f7-b8c6-5d52-a51a-642bb3c42e7f",
+      "text": "В стандарте среднеазиатской овчарки отмечена способность экономно расходовать силы в суровых условиях. Для собаки, сопровождавшей и охранявшей стада, важна была не постоянная суета, а готовность действовать, когда это действительно требовалось.",
+      "breedId": "89b1d559-3d3b-5b9e-b8f4-a0c7fab2a758",
+      "source": {
+        "title": "FCI · официальный стандарт №335",
+        "url": "https://www.fci.be/Nomenclature/Standards/335g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-5ecc42f7-149e-5bcb-9537-1fa96573a9e7",
+      "text": "Русского чёрного терьера создавали в питомнике «Красная звезда» при военно-кинологической школе под Москвой. Порода появилась в результате целенаправленного подбора собак для службы, а не как местная разновидность деревенского терьера.",
+      "breedId": "54841217-42c5-50d7-a248-dd749d8e23e5",
+      "source": {
+        "title": "FCI · официальный стандарт №327",
+        "url": "https://www.fci.be/Nomenclature/Standards/327g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-ff9f62ee-2a0c-5b82-bf82-a59be8f4b93a",
+      "text": "Шерсть русского чёрного терьера не обязана быть абсолютно однотонной. Стандарт допускает чёрный окрас с вкраплениями седых волос, если они покрывают не более трети поверхности тела.",
+      "breedId": "54841217-42c5-50d7-a248-dd749d8e23e5",
+      "source": {
+        "title": "FCI · официальный стандарт №327",
+        "url": "https://www.fci.be/Nomenclature/Standards/327g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-ac22216f-c649-5242-bb8a-1a74435c8efa",
+      "text": "В 1847 году лорд Хардинг, тогдашний вице-король Индии, отправил тибетского мастифа королеве Виктории. Стандарт FCI упоминает этого кобеля среди ранних документированных прибытий породы на Запад.",
+      "breedId": "fbf1847d-1277-5611-93b0-6eb2c9d2d0ca",
+      "source": {
+        "title": "FCI · официальный стандарт №230",
+        "url": "https://www.fci.be/Nomenclature/Standards/230g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-b22dd28f-e716-5490-be9b-144373d3be3e",
+      "text": "Объём шубы тибетского мастифа меняется по сезонам. В холодное время подшёрсток густой, а в тёплые месяцы становится более редким — летняя собака может выглядеть заметно менее пышной.",
+      "breedId": "fbf1847d-1277-5611-93b0-6eb2c9d2d0ca",
+      "source": {
+        "title": "FCI · официальный стандарт №230",
+        "url": "https://www.fci.be/Nomenclature/Standards/230g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-21eac264-58a3-52fd-86c4-6f7f26eb0368",
+      "text": "Джек-рассел-терьер получил имя преподобного Джона Рассела, английского любителя охоты XIX века. Он подбирал терьеров, способных работать с гончими и выгонять лису из укрытия под землёй.",
+      "breedId": "4c921b69-a973-535d-a9b3-d688e61a972e",
+      "source": {
+        "title": "FCI · официальный стандарт №345",
+        "url": "https://www.fci.be/Nomenclature/Standards/345g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-10d021f8-9d52-563a-96f1-8308b1a09efc",
+      "text": "Для джек-рассела важен не только небольшой рост: грудную клетку за локтями по стандарту можно обхватить двумя руками, примерно на 40–43 сантиметра. Такая проверка связана с работой в норе, где излишне широкая грудь мешала бы проходу.",
+      "breedId": "4c921b69-a973-535d-a9b3-d688e61a972e",
+      "source": {
+        "title": "FCI · официальный стандарт №345",
+        "url": "https://www.fci.be/Nomenclature/Standards/345g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-260300d0-d9af-5d62-9c24-ed52b8ff0951",
+      "text": "На первую клубную выставку стаффордширских бультерьеров в августе 1935 года в Крэдли-Хит заявили 60 собак. Она состоялась в тот же год, когда породу признал британский Кеннел-клуб.",
+      "breedId": "ae5fe674-9d9a-59e2-a5e9-cc4e673a5597",
+      "source": {
+        "title": "AKC — стаффордширский бультерьер",
+        "url": "https://www.akc.org/dog-breeds/staffordshire-bull-terrier/"
+      }
+    },
+    {
+      "id": "ru-fact-2fca3e9f-341d-572a-b639-20a36d91daee",
+      "text": "В происхождении стаффордширского бультерьера соединились старые бульдоги и британские терьеры. Отсюда историческое название такого типа собак — «буль-энд-терьер»; современная порода закрепилась позднее.",
+      "breedId": "ae5fe674-9d9a-59e2-a5e9-cc4e673a5597",
+      "source": {
+        "title": "AKC — стаффордширский бультерьер",
+        "url": "https://www.akc.org/dog-breeds/staffordshire-bull-terrier/"
+      }
+    },
+    {
+      "id": "ru-fact-4cd8f354-d090-50cd-ad52-5227ba8ebce2",
+      "text": "В становлении японского шпица участвовали собаки из нескольких стран. Стандарт упоминает две пары белых шпицев, привезённых из Канады в 1925 году, и последующие ввозы из Канады, США, Австралии и Китая до 1936 года.",
+      "breedId": "3b00c65d-f214-5967-827e-9fd1897e40c3",
+      "source": {
+        "title": "FCI · официальный стандарт №262",
+        "url": "https://www.fci.be/Nomenclature/Standards/262g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-12ffb496-73fd-500c-8f2f-2d7471c5c45e",
+      "text": "Белоснежный японский шпиц по стандарту имеет чёрные нос и обводку глаз; чёрный цвет губ также предпочтителен. Этот контраст, а не только белая шерсть, создаёт характерное выразительное «лицо» породы.",
+      "breedId": "3b00c65d-f214-5967-827e-9fd1897e40c3",
+      "source": {
+        "title": "FCI · официальный стандарт №262",
+        "url": "https://www.fci.be/Nomenclature/Standards/262g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-07a378e8-5a66-51a2-960c-d9f28f7a6435",
+      "text": "Историческая задача риджбеков на львиной охоте состояла не в схватке со львом. Две-три собаки находили зверя и, пользуясь ловкостью, удерживали его на месте до прибытия охотника.",
+      "breedId": "8e7b82da-9d1a-5a4e-9826-e3a7470545cc",
+      "source": {
+        "title": "FCI · официальный стандарт №146",
+        "url": "https://www.fci.be/Nomenclature/Standards/146g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-e7ebac2d-c15e-5078-a243-d6d410373c14",
+      "text": "В породном стандарте подробно описаны завитки внутри риджа: их должно быть два, одинаковых и расположенных друг напротив друга. Сам гребень должен быть симметричным и сужаться к задней части спины.",
+      "breedId": "8e7b82da-9d1a-5a4e-9826-e3a7470545cc",
+      "source": {
+        "title": "FCI · официальный стандарт №146",
+        "url": "https://www.fci.be/Nomenclature/Standards/146g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-0718fbe5-2212-555d-aea9-24dcd11632f5",
+      "text": "Бладхаунда используют не только для охоты: стандарт отдельно упоминает поиск пропавших людей в полицейских операциях. Чутьё сочетается с выносливостью, позволяющей долго идти по следу на сложной местности.",
+      "breedId": "dccbe791-e7ee-5b25-b090-9874fcf091b3",
+      "source": {
+        "title": "FCI · официальный стандарт №84",
+        "url": "https://www.fci.be/Nomenclature/Standards/084g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1b4a7bd7-c705-520c-b516-e6eb383e9010",
+      "text": "Голос бладхаунда в стандарте описан как глубокий, хотя сама собака не считается склонной постоянно лаять. Внушительное звучание и частота лая — разные особенности.",
+      "breedId": "dccbe791-e7ee-5b25-b090-9874fcf091b3",
+      "source": {
+        "title": "FCI · официальный стандарт №84",
+        "url": "https://www.fci.be/Nomenclature/Standards/084g06-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-73dab90e-ae85-5364-821d-e51c74dc3919",
+      "text": "Первой собакой, зарегистрированной Американским клубом собаководства, был английский сеттер по кличке Адонис. Этот факт отмечает официальный породный клуб США в своём пособии о породе.",
+      "breedId": "f8ae894d-b190-5f23-98b2-56455e7aaba0",
+      "source": {
+        "title": "English Setter Association of America — пособие о породе",
+        "url": "https://images.akc.org/judges/English_Setter.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-f174b5db-cf21-5914-84a3-0ef7c8a73fd9",
+      "text": "Названия «Лаверак» и «Льюэллин» связаны с заводчиками XIX века, повлиявшими на английского сеттера. Льюэллин развивал особенно известную рабочую линию; это не отдельная порода в классификации американского породного клуба.",
+      "breedId": "f8ae894d-b190-5f23-98b2-56455e7aaba0",
+      "source": {
+        "title": "English Setter Association of America — пособие о породе",
+        "url": "https://images.akc.org/judges/English_Setter.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-1ce630f7-1f9a-5292-9b33-4749d9ce4403",
+      "text": "Предков английских кокеров и спрингеров когда-то различали главным образом по размеру и работе. В одном помёте могли оказаться будущие кокеры для охоты на вальдшнепа и более крупные спрингеры для другой дичи.",
+      "breedId": "bd0eff7f-bb10-5798-b4ef-9770ccd4e8fa",
+      "source": {
+        "title": "AKC — история английского спрингер-спаниеля",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/english-springer-spaniel-history/"
+      }
+    },
+    {
+      "id": "ru-fact-ed34d928-0644-524d-a874-2d22d3b4a4fb",
+      "text": "Английский спрингер-спаниель Бастер получил медаль Дикин в 2003 году за поиск оружия и взрывчатки. До службы его взяли из приюта — выдающийся рабочий путь начался не с выставочной карьеры.",
+      "breedId": "bd0eff7f-bb10-5798-b4ef-9770ccd4e8fa",
+      "source": {
+        "title": "PDSA — Бастер, кавалер медали Дикин",
+        "url": "https://www.pdsa.org.uk/what-we-do/animal-awards-programme/pdsa-dickin-medal/buster"
+      }
+    },
+    {
+      "id": "ru-fact-f5e6f72d-7783-507b-8dd2-f543e1ff0d53",
+      "text": "Американский кокер-спаниель — самый маленький представитель спортивной группы AKC. Здесь «спортивная» означает традиционную группу подружейных пород, а не соревнования по послушанию или бегу.",
+      "breedId": "23b70baf-adf0-5dd0-ae5f-af8f7011a69f",
+      "source": {
+        "title": "FCI · официальный стандарт №167",
+        "url": "https://www.fci.be/Nomenclature/Standards/167g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-35a6b1e8-8a1c-5f2f-bd7a-5a8663256d84",
+      "text": "В 1952 году сенатор Ричард Никсон рассказал в телеобращении о подаренном семье кокер-спаниеле Чекерсе. История собаки стала настолько известной, что выступление вошло в историю как «речь о Чекерсе».",
+      "breedId": "23b70baf-adf0-5dd0-ae5f-af8f7011a69f",
+      "source": {
+        "title": "Richard Nixon Foundation — история Чекерса",
+        "url": "https://www.nixonfoundation.org/2008/09/vp-feeding-frenzies-started-in-1952/"
+      }
+    },
+    {
+      "id": "ru-fact-b7d353ad-760f-5184-a1d2-d3469fce93e0",
+      "text": "Пекинес по кличке Сунь Ятсен оказался среди трёх собак, переживших гибель «Титаника» в 1912 году. Двумя другими спасёнными собаками были померанские шпицы.",
+      "breedId": "f0a60ab1-3445-556a-b234-0ae308c397cc",
+      "source": {
+        "title": "AKC — собаки на «Титанике»",
+        "url": "https://www.akc.org/expert-advice/news/remembering-dogs-titanic/"
+      }
+    },
+    {
+      "id": "ru-fact-a4da4d5d-b60b-5005-8d51-8d6b0fb548b9",
+      "text": "По стандарту пекинес должен ощущаться неожиданно тяжёлым для своего небольшого размера. Речь идёт о крепком костяке и плотном сложении, а не о лишнем весе.",
+      "breedId": "f0a60ab1-3445-556a-b234-0ae308c397cc",
+      "source": {
+        "title": "FCI · официальный стандарт №207",
+        "url": "https://www.fci.be/Nomenclature/Standards/207g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-35dbb156-c2bc-5181-a1b3-14f93950e765",
+      "text": "Японских хинов нередко сравнивают с кошками: они могут облизывать лапы и тереть ими мордочку, словно умываясь. Ещё одна отмеченная AKC привычка — устраиваться на высоких местах, например на спинке дивана.",
+      "breedId": "b4f4438b-4068-5c9b-b648-2db082a7bb06",
+      "source": {
+        "title": "AKC — особенности японского хина",
+        "url": "https://www.akc.org/expert-advice/lifestyle/facts-japanese-chin/"
+      }
+    },
+    {
+      "id": "ru-fact-16fb02a5-ffea-5990-bb7e-748c17fc54fa",
+      "text": "При сёгуне Токугава Цунаёси, правившем в 1680–1709 годах, хинов держали во дворце Эдо как комнатных собак. Это конкретный эпизод придворной истории породы, приведённый в стандарте FCI.",
+      "breedId": "b4f4438b-4068-5c9b-b648-2db082a7bb06",
+      "source": {
+        "title": "FCI · официальный стандарт №206",
+        "url": "https://www.fci.be/Nomenclature/Standards/206g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-c2629a23-c820-5edb-80df-1fd97fa5df93",
+      "text": "В 1979 году бостон-терьер стал официальной собакой штата Массачусетс. Название породы и этот статус связаны с одним регионом США, где она сформировалась.",
+      "breedId": "2cfb5d46-8e91-5aa7-9cbe-3f4ae648f4f1",
+      "source": {
+        "title": "AKC — история бостон-терьера",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/boston-terrier-history/"
+      }
+    },
+    {
+      "id": "ru-fact-9b74aa8b-e42c-5dc6-88d5-31cedc1fb0dd",
+      "text": "Окрас бостон-терьера, называемый seal, при обычном освещении кажется чёрным. На солнце или при ярком свете в нём заметен красноватый отлив — это отдельный допустимый вариант окраса.",
+      "breedId": "2cfb5d46-8e91-5aa7-9cbe-3f4ae648f4f1",
+      "source": {
+        "title": "FCI · официальный стандарт №140",
+        "url": "https://www.fci.be/Nomenclature/Standards/140g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-133e368a-6ef1-557f-8f3a-84a1604bb2b4",
+      "text": "У бесшёрстной китайской хохлатой стандарт допускает отсутствие отдельных зубов и направленные вперёд клыки. К пуховой разновидности предъявляются другие требования к зубному ряду: особенности одной нельзя автоматически переносить на другую.",
+      "breedId": "5802bd86-d391-584e-8fce-5c84ea2a51df",
+      "source": {
+        "title": "FCI · официальный стандарт №288",
+        "url": "https://www.fci.be/Nomenclature/Standards/288g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-dd1abc3e-b297-5700-ad61-b7798230b4bb",
+      "text": "У китайской хохлатой необычно вытянутые и узкие «заячьи» лапы. Шерстяные «носочки» на них по стандарту ограничиваются пальцами и не должны подниматься выше запястий.",
+      "breedId": "5802bd86-d391-584e-8fce-5c84ea2a51df",
+      "source": {
+        "title": "FCI · официальный стандарт №288",
+        "url": "https://www.fci.be/Nomenclature/Standards/288g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-3a8b31a4-958c-5b37-8289-91d0f5dc0a24",
+      "text": "Ирландская гвардия получила первого ирландского вольфхаунда-талисмана в 1902 году. На церемониях такие собаки идут вместе с полком; это реальная многолетняя традиция, а не только изображение на эмблеме.",
+      "breedId": "fba26dec-f0b7-5707-8ab7-fbcf7902018d",
+      "source": {
+        "title": "Министерство обороны Великобритании — вольфхаунд-талисман Ирландской гвардии",
+        "url": "https://www.gov.uk/government/news/playful-pup-newest-recruit-to-irish-guards"
+      }
+    },
+    {
+      "id": "ru-fact-e5e7ed43-e612-5bdb-98cb-bced435e71ed",
+      "text": "Исторически ирландских вольфхаундов использовали не только против волков, как подсказывает название. В стандарте также перечислены олени и кабаны — крупная дичь, для которой требовались сила и скорость борзой.",
+      "breedId": "fba26dec-f0b7-5707-8ab7-fbcf7902018d",
+      "source": {
+        "title": "FCI · официальный стандарт №160",
+        "url": "https://www.fci.be/Nomenclature/Standards/160g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-be7a13d5-8fe1-55f4-aad4-e23decbaa922",
+      "text": "История австралийской пастушьей собаки восстановлена не полностью: ранние заводчики оставили мало записей. Стандарт FCI прямо отмечает разногласия о точном составе пород, участвовавших в её создании.",
+      "breedId": "82d37a18-317a-5e5b-89b3-67738ebae7b7",
+      "source": {
+        "title": "FCI — стандарт № 287: Австралийская пастушья собака",
+        "url": "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-09723063-1bf3-562d-9a7c-1d674149977c",
+      "text": "Австралийскую пастушью собаку называют хилером от английского heel — «пятка». При работе с непослушным скотом она направляет животных, прихватывая их за нижнюю часть ног; этот приём отражён и в описании породы FCI.",
+      "breedId": "82d37a18-317a-5e5b-89b3-67738ebae7b7",
+      "source": {
+        "title": "FCI — стандарт № 287: Австралийская пастушья собака",
+        "url": "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-73b2e2eb-73c0-5a47-84c1-19941680cace",
+      "text": "Австралийские пастушьи собаки бывают не только голубого окраса. Стандарт предусматривает также равномерный красный крап, причём крапчатым должен быть и подшёрсток: это не просто рыжая собака с несколькими пятнами.",
+      "breedId": "82d37a18-317a-5e5b-89b3-67738ebae7b7",
+      "source": {
+        "title": "FCI — стандарт № 287: Австралийская пастушья собака",
+        "url": "https://www.fci.be/Nomenclature/Standards/287g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-bd56642e-e2d5-52f6-afce-5c8837c8daa1",
+      "text": "Пуми сформировался в Венгрии в XVII–XVIII веках при скрещивании пули с привозными немецкими и французскими собаками терьерного типа. Поэтому сходство пуми с терьером имеет историческое объяснение, хотя FCI относит его к пастушьим породам.",
+      "breedId": "caab0cc7-afff-57c8-8842-bcd507a065bc",
+      "source": {
+        "title": "FCI — стандарт № 56: Пуми",
+        "url": "https://www.fci.be/Nomenclature/Standards/056g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-72f0a65c-ac5f-5281-8220-0fabb367197b",
+      "text": "Шерсть пуми собирается в упругие волнистые и кудрявые пряди длиной около 4–7 сантиметров. В отличие от шерсти пули, она по стандарту не должна образовывать длинные шнуры.",
+      "breedId": "caab0cc7-afff-57c8-8842-bcd507a065bc",
+      "source": {
+        "title": "FCI — стандарт № 56: Пуми",
+        "url": "https://www.fci.be/Nomenclature/Standards/056g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-53b8c508-d009-53fd-9512-40f946db09d8",
+      "text": "Серые пуми обычно рождаются чёрными и постепенно светлеют. Поэтому цвет взрослой собаки может заметно отличаться от окраса, который был у неё в раннем щенячестве.",
+      "breedId": "caab0cc7-afff-57c8-8842-bcd507a065bc",
+      "source": {
+        "title": "FCI — стандарт № 56: Пуми",
+        "url": "https://www.fci.be/Nomenclature/Standards/056g01-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-de83c184-708a-5c47-852f-22cba37cf0d6",
+      "text": "Энтлебухер — самый маленький из четырёх швейцарских зенненхундов. Его ближайшие родственники по этой группе — аппенцеллер, бернский и большой швейцарский зенненхунды.",
+      "breedId": "19515067-045d-5b49-9f06-1b6bb7737c02",
+      "source": {
+        "title": "FCI — стандарт № 47: Энтлебухер-зенненхунд",
+        "url": "https://www.fci.be/Nomenclature/Standards/047g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-4ed3b243-67d6-5a4e-b9f0-63f3d5e25222",
+      "text": "В 1913 году на выставке в Лангентале профессору Альберту Хайму показали четырёх энтлебухеров. По итогам оценки их записали в швейцарскую племенную книгу как четвёртую самостоятельную породу зенненхундов.",
+      "breedId": "19515067-045d-5b49-9f06-1b6bb7737c02",
+      "source": {
+        "title": "FCI — стандарт № 47: Энтлебухер-зенненхунд",
+        "url": "https://www.fci.be/Nomenclature/Standards/047g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-bc2c5afc-8369-5aa3-9e73-874b9d17a5d9",
+      "text": "У энтлебухеров встречаются и длинные хвосты, и врождённая куцехвостость. Стандарт считает оба варианта равноценными: короткий хвост у такой собаки не обязательно означает купирование.",
+      "breedId": "19515067-045d-5b49-9f06-1b6bb7737c02",
+      "source": {
+        "title": "FCI — стандарт № 47: Энтлебухер-зенненхунд",
+        "url": "https://www.fci.be/Nomenclature/Standards/047g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-d398c621-f570-50ae-98e7-9d786e1540dd",
+      "text": "Название «ховаварт» восходит к средневерхненемецким словам Hova — «двор, усадьба» и Wart — «страж». В имени породы сохранилась её давняя роль при хозяйстве.",
+      "breedId": "59167b3a-5257-55ef-ad09-06c839f0e24f",
+      "source": {
+        "title": "FCI — стандарт № 190: Ховаварт",
+        "url": "https://www.fci.be/Nomenclature/Standards/190g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-d7dc5006-241e-5a13-be2a-ba41fe3bcf99",
+      "text": "Современного ховаварта восстанавливали с 1922 года, отбирая подходящих фермерских собак. В работе также использовали немецких овчарок, ньюфаундлендов, леонбергеров и другие породы — это была целенаправленная реконструкция старого рабочего типа.",
+      "breedId": "59167b3a-5257-55ef-ad09-06c839f0e24f",
+      "source": {
+        "title": "FCI — стандарт № 190: Ховаварт",
+        "url": "https://www.fci.be/Nomenclature/Standards/190g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-c62b8874-9cd5-55af-8f96-01f1405e7b7b",
+      "text": "У ховаварта три признанных окраса: чёрный, чёрно-подпалый и палевый. Светлая собака и чёрная с подпалинами могут выглядеть очень по-разному, оставаясь представителями одной породы.",
+      "breedId": "59167b3a-5257-55ef-ad09-06c839f0e24f",
+      "source": {
+        "title": "FCI — стандарт № 190: Ховаварт",
+        "url": "https://www.fci.be/Nomenclature/Standards/190g02-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-90399afb-9cab-5986-98ba-b17d31018f9b",
+      "text": "Вельштерьера использовали на охоте не только на лису, но также на барсука и выдру. Его рабочее прошлое связано с разной добычей, а не с одной узкой специализацией.",
+      "breedId": "f73fc1aa-4723-5120-b0ba-8e90b417aa87",
+      "source": {
+        "title": "FCI — стандарт № 78: Вельштерьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/078g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-d7b24278-3790-542c-98cb-33f3a4f9028f",
+      "text": "В 1960-е годы в Белом доме жил вельштерьер Чарли — любимец детей президента Кеннеди, Кэролайн и Джона. Историю этой собаки приводит Американский клуб собаководства.",
+      "breedId": "f73fc1aa-4723-5120-b0ba-8e90b417aa87",
+      "source": {
+        "title": "AKC — история вельштерьера",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/welsh-terrier-history/"
+      }
+    },
+    {
+      "id": "ru-fact-7642d732-7a25-57ab-ad2c-726aece50651",
+      "text": "Жёсткая шуба вельштерьера не должна состоять из одного слоя. Стандарт описывает густую прилегающую проволокообразную шерсть и считает отсутствие подшёрстка нежелательным: борода — лишь самая заметная часть этого покрова.",
+      "breedId": "f73fc1aa-4723-5120-b0ba-8e90b417aa87",
+      "source": {
+        "title": "FCI — стандарт № 78: Вельштерьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/078g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-ac310a6e-92c8-5a3b-b4a9-a5901b5ec803",
+      "text": "Стоячие и висячие уши когда-то встречались внутри одной породы. В Великобритании в 1964 году собак с висячими ушами выделили как норфолк-терьеров, а название «норвич» осталось за собаками со стоячими ушами.",
+      "breedId": "0909095e-f0c0-556d-9399-00f9b4bcf4cc",
+      "source": {
+        "title": "FCI — стандарт № 72: Норвич-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/072g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-b94e9332-dc56-5aad-a78f-c503911e4137",
+      "text": "В стандарте норвич-терьера специально указано, что шрамы, полученные на честной работе, не должны наказываться при оценке. Это редкое напоминание о рабочем прошлом прямо среди выставочных требований.",
+      "breedId": "0909095e-f0c0-556d-9399-00f9b4bcf4cc",
+      "source": {
+        "title": "FCI — стандарт № 72: Норвич-терьер",
+        "url": "https://www.fci.be/Nomenclature/Standards/072g03-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-731d0e51-2296-5aa6-a7d3-740c9b98ae5a",
+      "text": "В конце XIX века маленькие терьеры, которых называли кембриджскими или трампингтонскими, были популярны у студентов Кембриджа. Из этого круга собак происходили предки современного норвич-терьера.",
+      "breedId": "0909095e-f0c0-556d-9399-00f9b4bcf4cc",
+      "source": {
+        "title": "VCA Animal Hospitals — норвич-терьер",
+        "url": "https://vcahospitals.com/know-your-pet/norwich-terrier"
+      }
+    },
+    {
+      "id": "ru-fact-d15a1c6f-3756-53d6-87d7-391221cef9da",
+      "text": "Финский шпиц помогает охотнику обнаружить птицу на дереве, обозначая её лаем. Его голос — рабочий инструмент, по которому человек узнаёт, где собака нашла дичь.",
+      "breedId": "0f363d55-fcbc-5afa-873f-f662d8c6f65d",
+      "source": {
+        "title": "FCI — стандарт № 49: Финский шпиц",
+        "url": "https://www.fci.be/Nomenclature/Standards/049g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-10a21852-da11-50e6-9d31-72574f4334fa",
+      "text": "В 1979 году финского шпица назвали национальной собакой Финляндии. Стандарт подчёркивает его значение не только как охотничьей породы, но и как части финской культуры.",
+      "breedId": "0f363d55-fcbc-5afa-873f-f662d8c6f65d",
+      "source": {
+        "title": "FCI — стандарт № 49: Финский шпиц",
+        "url": "https://www.fci.be/Nomenclature/Standards/049g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-8a52b2d8-139d-5d1d-a3e3-40b01a47daec",
+      "text": "В 2006 году Финский кинологический клуб и РКФ договорились объединить карело-финскую лайку и финского шпица под стандартом финского шпица. Поэтому в русскоязычной истории породы встречаются оба названия.",
+      "breedId": "0f363d55-fcbc-5afa-873f-f662d8c6f65d",
+      "source": {
+        "title": "FCI — стандарт № 49: Финский шпиц",
+        "url": "https://www.fci.be/Nomenclature/Standards/049g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-d12ddd75-d860-5c3b-8cb1-7b15af4db16a",
+      "text": "Норвежское название elghund означает «лосиная собака». Оно указывает на традиционную добычу породы; английское звучание elk не стоит автоматически переносить на другие виды оленей.",
+      "breedId": "918234fb-dc66-5dde-91bd-a818ffb6bb42",
+      "source": {
+        "title": "AKC — особенности норвежского элкхунда",
+        "url": "https://www.akc.org/expert-advice/lifestyle/norwegian-elkhound-facts/"
+      }
+    },
+    {
+      "id": "ru-fact-f2bdfa7f-56de-54d5-a6c3-cbf42e6fca6c",
+      "text": "Серый цвет элкхунда создают чёрные кончики остевых волос. Подшёрсток светлее, а на участках без тёмных кончиков общий тон выглядит заметно более светлым.",
+      "breedId": "918234fb-dc66-5dde-91bd-a818ffb6bb42",
+      "source": {
+        "title": "FCI — стандарт № 242: Норвежский серый элкхунд",
+        "url": "https://www.fci.be/Nomenclature/Standards/242g05-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-26a7b5a1-a595-55bf-a6e5-3cf69a19ee35",
+      "text": "На норвежских выставках серых и чёрных элкхундов впервые разделили по классам в 1900 году. Сегодня это самостоятельные породы; карточка серого элкхунда не описывает размеры и особенности чёрного.",
+      "breedId": "918234fb-dc66-5dde-91bd-a818ffb6bb42",
+      "source": {
+        "title": "AKC — история норвежского элкхунда",
+        "url": "https://www.akc.org/expert-advice/dog-breeds/norwegian-elkhound-history/"
+      }
+    },
+    {
+      "id": "ru-fact-77ebb0e2-87af-5089-a8cb-5db7bc432f01",
+      "text": "Предки лаготто доставали водоплавающую дичь в болотистых низинах Романьи. По мере осушения болот собаки сменили занятие: из водяных ретриверов они постепенно превратились в специалистов по поиску трюфелей.",
+      "breedId": "7f8602c7-8cd0-503b-9893-bdd1fe4b286b",
+      "source": {
+        "title": "FCI — стандарт № 298: Лаготто-романьоло",
+        "url": "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-a9edb813-4c38-5f60-9cf0-710b73af9ad6",
+      "text": "При отборе лаготто для поиска трюфелей стремились ослабить интерес к преследованию дичи. Это помогало собаке не отвлекаться от запаха подземного гриба; речь идёт о направлении селекции, а не о гарантии поведения каждого питомца.",
+      "breedId": "7f8602c7-8cd0-503b-9893-bdd1fe4b286b",
+      "source": {
+        "title": "FCI — стандарт № 298: Лаготто-романьоло",
+        "url": "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-4827b81f-7f71-5252-a60d-0c1fff657f9f",
+      "text": "Плотные кудри лаготто покрывают почти всё тело, а под ними находится хорошо заметный подшёрсток. Стандарт отмечает водостойкость обоих слоёв — наследие прежней работы породы в воде.",
+      "breedId": "7f8602c7-8cd0-503b-9893-bdd1fe4b286b",
+      "source": {
+        "title": "FCI — стандарт № 298: Лаготто-романьоло",
+        "url": "https://www.fci.be/Nomenclature/Standards/298g08-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-eabf3e69-b922-5229-803f-e8dd079f365d",
+      "text": "Длинная шерсть лхаса-апсо сформировалась не только ради украшения. Стандарт связывает её с защитой от тибетских ветров и пыли, а волосы над глазами — с защитой от яркого света.",
+      "breedId": "78f698a3-0640-5771-9572-5e6359adfe19",
+      "source": {
+        "title": "FCI — стандарт № 227: Лхаса-апсо",
+        "url": "https://www.fci.be/Nomenclature/Standards/227g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-91b58a11-5102-5fd5-9ff4-b6850b6d8cf7",
+      "text": "Первые лхаса-апсо в Великобритании в 1920-е годы были известны как лхасские терьеры. Позднее их отделили от тибетского терьера; породный клуб появился в 1933 году. Современный лхаса-апсо относится к собакам-компаньонам.",
+      "breedId": "78f698a3-0640-5771-9572-5e6359adfe19",
+      "source": {
+        "title": "FCI — стандарт № 227: Лхаса-апсо",
+        "url": "https://www.fci.be/Nomenclature/Standards/227g09-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-28f99002-b007-5664-bc71-340be183ade0",
+      "text": "В тибетских монастырях маленькие лхаса-апсо служили настороженными часовыми: их задачей было заметить незнакомца и поднять тревогу. Небольшой размер не мешал выполнять такую сигнальную работу.",
+      "breedId": "78f698a3-0640-5771-9572-5e6359adfe19",
+      "source": {
+        "title": "VCA Animal Hospitals — лхаса-апсо",
+        "url": "https://vcahospitals.com/legion-road/know-your-pet/dog-breeds/lhasa-apso"
+      }
+    },
+    {
+      "id": "ru-fact-6b7045bd-fbc9-564c-8ad0-058277fbd249",
+      "text": "Расцвет популярности левреток при европейских дворах пришёлся на эпоху Возрождения. Их изображения встречаются на картинах итальянских и других европейских мастеров — история породы сохранилась и в живописи.",
+      "breedId": "666d0aea-d3e6-5f52-b7bb-25b66f7267f6",
+      "source": {
+        "title": "FCI — стандарт № 200: Левретка",
+        "url": "https://www.fci.be/Nomenclature/Standards/200g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-d3c85491-43cd-5f24-a24a-7e2dcf566491",
+      "text": "Рысь левретки описана в стандарте как пружинистая, с заметным подъёмом и сгибанием передних ног в пястях. На галопе эта лёгкая декоративная на вид собака проявляет настоящую быстроту борзой.",
+      "breedId": "666d0aea-d3e6-5f52-b7bb-25b66f7267f6",
+      "source": {
+        "title": "FCI — стандарт № 200: Левретка",
+        "url": "https://www.fci.be/Nomenclature/Standards/200g10-en.pdf"
+      }
+    },
+    {
+      "id": "ru-fact-7028f2be-4aae-5fa2-872b-889dd7830bcd",
+      "text": "Среди окрасов левретки FCI допускает изабелловый — бледный кремово-бежевый, наряду с чёрным и серым. По этому стандарту белые отметины разрешены только на груди и лапах.",
+      "breedId": "666d0aea-d3e6-5f52-b7bb-25b66f7267f6",
+      "source": {
+        "title": "FCI — стандарт № 200: Левретка",
+        "url": "https://www.fci.be/Nomenclature/Standards/200g10-en.pdf"
       }
     }
   ]
